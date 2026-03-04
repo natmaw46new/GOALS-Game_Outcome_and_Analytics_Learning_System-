@@ -1,0 +1,47 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,league,season
+1,Julen Agirrezabala,es ESP,GK,Athletic Club,22,2000,4,2,238,2.6,4,1.51,12,8,66.7,1,0,1,1,50.0,0,0,0,0,,la_liga,2023-2024
+2,Kepa Arrizabalaga,es ESP,GK,Real Madrid,28,1994,14,13,1198,13.3,9,0.68,39,30,76.9,10,2,1,4,30.8,0,0,0,0,,la_liga,2023-2024
+3,Augusto Batalla,ar ARG,GK,Granada,27,1996,17,17,1530,17.0,28,1.65,87,59,67.8,3,4,10,3,17.6,0,0,0,0,,la_liga,2023-2024
+4,Yassine Bounou,ma MAR,GK,Sevilla,32,1991,1,1,90,1.0,2,2.0,3,1,33.3,0,0,1,0,0.0,0,0,0,0,,la_liga,2023-2024
+5,Claudio Bravo,cl CHI,GK,Real Betis,40,1983,7,7,630,7.0,5,0.71,22,17,77.3,3,4,0,2,28.6,0,0,0,0,,la_liga,2023-2024
+6,Dani Cárdenas,es ESP,GK,Rayo Vallecano,26,1997,1,1,90,1.0,1,1.0,1,0,0.0,0,0,1,0,0.0,0,0,0,0,,la_liga,2023-2024
+7,Thibaut Courtois,be BEL,GK,Real Madrid,31,1992,4,4,332,3.7,0,0.0,16,15,100.0,3,1,0,0,0.0,0,0,0,0,,la_liga,2023-2024
+8,Cristian,es ESP,GK,Valencia,25,1998,1,0,57,0.6,1,1.58,3,2,66.7,0,0,0,0,,0,0,0,0,,la_liga,2023-2024
+9,Iván Cuéllar,es ESP,GK,Mallorca,39,1984,1,1,90,1.0,1,1.0,6,5,83.3,1,0,0,0,0.0,0,0,0,0,,la_liga,2023-2024
+10,Stole Dimitrievski,mk MKD,GK,Rayo Vallecano,29,1993,37,37,3330,37.0,47,1.27,151,106,69.5,8,14,15,9,24.3,2,1,1,0,50.0,la_liga,2023-2024
+11,Marko Dmitrović,rs SRB,GK,Sevilla,31,1992,13,13,1170,13.0,25,1.92,67,44,65.7,2,2,9,2,15.4,2,2,0,0,0.0,la_liga,2023-2024
+12,Jaume Doménech,es ESP,GK,Valencia,32,1990,2,1,79,0.9,3,3.42,12,9,75.0,0,0,1,0,0.0,0,0,0,0,,la_liga,2023-2024
+13,Aarón Escandell,es ESP,GK,Las Palmas,27,1995,2,1,153,1.7,3,1.76,4,1,25.0,0,0,1,0,0.0,0,0,0,0,,la_liga,2023-2024
+14,Aitor Fernández,es ESP,GK,Osasuna,32,1991,7,6,551,6.1,9,1.47,19,11,57.9,0,2,4,1,16.7,1,1,0,0,0.0,la_liga,2023-2024
+15,Raúl Fernández,es ESP,GK,Granada,35,1988,4,4,280,3.1,11,3.54,19,8,42.1,1,0,3,0,0.0,1,0,0,1,,la_liga,2023-2024
+16,Fernando,es ESP,GK,Almería,33,1990,4,4,360,4.0,10,2.5,23,13,56.5,1,1,2,0,0.0,0,0,0,0,,la_liga,2023-2024
+17,André Ferreira,pt POR,GK,Granada,27,1996,15,14,1340,14.9,29,1.95,75,49,65.3,0,5,9,0,0.0,3,3,0,0,0.0,la_liga,2023-2024
+18,Daniel Fuzato,br BRA,GK,Getafe,26,1997,1,0,7,0.1,2,25.71,2,0,0.0,0,0,0,0,,0,0,0,0,,la_liga,2023-2024
+19,Paulo Gazzaniga,ar ARG,GK,Girona,31,1992,38,38,3420,38.0,46,1.21,164,123,75.0,25,6,7,9,23.7,7,5,1,1,16.7,la_liga,2023-2024
+20,David Gil,es ESP,GK,Cádiz,29,1994,5,4,372,4.1,8,1.94,25,17,68.0,0,3,1,1,25.0,0,0,0,0,,la_liga,2023-2024
+21,Dominik Greif,sk SVK,GK,Mallorca,26,1997,1,1,90,1.0,0,0.0,4,4,100.0,0,1,0,1,100.0,0,0,0,0,,la_liga,2023-2024
+22,Vicente Guaita,es ESP,GK,Celta Vigo,36,1987,27,26,2403,26.7,39,1.46,118,83,70.3,8,7,11,2,7.7,5,4,0,1,0.0,la_liga,2023-2024
+23,Sergio Herrera,es ESP,GK,Osasuna,30,1993,32,32,2869,31.9,47,1.47,131,85,64.1,12,7,13,9,28.1,1,0,1,0,100.0,la_liga,2023-2024
+24,Filip Jørgensen,dk DEN,GK,Villarreal,21,2002,36,36,3240,36.0,63,1.75,201,143,71.1,13,10,13,3,8.3,5,5,0,0,0.0,la_liga,2023-2024
+25,Jeremías Ledesma,ar ARG,GK,Cádiz,30,1993,34,34,3048,33.9,47,1.39,150,105,70.0,6,12,16,7,20.6,2,2,0,0,0.0,la_liga,2023-2024
+26,Andriy Lunin,ua UKR,GK,Real Madrid,24,1999,21,21,1890,21.0,17,0.81,64,48,75.0,16,5,0,4,19.0,1,1,0,0,0.0,la_liga,2023-2024
+27,Giorgi Mamardashvili,ge GEO,GK,Valencia,22,2000,37,37,3284,36.5,41,1.12,140,104,72.9,13,10,14,9,24.3,6,3,3,0,50.0,la_liga,2023-2024
+28,Diego Mariño,es ESP,GK,Almería,33,1990,1,1,90,1.0,2,2.0,2,2,100.0,0,0,1,0,0.0,2,2,0,0,0.0,la_liga,2023-2024
+29,Unai Marrero,es ESP,GK,Real Sociedad,21,2001,2,1,142,1.6,3,1.9,5,3,60.0,0,0,1,0,0.0,1,1,0,0,0.0,la_liga,2023-2024
+30,Marc Martínez,es ESP,GK,Granada,33,1990,3,3,270,3.0,11,3.67,21,12,57.1,0,0,3,0,0.0,2,2,0,0,0.0,la_liga,2023-2024
+31,Luís Maximiano,pt POR,GK,Almería,24,1999,33,33,2970,33.0,63,1.91,171,112,65.5,2,11,20,3,9.1,7,4,1,2,20.0,la_liga,2023-2024
+32,Ørjan Nyland,no NOR,GK,Sevilla,32,1990,24,24,2160,24.0,27,1.13,103,79,76.7,8,9,7,5,20.8,3,3,0,0,0.0,la_liga,2023-2024
+33,Jan Oblak,si SVN,GK,Atlético Madrid,30,1993,38,38,3420,38.0,43,1.13,143,101,70.6,24,4,10,11,28.9,2,1,0,1,0.0,la_liga,2023-2024
+34,Jesús Owono,gq EQG,GK,Alavés,22,2001,4,4,360,4.0,8,2.0,24,16,66.7,1,2,1,1,25.0,0,0,0,0,,la_liga,2023-2024
+35,Iñaki Peña,es ESP,GK,Barcelona,24,1999,10,10,900,10.0,17,1.7,39,22,56.4,6,2,2,2,20.0,0,0,0,0,,la_liga,2023-2024
+36,Predrag Rajković,rs SRB,GK,Mallorca,27,1995,36,36,3240,36.0,43,1.19,136,98,71.3,7,15,14,5,13.9,5,4,1,0,20.0,la_liga,2023-2024
+37,Pepe Reina,es ESP,GK,Villarreal,40,1982,2,2,180,2.0,2,1.0,9,7,77.8,1,1,0,0,0.0,0,0,0,0,,la_liga,2023-2024
+38,Álex Remiro,es ESP,GK,Real Sociedad,28,1995,37,37,3275,36.4,36,0.99,126,95,75.4,16,12,9,13,35.1,6,5,1,0,16.7,la_liga,2023-2024
+39,Rui Silva,pt POR,GK,Real Betis,29,1994,28,28,2475,27.5,36,1.31,114,86,74.6,10,9,9,7,25.0,8,7,1,0,12.5,la_liga,2023-2024
+40,Unai Simón,es ESP,GK,Athletic Club,26,1997,36,36,3182,35.4,33,0.93,121,91,73.6,18,11,7,15,41.7,5,1,3,1,75.0,la_liga,2023-2024
+41,Antonio Sivera,es ESP,GK,Alavés,26,1996,34,34,3060,34.0,38,1.12,117,87,74.4,11,8,15,9,26.5,8,8,0,0,0.0,la_liga,2023-2024
+42,David Soria,es ESP,GK,Getafe,30,1993,38,38,3413,37.9,52,1.37,168,122,72.0,10,13,15,10,26.3,7,5,1,1,16.7,la_liga,2023-2024
+43,Marc-André ter Stegen,de GER,GK,Barcelona,31,1992,28,28,2520,28.0,27,0.96,100,75,75.0,20,5,3,12,42.9,2,2,0,0,0.0,la_liga,2023-2024
+44,Álvaro Vallés,es ESP,GK,Las Palmas,26,1997,37,37,3263,36.3,44,1.21,147,109,72.8,10,10,17,8,21.6,8,4,3,1,42.9,la_liga,2023-2024
+45,Fran Vieites,es ESP,GK,Real Betis,24,1999,4,3,315,3.5,4,1.14,18,14,77.8,1,2,0,1,33.3,0,0,0,0,,la_liga,2023-2024
+46,Iván Villar,es ESP,GK,Celta Vigo,26,1997,12,12,1014,11.3,18,1.6,42,27,61.9,2,4,6,0,0.0,3,2,1,0,33.3,la_liga,2023-2024
