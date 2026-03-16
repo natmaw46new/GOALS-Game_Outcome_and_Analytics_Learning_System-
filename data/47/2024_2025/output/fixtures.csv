@@ -1,0 +1,381 @@
+match_id,round,page_url,match_date,finished,home_team,home_id,away_team,away_id
+4506263,1,/matches/fulham-vs-manchester-united/3cqww9#4506263,2024-08-16T19:00:00Z,True,Manchester United,10260,Fulham,9879
+4506264,1,/matches/liverpool-vs-ipswich-town/2ugv0q#4506264,2024-08-17T11:30:00Z,True,Ipswich Town,9902,Liverpool,8650
+4506265,1,/matches/wolverhampton-wanderers-vs-arsenal/2t3bl7#4506265,2024-08-17T14:00:00Z,True,Arsenal,9825,Wolverhampton Wanderers,8602
+4506266,1,/matches/everton-vs-brighton-hove-albion/2y16fs#4506266,2024-08-17T14:00:00Z,True,Everton,8668,Brighton & Hove Albion,10204
+4506267,1,/matches/southampton-vs-newcastle-united/2weqvy#4506267,2024-08-17T14:00:00Z,True,Newcastle United,10261,Southampton,8466
+4506268,1,/matches/afc-bournemouth-vs-nottingham-forest/2y4tjb#4506268,2024-08-17T14:00:00Z,True,Nottingham Forest,10203,AFC Bournemouth,8678
+4506269,1,/matches/west-ham-united-vs-aston-villa/2yexzh#4506269,2024-08-17T16:30:00Z,True,West Ham United,8654,Aston Villa,10252
+4506270,1,/matches/crystal-palace-vs-brentford/38a4jj#4506270,2024-08-18T13:00:00Z,True,Brentford,9937,Crystal Palace,9826
+4506271,1,/matches/chelsea-vs-manchester-city/2d55kw#4506271,2024-08-18T15:30:00Z,True,Chelsea,8455,Manchester City,8456
+4506272,1,/matches/leicester-city-vs-tottenham-hotspur/2buxqa#4506272,2024-08-19T19:00:00Z,True,Leicester City,8197,Tottenham Hotspur,8586
+4506468,10,/matches/arsenal-vs-newcastle-united/3c42by#4506468,2024-11-02T12:30:00Z,True,Newcastle United,10261,Arsenal,9825
+4506463,10,/matches/manchester-city-vs-afc-bournemouth/2feiv3#4506463,2024-11-02T15:00:00Z,True,AFC Bournemouth,8678,Manchester City,8456
+4506465,10,/matches/leicester-city-vs-ipswich-town/2pixek#4506465,2024-11-02T15:00:00Z,True,Ipswich Town,9902,Leicester City,8197
+4506466,10,/matches/liverpool-vs-brighton-hove-albion/2xtwfj#4506466,2024-11-02T15:00:00Z,True,Liverpool,8650,Brighton & Hove Albion,10204
+4506469,10,/matches/west-ham-united-vs-nottingham-forest/2xv42z#4506469,2024-11-02T15:00:00Z,True,Nottingham Forest,10203,West Ham United,8654
+4506470,10,/matches/southampton-vs-everton/2feiut#4506470,2024-11-02T15:00:00Z,True,Southampton,8466,Everton,8668
+4506472,10,/matches/wolverhampton-wanderers-vs-crystal-palace/2t3pt4#4506472,2024-11-02T17:30:00Z,True,Wolverhampton Wanderers,8602,Crystal Palace,9826
+4506471,10,/matches/tottenham-hotspur-vs-aston-villa/2xnfpj#4506471,2024-11-03T14:00:00Z,True,Tottenham Hotspur,8586,Aston Villa,10252
+4506467,10,/matches/chelsea-vs-manchester-united/2w9xj5#4506467,2024-11-03T16:30:00Z,True,Manchester United,10260,Chelsea,8455
+4506464,10,/matches/fulham-vs-brentford/38wlut#4506464,2024-11-04T20:00:00Z,True,Fulham,9879,Brentford,9937
+4506473,11,/matches/afc-bournemouth-vs-brentford/2v5yfp#4506473,2024-11-09T15:00:00Z,True,Brentford,9937,AFC Bournemouth,8678
+4506476,11,/matches/crystal-palace-vs-fulham/37llbg#4506476,2024-11-09T15:00:00Z,True,Crystal Palace,9826,Fulham,9879
+4506481,11,/matches/west-ham-united-vs-everton/2hby1v#4506481,2024-11-09T15:00:00Z,True,West Ham United,8654,Everton,8668
+4506482,11,/matches/southampton-vs-wolverhampton-wanderers/2eqbw8#4506482,2024-11-09T15:00:00Z,True,Wolverhampton Wanderers,8602,Southampton,8466
+4506474,11,/matches/manchester-city-vs-brighton-hove-albion/2vnwg2#4506474,2024-11-09T17:30:00Z,True,Brighton & Hove Albion,10204,Manchester City,8456
+4506477,11,/matches/liverpool-vs-aston-villa/2ydbmv#4506477,2024-11-09T20:00:00Z,True,Liverpool,8650,Aston Villa,10252
+4506478,11,/matches/leicester-city-vs-manchester-united/2tf58q#4506478,2024-11-10T14:00:00Z,True,Manchester United,10260,Leicester City,8197
+4506479,11,/matches/nottingham-forest-vs-newcastle-united/3gocct#4506479,2024-11-10T14:00:00Z,True,Nottingham Forest,10203,Newcastle United,10261
+4506480,11,/matches/tottenham-hotspur-vs-ipswich-town/2trgfe#4506480,2024-11-10T14:00:00Z,True,Tottenham Hotspur,8586,Ipswich Town,9902
+4506475,11,/matches/chelsea-vs-arsenal/2rhhrp#4506475,2024-11-10T16:30:00Z,True,Chelsea,8455,Arsenal,9825
+4506539,12,/matches/leicester-city-vs-chelsea/2ajzrp#4506539,2024-11-23T12:30:00Z,True,Leicester City,8197,Chelsea,8455
+4506533,12,/matches/afc-bournemouth-vs-brighton-hove-albion/2y583t#4506533,2024-11-23T15:00:00Z,True,AFC Bournemouth,8678,Brighton & Hove Albion,10204
+4506534,12,/matches/arsenal-vs-nottingham-forest/3bf4p3#4506534,2024-11-23T15:00:00Z,True,Arsenal,9825,Nottingham Forest,10203
+4506535,12,/matches/crystal-palace-vs-aston-villa/3c0md7#4506535,2024-11-23T15:00:00Z,True,Aston Villa,10252,Crystal Palace,9826
+4506536,12,/matches/everton-vs-brentford/2v1yu4#4506536,2024-11-23T15:00:00Z,True,Everton,8668,Brentford,9937
+4506537,12,/matches/wolverhampton-wanderers-vs-fulham/2tookg#4506537,2024-11-23T15:00:00Z,True,Fulham,9879,Wolverhampton Wanderers,8602
+4506540,12,/matches/manchester-city-vs-tottenham-hotspur/2egtpx#4506540,2024-11-23T17:30:00Z,True,Manchester City,8456,Tottenham Hotspur,8586
+4506542,12,/matches/southampton-vs-liverpool/2f7wzk#4506542,2024-11-24T14:00:00Z,True,Southampton,8466,Liverpool,8650
+4506538,12,/matches/ipswich-town-vs-manchester-united/3d0uj5#4506538,2024-11-24T16:30:00Z,True,Ipswich Town,9902,Manchester United,10260
+4506541,12,/matches/west-ham-united-vs-newcastle-united/2yilb8#4506541,2024-11-25T20:00:00Z,True,Newcastle United,10261,West Ham United,8654
+4506411,13,/matches/southampton-vs-brighton-hove-albion/2vrwh7#4506411,2024-11-29T20:00:00Z,True,Brighton & Hove Albion,10204,Southampton,8466
+4506408,13,/matches/leicester-city-vs-brentford/2pwipa#4506408,2024-11-30T15:00:00Z,True,Brentford,9937,Leicester City,8197
+4506414,13,/matches/crystal-palace-vs-newcastle-united/3c4hty#4506414,2024-11-30T15:00:00Z,True,Crystal Palace,9826,Newcastle United,10261
+4506419,13,/matches/ipswich-town-vs-nottingham-forest/3cc90b#4506419,2024-11-30T15:00:00Z,True,Nottingham Forest,10203,Ipswich Town,9902
+4506422,13,/matches/wolverhampton-wanderers-vs-afc-bournemouth/2gwdd2#4506422,2024-11-30T15:00:00Z,True,Wolverhampton Wanderers,8602,AFC Bournemouth,8678
+4506421,13,/matches/west-ham-united-vs-arsenal/2tnw09#4506421,2024-11-30T17:30:00Z,True,West Ham United,8654,Arsenal,9825
+4506412,13,/matches/chelsea-vs-aston-villa/2w6q11#4506412,2024-12-01T13:30:00Z,True,Chelsea,8455,Aston Villa,10252
+4506418,13,/matches/everton-vs-manchester-united/2ynv4k#4506418,2024-12-01T13:30:00Z,True,Manchester United,10260,Everton,8668
+4506420,13,/matches/tottenham-hotspur-vs-fulham/2tici0#4506420,2024-12-01T13:30:00Z,True,Tottenham Hotspur,8586,Fulham,9879
+4506416,13,/matches/manchester-city-vs-liverpool/2f48yd#4506416,2024-12-01T16:00:00Z,True,Liverpool,8650,Manchester City,8456
+4506428,14,/matches/crystal-palace-vs-ipswich-town/37vb92#4506428,2024-12-03T19:30:00Z,True,Ipswich Town,9902,Crystal Palace,9826
+4506429,14,/matches/leicester-city-vs-west-ham-united/2cjg6k#4506429,2024-12-03T20:15:00Z,True,Leicester City,8197,West Ham United,8654
+4506426,14,/matches/wolverhampton-wanderers-vs-everton/2gso21#4506426,2024-12-04T19:30:00Z,True,Everton,8668,Wolverhampton Wanderers,8602
+4506430,14,/matches/manchester-city-vs-nottingham-forest/2vni1q#4506430,2024-12-04T19:30:00Z,True,Manchester City,8456,Nottingham Forest,10203
+4506431,14,/matches/liverpool-vs-newcastle-united/2ygyxm#4506431,2024-12-04T19:30:00Z,True,Newcastle United,10261,Liverpool,8650
+4506432,14,/matches/chelsea-vs-southampton/2d8s47#4506432,2024-12-04T19:30:00Z,True,Southampton,8466,Chelsea,8455
+4506424,14,/matches/arsenal-vs-manchester-united/3c3mu0#4506424,2024-12-04T20:15:00Z,True,Arsenal,9825,Manchester United,10260
+4506425,14,/matches/brentford-vs-aston-villa/3dciw4#4506425,2024-12-04T20:15:00Z,True,Aston Villa,10252,Brentford,9937
+4506427,14,/matches/fulham-vs-brighton-hove-albion/3c2rvp#4506427,2024-12-05T19:30:00Z,True,Fulham,9879,Brighton & Hove Albion,10204
+4506423,14,/matches/tottenham-hotspur-vs-afc-bournemouth/2gqg4e#4506423,2024-12-05T20:15:00Z,True,AFC Bournemouth,8678,Tottenham Hotspur,8586
+4506433,15,/matches/southampton-vs-aston-villa/2wb4v7#4506433,2024-12-07T15:00:00Z,True,Aston Villa,10252,Southampton,8466
+4506434,15,/matches/brentford-vs-newcastle-united/3dgf4m#4506434,2024-12-07T15:00:00Z,True,Brentford,9937,Newcastle United,10261
+4506435,15,/matches/manchester-city-vs-crystal-palace/2ri9zd#4506435,2024-12-07T15:00:00Z,True,Crystal Palace,9826,Manchester City,8456
+4506440,15,/matches/nottingham-forest-vs-manchester-united/3gnwkc#4506440,2024-12-07T17:30:00Z,True,Manchester United,10260,Nottingham Forest,10203
+4506437,15,/matches/arsenal-vs-fulham/37l643#4506437,2024-12-08T14:00:00Z,True,Fulham,9879,Arsenal,9825
+4506438,15,/matches/afc-bournemouth-vs-ipswich-town/2us05c#4506438,2024-12-08T14:00:00Z,True,Ipswich Town,9902,AFC Bournemouth,8678
+4506439,15,/matches/leicester-city-vs-brighton-hove-albion/2st0wm#4506439,2024-12-08T14:00:00Z,True,Leicester City,8197,Brighton & Hove Albion,10204
+4506441,15,/matches/chelsea-vs-tottenham-hotspur/2eggkj#4506441,2024-12-08T16:30:00Z,True,Tottenham Hotspur,8586,Chelsea,8455
+4506442,15,/matches/wolverhampton-wanderers-vs-west-ham-united/2gnhk2#4506442,2024-12-09T20:00:00Z,True,West Ham United,8654,Wolverhampton Wanderers,8602
+4506436,15,/matches/liverpool-vs-everton/2hagld#4506436,2025-02-12T19:30:00Z,True,Everton,8668,Liverpool,8650
+4506444,16,/matches/everton-vs-arsenal/2ttfpg#4506444,2024-12-14T15:00:00Z,True,Arsenal,9825,Everton,8668
+4506447,16,/matches/liverpool-vs-fulham/2u7pyg#4506447,2024-12-14T15:00:00Z,True,Liverpool,8650,Fulham,9879
+4506449,16,/matches/leicester-city-vs-newcastle-united/2tfjhg#4506449,2024-12-14T15:00:00Z,True,Newcastle United,10261,Leicester City,8197
+4506452,16,/matches/wolverhampton-wanderers-vs-ipswich-town/2txss2#4506452,2024-12-14T15:00:00Z,True,Wolverhampton Wanderers,8602,Ipswich Town,9902
+4506450,16,/matches/nottingham-forest-vs-aston-villa/3gke9k#4506450,2024-12-14T17:30:00Z,True,Nottingham Forest,10203,Aston Villa,10252
+4506445,16,/matches/crystal-palace-vs-brighton-hove-albion/3bfzlv#4506445,2024-12-15T14:00:00Z,True,Brighton & Hove Albion,10204,Crystal Palace,9826
+4506448,16,/matches/manchester-city-vs-manchester-united/2wabz2#4506448,2024-12-15T16:30:00Z,True,Manchester City,8456,Manchester United,10260
+4506446,16,/matches/chelsea-vs-brentford/2spihp#4506446,2024-12-15T19:00:00Z,True,Chelsea,8455,Brentford,9937
+4506451,16,/matches/southampton-vs-tottenham-hotspur/2ekh9c#4506451,2024-12-15T19:00:00Z,True,Southampton,8466,Tottenham Hotspur,8586
+4506443,16,/matches/west-ham-united-vs-afc-bournemouth/2hfnrc#4506443,2024-12-16T20:00:00Z,True,AFC Bournemouth,8678,West Ham United,8654
+4506453,17,/matches/manchester-city-vs-aston-villa/2w74gq#4506453,2024-12-21T12:30:00Z,True,Aston Villa,10252,Manchester City,8456
+4506454,17,/matches/brentford-vs-nottingham-forest/3crchb#4506454,2024-12-21T15:00:00Z,True,Brentford,9937,Nottingham Forest,10203
+4506458,17,/matches/ipswich-town-vs-newcastle-united/3d1a38#4506458,2024-12-21T15:00:00Z,True,Ipswich Town,9902,Newcastle United,10261
+4506462,17,/matches/west-ham-united-vs-brighton-hove-albion/2xvimt#4506462,2024-12-21T15:00:00Z,True,West Ham United,8654,Brighton & Hove Albion,10204
+4506455,17,/matches/arsenal-vs-crystal-palace/36ytc8#4506455,2024-12-21T17:30:00Z,True,Crystal Palace,9826,Arsenal,9825
+4506456,17,/matches/chelsea-vs-everton/2fahgy#4506456,2024-12-22T14:00:00Z,True,Everton,8668,Chelsea,8455
+4506457,17,/matches/southampton-vs-fulham/2s70ac#4506457,2024-12-22T14:00:00Z,True,Fulham,9879,Southampton,8466
+4506459,17,/matches/leicester-city-vs-wolverhampton-wanderers/2c0p1m#4506459,2024-12-22T14:00:00Z,True,Leicester City,8197,Wolverhampton Wanderers,8602
+4506460,17,/matches/afc-bournemouth-vs-manchester-united/2yrx85#4506460,2024-12-22T14:00:00Z,True,Manchester United,10260,AFC Bournemouth,8678
+4506461,17,/matches/tottenham-hotspur-vs-liverpool/2gg3ek#4506461,2024-12-22T16:30:00Z,True,Tottenham Hotspur,8586,Liverpool,8650
+4506488,18,/matches/manchester-city-vs-everton/2fauom#4506488,2024-12-26T12:30:00Z,True,Manchester City,8456,Everton,8668
+4506483,18,/matches/afc-bournemouth-vs-crystal-palace/2txspy#4506483,2024-12-26T15:00:00Z,True,AFC Bournemouth,8678,Crystal Palace,9826
+4506486,18,/matches/chelsea-vs-fulham/2s2omg#4506486,2024-12-26T15:00:00Z,True,Chelsea,8455,Fulham,9879
+4506489,18,/matches/aston-villa-vs-newcastle-united/3h9v0m#4506489,2024-12-26T15:00:00Z,True,Newcastle United,10261,Aston Villa,10252
+4506490,18,/matches/tottenham-hotspur-vs-nottingham-forest/2x3odl#4506490,2024-12-26T15:00:00Z,True,Nottingham Forest,10203,Tottenham Hotspur,8586
+4506491,18,/matches/southampton-vs-west-ham-united/2f9dtq#4506491,2024-12-26T15:00:00Z,True,Southampton,8466,West Ham United,8654
+4506492,18,/matches/wolverhampton-wanderers-vs-manchester-united/2xx4sz#4506492,2024-12-26T17:30:00Z,True,Wolverhampton Wanderers,8602,Manchester United,10260
+4506487,18,/matches/leicester-city-vs-liverpool/2ci06a#4506487,2024-12-26T20:00:00Z,True,Liverpool,8650,Leicester City,8197
+4506485,18,/matches/brentford-vs-brighton-hove-albion/3crs0s#4506485,2024-12-27T19:30:00Z,True,Brighton & Hove Albion,10204,Brentford,9937
+4506484,18,/matches/arsenal-vs-ipswich-town/37uw12#4506484,2024-12-27T20:15:00Z,True,Arsenal,9825,Ipswich Town,9902
+4506499,19,/matches/leicester-city-vs-manchester-city/2akcmb#4506499,2024-12-29T14:30:00Z,True,Leicester City,8197,Manchester City,8456
+4506495,19,/matches/southampton-vs-crystal-palace/2rm738#4506495,2024-12-29T15:00:00Z,True,Crystal Palace,9826,Southampton,8466
+4506496,19,/matches/everton-vs-nottingham-forest/2y0rvk#4506496,2024-12-29T15:00:00Z,True,Everton,8668,Nottingham Forest,10203
+4506497,19,/matches/afc-bournemouth-vs-fulham/2uiul6#4506497,2024-12-29T15:00:00Z,True,Fulham,9879,AFC Bournemouth,8678
+4506501,19,/matches/tottenham-hotspur-vs-wolverhampton-wanderers/2fydv8#4506501,2024-12-29T15:00:00Z,True,Tottenham Hotspur,8586,Wolverhampton Wanderers,8602
+4506502,19,/matches/liverpool-vs-west-ham-united/2h59kq#4506502,2024-12-29T17:15:00Z,True,West Ham United,8654,Liverpool,8650
+4506493,19,/matches/brighton-hove-albion-vs-aston-villa/3gku1s#4506493,2024-12-30T19:45:00Z,True,Aston Villa,10252,Brighton & Hove Albion,10204
+4506498,19,/matches/chelsea-vs-ipswich-town/2sbq85#4506498,2024-12-30T19:45:00Z,True,Ipswich Town,9902,Chelsea,8455
+4506500,19,/matches/manchester-united-vs-newcastle-united/3hddo2#4506500,2024-12-30T20:00:00Z,True,Manchester United,10260,Newcastle United,10261
+4506494,19,/matches/arsenal-vs-brentford/389pak#4506494,2025-01-01T17:30:00Z,True,Brentford,9937,Arsenal,9825
+4506275,2,/matches/brighton-hove-albion-vs-manchester-united/3goccs#4506275,2024-08-24T11:30:00Z,True,Brighton & Hove Albion,10204,Manchester United,10260
+4506276,2,/matches/west-ham-united-vs-crystal-palace/2toa9m#4506276,2024-08-24T14:00:00Z,True,Crystal Palace,9826,West Ham United,8654
+4506277,2,/matches/leicester-city-vs-fulham/2pa0dp#4506277,2024-08-24T14:00:00Z,True,Fulham,9879,Leicester City,8197
+4506279,2,/matches/manchester-city-vs-ipswich-town/2sc4e3#4506279,2024-08-24T14:00:00Z,True,Manchester City,8456,Ipswich Town,9902
+4506280,2,/matches/southampton-vs-nottingham-forest/2vri2l#4506280,2024-08-24T14:00:00Z,True,Southampton,8466,Nottingham Forest,10203
+4506281,2,/matches/tottenham-hotspur-vs-everton/2gmqxt#4506281,2024-08-24T14:00:00Z,True,Tottenham Hotspur,8586,Everton,8668
+4506274,2,/matches/arsenal-vs-aston-villa/3c06vg#4506274,2024-08-24T16:30:00Z,True,Aston Villa,10252,Arsenal,9825
+4506273,2,/matches/afc-bournemouth-vs-newcastle-united/2ysbu8#4506273,2024-08-25T13:00:00Z,True,AFC Bournemouth,8678,Newcastle United,10261
+4506282,2,/matches/chelsea-vs-wolverhampton-wanderers/2emb2j#4506282,2024-08-25T13:00:00Z,True,Wolverhampton Wanderers,8602,Chelsea,8455
+4506278,2,/matches/liverpool-vs-brentford/2uusjv#4506278,2024-08-25T15:30:00Z,True,Liverpool,8650,Brentford,9937
+4506511,20,/matches/tottenham-hotspur-vs-newcastle-united/2xr2ka#4506511,2025-01-04T12:30:00Z,True,Tottenham Hotspur,8586,Newcastle United,10261
+4506503,20,/matches/everton-vs-afc-bournemouth/2hkv2h#4506503,2025-01-04T15:00:00Z,True,AFC Bournemouth,8678,Everton,8668
+4506504,20,/matches/leicester-city-vs-aston-villa/2tbzby#4506504,2025-01-04T15:00:00Z,True,Aston Villa,10252,Leicester City,8197
+4506506,20,/matches/chelsea-vs-crystal-palace/2rhvvj#4506506,2025-01-04T15:00:00Z,True,Crystal Palace,9826,Chelsea,8455
+4506509,20,/matches/manchester-city-vs-west-ham-united/2f5prf#4506509,2025-01-04T15:00:00Z,True,Manchester City,8456,West Ham United,8654
+4506510,20,/matches/southampton-vs-brentford/2stunb#4506510,2025-01-04T15:00:00Z,True,Southampton,8466,Brentford,9937
+4506505,20,/matches/arsenal-vs-brighton-hove-albion/3bfk5g#4506505,2025-01-04T17:30:00Z,True,Brighton & Hove Albion,10204,Arsenal,9825
+4506507,20,/matches/fulham-vs-ipswich-town/38hr4t#4506507,2025-01-05T14:00:00Z,True,Fulham,9879,Ipswich Town,9902
+4506508,20,/matches/liverpool-vs-manchester-united/2ygkcb#4506508,2025-01-05T16:30:00Z,True,Liverpool,8650,Manchester United,10260
+4506512,20,/matches/wolverhampton-wanderers-vs-nottingham-forest/2xa4gh#4506512,2025-01-06T20:00:00Z,True,Wolverhampton Wanderers,8602,Nottingham Forest,10203
+4506514,21,/matches/manchester-city-vs-brentford/2spwom#4506514,2025-01-14T19:30:00Z,True,Brentford,9937,Manchester City,8456
+4506520,21,/matches/chelsea-vs-afc-bournemouth/2fe5n5#4506520,2025-01-14T19:30:00Z,True,Chelsea,8455,AFC Bournemouth,8678
+4506519,21,/matches/west-ham-united-vs-fulham/2u9b5i#4506519,2025-01-14T19:30:00Z,True,West Ham United,8654,Fulham,9879
+4506518,21,/matches/liverpool-vs-nottingham-forest/2xthvt#4506518,2025-01-14T20:00:00Z,True,Nottingham Forest,10203,Liverpool,8650
+4506515,21,/matches/everton-vs-aston-villa/2ykmb4#4506515,2025-01-15T19:30:00Z,True,Everton,8668,Aston Villa,10252
+4506517,21,/matches/leicester-city-vs-crystal-palace/2opi6m#4506517,2025-01-15T19:30:00Z,True,Leicester City,8197,Crystal Palace,9826
+4506521,21,/matches/wolverhampton-wanderers-vs-newcastle-united/2xxjcy#4506521,2025-01-15T19:30:00Z,True,Newcastle United,10261,Wolverhampton Wanderers,8602
+4506513,21,/matches/tottenham-hotspur-vs-arsenal/2sx06r#4506513,2025-01-15T20:00:00Z,True,Arsenal,9825,Tottenham Hotspur,8586
+4506516,21,/matches/ipswich-town-vs-brighton-hove-albion/3ccoit#4506516,2025-01-16T19:30:00Z,True,Ipswich Town,9902,Brighton & Hove Albion,10204
+4506522,21,/matches/southampton-vs-manchester-united/2wecfr#4506522,2025-01-16T20:00:00Z,True,Manchester United,10260,Southampton,8466
+4506530,22,/matches/afc-bournemouth-vs-newcastle-united/2ysbu8#4506530,2025-01-18T12:30:00Z,True,Newcastle United,10261,AFC Bournemouth,8678
+4506524,22,/matches/liverpool-vs-brentford/2uusjv#4506524,2025-01-18T15:00:00Z,True,Brentford,9937,Liverpool,8650
+4506528,22,/matches/leicester-city-vs-fulham/2pa0dp#4506528,2025-01-18T15:00:00Z,True,Leicester City,8197,Fulham,9879
+4506532,22,/matches/west-ham-united-vs-crystal-palace/2toa9m#4506532,2025-01-18T15:00:00Z,True,West Ham United,8654,Crystal Palace,9826
+4506523,22,/matches/arsenal-vs-aston-villa/3c06vg#4506523,2025-01-18T17:30:00Z,True,Arsenal,9825,Aston Villa,10252
+4506526,22,/matches/tottenham-hotspur-vs-everton/2gmqxt#4506526,2025-01-19T14:00:00Z,True,Everton,8668,Tottenham Hotspur,8586
+4506529,22,/matches/brighton-hove-albion-vs-manchester-united/3goccs#4506529,2025-01-19T14:00:00Z,True,Manchester United,10260,Brighton & Hove Albion,10204
+4506531,22,/matches/southampton-vs-nottingham-forest/2vri2l#4506531,2025-01-19T14:00:00Z,True,Nottingham Forest,10203,Southampton,8466
+4506527,22,/matches/manchester-city-vs-ipswich-town/2sc4e3#4506527,2025-01-19T16:30:00Z,True,Ipswich Town,9902,Manchester City,8456
+4506525,22,/matches/chelsea-vs-wolverhampton-wanderers/2emb2j#4506525,2025-01-20T20:00:00Z,True,Chelsea,8455,Wolverhampton Wanderers,8602
+4506603,23,/matches/afc-bournemouth-vs-nottingham-forest/2y4tjb#4506603,2025-01-25T15:00:00Z,True,AFC Bournemouth,8678,Nottingham Forest,10203
+4506605,23,/matches/everton-vs-brighton-hove-albion/2y16fs#4506605,2025-01-25T15:00:00Z,True,Brighton & Hove Albion,10204,Everton,8668
+4506608,23,/matches/liverpool-vs-ipswich-town/2ugv0q#4506608,2025-01-25T15:00:00Z,True,Liverpool,8650,Ipswich Town,9902
+4506610,23,/matches/southampton-vs-newcastle-united/2weqvy#4506610,2025-01-25T15:00:00Z,True,Southampton,8466,Newcastle United,10261
+4506612,23,/matches/wolverhampton-wanderers-vs-arsenal/2t3bl7#4506612,2025-01-25T15:00:00Z,True,Wolverhampton Wanderers,8602,Arsenal,9825
+4506609,23,/matches/chelsea-vs-manchester-city/2d55kw#4506609,2025-01-25T17:30:00Z,True,Manchester City,8456,Chelsea,8455
+4506606,23,/matches/crystal-palace-vs-brentford/38a4jj#4506606,2025-01-26T14:00:00Z,True,Crystal Palace,9826,Brentford,9937
+4506611,23,/matches/leicester-city-vs-tottenham-hotspur/2buxqa#4506611,2025-01-26T14:00:00Z,True,Tottenham Hotspur,8586,Leicester City,8197
+4506604,23,/matches/west-ham-united-vs-aston-villa/2yexzh#4506604,2025-01-26T16:30:00Z,True,Aston Villa,10252,West Ham United,8654
+4506607,23,/matches/fulham-vs-manchester-united/3cqww9#4506607,2025-01-26T19:00:00Z,True,Fulham,9879,Manchester United,10260
+4506621,24,/matches/nottingham-forest-vs-brighton-hove-albion/3fzdi8#4506621,2025-02-01T12:30:00Z,True,Nottingham Forest,10203,Brighton & Hove Albion,10204
+4506613,24,/matches/liverpool-vs-afc-bournemouth/2he69q#4506613,2025-02-01T15:00:00Z,True,AFC Bournemouth,8678,Liverpool,8650
+4506617,24,/matches/leicester-city-vs-everton/2coib1#4506617,2025-02-01T15:00:00Z,True,Everton,8668,Leicester City,8197
+4506618,24,/matches/southampton-vs-ipswich-town/2sg232#4506618,2025-02-01T15:00:00Z,True,Ipswich Town,9902,Southampton,8466
+4506620,24,/matches/fulham-vs-newcastle-united/3crcfp#4506620,2025-02-01T15:00:00Z,True,Newcastle United,10261,Fulham,9879
+4506622,24,/matches/wolverhampton-wanderers-vs-aston-villa/2xtwe7#4506622,2025-02-01T17:30:00Z,True,Wolverhampton Wanderers,8602,Aston Villa,10252
+4506615,24,/matches/tottenham-hotspur-vs-brentford/2u5c8b#4506615,2025-02-02T14:00:00Z,True,Brentford,9937,Tottenham Hotspur,8586
+4506619,24,/matches/crystal-palace-vs-manchester-united/3c42bz#4506619,2025-02-02T14:00:00Z,True,Manchester United,10260,Crystal Palace,9826
+4506614,24,/matches/manchester-city-vs-arsenal/2rhvvi#4506614,2025-02-02T16:30:00Z,True,Arsenal,9825,Manchester City,8456
+4506616,24,/matches/chelsea-vs-west-ham-united/2f5ck5#4506616,2025-02-03T20:00:00Z,True,Chelsea,8455,West Ham United,8654
+4506624,25,/matches/chelsea-vs-brighton-hove-albion/2vni1p#4506624,2025-02-14T20:00:00Z,True,Brighton & Hove Albion,10204,Chelsea,8455
+4506627,25,/matches/leicester-city-vs-arsenal/2op49y#4506627,2025-02-15T12:30:00Z,True,Leicester City,8197,Arsenal,9825
+4506623,25,/matches/ipswich-town-vs-aston-villa/3cxe3h#4506623,2025-02-15T15:00:00Z,True,Aston Villa,10252,Ipswich Town,9902
+4506626,25,/matches/fulham-vs-nottingham-forest/3c2cdu#4506626,2025-02-15T15:00:00Z,True,Fulham,9879,Nottingham Forest,10203
+4506629,25,/matches/manchester-city-vs-newcastle-united/2waqez#4506629,2025-02-15T15:00:00Z,True,Manchester City,8456,Newcastle United,10261
+4506630,25,/matches/southampton-vs-afc-bournemouth/2fi742#4506630,2025-02-15T15:00:00Z,True,Southampton,8466,AFC Bournemouth,8678
+4506632,25,/matches/west-ham-united-vs-brentford/2uwdxd#4506632,2025-02-15T15:00:00Z,True,West Ham United,8654,Brentford,9937
+4506625,25,/matches/everton-vs-crystal-palace/2tttz7#4506625,2025-02-15T17:30:00Z,True,Crystal Palace,9826,Everton,8668
+4506628,25,/matches/wolverhampton-wanderers-vs-liverpool/2gm0as#4506628,2025-02-16T14:00:00Z,True,Liverpool,8650,Wolverhampton Wanderers,8602
+4506631,25,/matches/tottenham-hotspur-vs-manchester-united/2xqo0r#4506631,2025-02-16T16:30:00Z,True,Tottenham Hotspur,8586,Manchester United,10260
+4506639,26,/matches/leicester-city-vs-brentford/2pwipa#4506639,2025-02-21T20:00:00Z,True,Leicester City,8197,Brentford,9937
+4506636,26,/matches/everton-vs-manchester-united/2ynv4k#4506636,2025-02-22T12:30:00Z,True,Everton,8668,Manchester United,10260
+4506633,26,/matches/wolverhampton-wanderers-vs-afc-bournemouth/2gwdd2#4506633,2025-02-22T15:00:00Z,True,AFC Bournemouth,8678,Wolverhampton Wanderers,8602
+4506634,26,/matches/west-ham-united-vs-arsenal/2tnw09#4506634,2025-02-22T15:00:00Z,True,Arsenal,9825,West Ham United,8654
+4506637,26,/matches/crystal-palace-vs-fulham/37llbg#4506637,2025-02-22T15:00:00Z,True,Fulham,9879,Crystal Palace,9826
+4506638,26,/matches/tottenham-hotspur-vs-ipswich-town/2trgfe#4506638,2025-02-22T15:00:00Z,True,Ipswich Town,9902,Tottenham Hotspur,8586
+4506642,26,/matches/southampton-vs-brighton-hove-albion/2vrwh7#4506642,2025-02-22T15:00:00Z,True,Southampton,8466,Brighton & Hove Albion,10204
+4506635,26,/matches/chelsea-vs-aston-villa/2w6q11#4506635,2025-02-22T17:30:00Z,True,Aston Villa,10252,Chelsea,8455
+4506641,26,/matches/nottingham-forest-vs-newcastle-united/3gocct#4506641,2025-02-23T14:00:00Z,True,Newcastle United,10261,Nottingham Forest,10203
+4506640,26,/matches/manchester-city-vs-liverpool/2f48yd#4506640,2025-02-23T16:30:00Z,True,Manchester City,8456,Liverpool,8650
+4506334,27,/matches/afc-bournemouth-vs-brighton-hove-albion/2y583t#4506334,2025-02-25T19:30:00Z,True,Brighton & Hove Albion,10204,AFC Bournemouth,8678
+4506339,27,/matches/crystal-palace-vs-aston-villa/3c0md7#4506339,2025-02-25T19:30:00Z,True,Crystal Palace,9826,Aston Villa,10252
+4506338,27,/matches/wolverhampton-wanderers-vs-fulham/2tookg#4506338,2025-02-25T19:30:00Z,True,Wolverhampton Wanderers,8602,Fulham,9879
+4506340,27,/matches/chelsea-vs-southampton/2d8s47#4506340,2025-02-25T20:15:00Z,True,Chelsea,8455,Southampton,8466
+4506333,27,/matches/everton-vs-brentford/2v1yu4#4506333,2025-02-26T19:30:00Z,True,Brentford,9937,Everton,8668
+4506342,27,/matches/ipswich-town-vs-manchester-united/3d0uj5#4506342,2025-02-26T19:30:00Z,True,Manchester United,10260,Ipswich Town,9902
+4506335,27,/matches/arsenal-vs-nottingham-forest/3bf4p3#4506335,2025-02-26T19:30:00Z,True,Nottingham Forest,10203,Arsenal,9825
+4506336,27,/matches/manchester-city-vs-tottenham-hotspur/2egtpx#4506336,2025-02-26T19:30:00Z,True,Tottenham Hotspur,8586,Manchester City,8456
+4506341,27,/matches/liverpool-vs-newcastle-united/2ygyxm#4506341,2025-02-26T20:15:00Z,True,Liverpool,8650,Newcastle United,10261
+4506337,27,/matches/leicester-city-vs-west-ham-united/2cjg6k#4506337,2025-02-27T20:00:00Z,True,West Ham United,8654,Leicester City,8197
+4506349,28,/matches/manchester-city-vs-nottingham-forest/2vni1q#4506349,2025-03-08T12:30:00Z,True,Nottingham Forest,10203,Manchester City,8456
+4506344,28,/matches/fulham-vs-brighton-hove-albion/3c2rvp#4506344,2025-03-08T15:00:00Z,True,Brighton & Hove Albion,10204,Fulham,9879
+4506346,28,/matches/crystal-palace-vs-ipswich-town/37vb92#4506346,2025-03-08T15:00:00Z,True,Crystal Palace,9826,Ipswich Town,9902
+4506347,28,/matches/southampton-vs-liverpool/2f7wzk#4506347,2025-03-08T15:00:00Z,True,Liverpool,8650,Southampton,8466
+4506343,28,/matches/brentford-vs-aston-villa/3dciw4#4506343,2025-03-08T17:30:00Z,True,Brentford,9937,Aston Villa,10252
+4506352,28,/matches/wolverhampton-wanderers-vs-everton/2gso21#4506352,2025-03-08T20:00:00Z,True,Wolverhampton Wanderers,8602,Everton,8668
+4506345,28,/matches/leicester-city-vs-chelsea/2ajzrp#4506345,2025-03-09T14:00:00Z,True,Chelsea,8455,Leicester City,8197
+4506350,28,/matches/tottenham-hotspur-vs-afc-bournemouth/2gqg4e#4506350,2025-03-09T14:00:00Z,True,Tottenham Hotspur,8586,AFC Bournemouth,8678
+4506348,28,/matches/arsenal-vs-manchester-united/3c3mu0#4506348,2025-03-09T16:30:00Z,True,Manchester United,10260,Arsenal,9825
+4506351,28,/matches/west-ham-united-vs-newcastle-united/2yilb8#4506351,2025-03-10T20:00:00Z,True,West Ham United,8654,Newcastle United,10261
+4506355,29,/matches/liverpool-vs-aston-villa/2ydbmv#4506355,2025-02-19T19:30:00Z,True,Aston Villa,10252,Liverpool,8650
+4506356,29,/matches/west-ham-united-vs-everton/2hby1v#4506356,2025-03-15T15:00:00Z,True,Everton,8668,West Ham United,8654
+4506358,29,/matches/ipswich-town-vs-nottingham-forest/3cc90b#4506358,2025-03-15T15:00:00Z,True,Ipswich Town,9902,Nottingham Forest,10203
+4506362,29,/matches/southampton-vs-wolverhampton-wanderers/2eqbw8#4506362,2025-03-15T15:00:00Z,True,Southampton,8466,Wolverhampton Wanderers,8602
+4506360,29,/matches/manchester-city-vs-brighton-hove-albion/2vnwg2#4506360,2025-03-15T15:00:01Z,True,Manchester City,8456,Brighton & Hove Albion,10204
+4506353,29,/matches/afc-bournemouth-vs-brentford/2v5yfp#4506353,2025-03-15T17:30:00Z,True,AFC Bournemouth,8678,Brentford,9937
+4506354,29,/matches/chelsea-vs-arsenal/2rhhrp#4506354,2025-03-16T13:30:00Z,True,Arsenal,9825,Chelsea,8455
+4506357,29,/matches/tottenham-hotspur-vs-fulham/2tici0#4506357,2025-03-16T13:30:00Z,True,Fulham,9879,Tottenham Hotspur,8586
+4506359,29,/matches/leicester-city-vs-manchester-united/2tf58q#4506359,2025-03-16T19:00:00Z,True,Leicester City,8197,Manchester United,10260
+4506361,29,/matches/crystal-palace-vs-newcastle-united/3c4hty#4506361,2025-04-16T18:30:00Z,True,Newcastle United,10261,Crystal Palace,9826
+4506283,3,/matches/arsenal-vs-brighton-hove-albion/3bfk5g#4506283,2024-08-31T11:30:00Z,True,Arsenal,9825,Brighton & Hove Albion,10204
+4506284,3,/matches/southampton-vs-brentford/2stunb#4506284,2024-08-31T14:00:00Z,True,Brentford,9937,Southampton,8466
+4506286,3,/matches/everton-vs-afc-bournemouth/2hkv2h#4506286,2024-08-31T14:00:00Z,True,Everton,8668,AFC Bournemouth,8678
+4506287,3,/matches/fulham-vs-ipswich-town/38hr4t#4506287,2024-08-31T14:00:00Z,True,Ipswich Town,9902,Fulham,9879
+4506288,3,/matches/leicester-city-vs-aston-villa/2tbzby#4506288,2024-08-31T14:00:00Z,True,Leicester City,8197,Aston Villa,10252
+4506291,3,/matches/wolverhampton-wanderers-vs-nottingham-forest/2xa4gh#4506291,2024-08-31T14:00:00Z,True,Nottingham Forest,10203,Wolverhampton Wanderers,8602
+4506292,3,/matches/manchester-city-vs-west-ham-united/2f5prf#4506292,2024-08-31T16:30:00Z,True,West Ham United,8654,Manchester City,8456
+4506285,3,/matches/chelsea-vs-crystal-palace/2rhvvj#4506285,2024-09-01T12:30:00Z,True,Chelsea,8455,Crystal Palace,9826
+4506290,3,/matches/tottenham-hotspur-vs-newcastle-united/2xr2ka#4506290,2024-09-01T12:30:00Z,True,Newcastle United,10261,Tottenham Hotspur,8586
+4506289,3,/matches/liverpool-vs-manchester-united/2ygkcb#4506289,2024-09-01T15:00:00Z,True,Manchester United,10260,Liverpool,8650
+4506364,30,/matches/arsenal-vs-fulham/37l643#4506364,2025-04-01T18:45:00Z,True,Arsenal,9825,Fulham,9879
+4506367,30,/matches/wolverhampton-wanderers-vs-west-ham-united/2gnhk2#4506367,2025-04-01T18:45:00Z,True,Wolverhampton Wanderers,8602,West Ham United,8654
+4506366,30,/matches/nottingham-forest-vs-manchester-united/3gnwkc#4506366,2025-04-01T19:00:00Z,True,Nottingham Forest,10203,Manchester United,10260
+4506363,30,/matches/afc-bournemouth-vs-ipswich-town/2us05c#4506363,2025-04-02T18:45:00Z,True,AFC Bournemouth,8678,Ipswich Town,9902
+4506365,30,/matches/brighton-hove-albion-vs-aston-villa/3gku1s#4506365,2025-04-02T18:45:00Z,True,Brighton & Hove Albion,10204,Aston Villa,10252
+4506369,30,/matches/leicester-city-vs-manchester-city/2akcmb#4506369,2025-04-02T18:45:00Z,True,Manchester City,8456,Leicester City,8197
+4506370,30,/matches/brentford-vs-newcastle-united/3dgf4m#4506370,2025-04-02T18:45:00Z,True,Newcastle United,10261,Brentford,9937
+4506371,30,/matches/southampton-vs-crystal-palace/2rm738#4506371,2025-04-02T18:45:00Z,True,Southampton,8466,Crystal Palace,9826
+4506372,30,/matches/liverpool-vs-everton/2hagld#4506372,2025-04-02T19:00:00Z,True,Liverpool,8650,Everton,8668
+4506368,30,/matches/chelsea-vs-tottenham-hotspur/2eggkj#4506368,2025-04-03T19:00:00Z,True,Chelsea,8455,Tottenham Hotspur,8586
+4506376,31,/matches/everton-vs-arsenal/2ttfpg#4506376,2025-04-05T11:30:00Z,True,Everton,8668,Arsenal,9825
+4506375,31,/matches/crystal-palace-vs-brighton-hove-albion/3bfzlv#4506375,2025-04-05T14:00:00Z,True,Crystal Palace,9826,Brighton & Hove Albion,10204
+4506378,31,/matches/wolverhampton-wanderers-vs-ipswich-town/2txss2#4506378,2025-04-05T14:00:00Z,True,Ipswich Town,9902,Wolverhampton Wanderers,8602
+4506382,31,/matches/west-ham-united-vs-afc-bournemouth/2hfnrc#4506382,2025-04-05T14:00:00Z,True,West Ham United,8654,AFC Bournemouth,8678
+4506373,31,/matches/nottingham-forest-vs-aston-villa/3gke9k#4506373,2025-04-05T16:30:00Z,True,Aston Villa,10252,Nottingham Forest,10203
+4506374,31,/matches/chelsea-vs-brentford/2spihp#4506374,2025-04-06T13:00:00Z,True,Brentford,9937,Chelsea,8455
+4506377,31,/matches/liverpool-vs-fulham/2u7pyg#4506377,2025-04-06T13:00:00Z,True,Fulham,9879,Liverpool,8650
+4506381,31,/matches/southampton-vs-tottenham-hotspur/2ekh9c#4506381,2025-04-06T13:00:00Z,True,Tottenham Hotspur,8586,Southampton,8466
+4506380,31,/matches/manchester-city-vs-manchester-united/2wabz2#4506380,2025-04-06T15:30:00Z,True,Manchester United,10260,Manchester City,8456
+4506379,31,/matches/leicester-city-vs-newcastle-united/2tfjhg#4506379,2025-04-07T19:00:00Z,True,Leicester City,8197,Newcastle United,10261
+4506388,32,/matches/manchester-city-vs-crystal-palace/2ri9zd#4506388,2025-04-12T11:30:00Z,True,Manchester City,8456,Crystal Palace,9826
+4506385,32,/matches/leicester-city-vs-brighton-hove-albion/2st0wm#4506385,2025-04-12T14:00:00Z,True,Brighton & Hove Albion,10204,Leicester City,8197
+4506390,32,/matches/everton-vs-nottingham-forest/2y0rvk#4506390,2025-04-12T14:00:00Z,True,Nottingham Forest,10203,Everton,8668
+4506391,32,/matches/southampton-vs-aston-villa/2wb4v7#4506391,2025-04-12T14:00:00Z,True,Southampton,8466,Aston Villa,10252
+4506384,32,/matches/arsenal-vs-brentford/389pak#4506384,2025-04-12T16:30:00Z,True,Arsenal,9825,Brentford,9937
+4506386,32,/matches/chelsea-vs-ipswich-town/2sbq85#4506386,2025-04-13T13:00:00Z,True,Chelsea,8455,Ipswich Town,9902
+4506387,32,/matches/liverpool-vs-west-ham-united/2h59kq#4506387,2025-04-13T13:00:00Z,True,Liverpool,8650,West Ham United,8654
+4506392,32,/matches/tottenham-hotspur-vs-wolverhampton-wanderers/2fydv8#4506392,2025-04-13T13:00:00Z,True,Wolverhampton Wanderers,8602,Tottenham Hotspur,8586
+4506389,32,/matches/manchester-united-vs-newcastle-united/3hddo2#4506389,2025-04-13T15:30:00Z,True,Newcastle United,10261,Manchester United,10260
+4506383,32,/matches/afc-bournemouth-vs-fulham/2uiul6#4506383,2025-04-14T19:00:00Z,True,AFC Bournemouth,8678,Fulham,9879
+4506544,33,/matches/brentford-vs-brighton-hove-albion/3crs0s#4506544,2025-04-19T14:00:00Z,True,Brentford,9937,Brighton & Hove Albion,10204
+4506545,33,/matches/afc-bournemouth-vs-crystal-palace/2txspy#4506545,2025-04-19T14:00:00Z,True,Crystal Palace,9826,AFC Bournemouth,8678
+4506546,33,/matches/manchester-city-vs-everton/2fauom#4506546,2025-04-19T14:00:00Z,True,Everton,8668,Manchester City,8456
+4506552,33,/matches/southampton-vs-west-ham-united/2f9dtq#4506552,2025-04-19T14:00:00Z,True,West Ham United,8654,Southampton,8466
+4506543,33,/matches/aston-villa-vs-newcastle-united/3h9v0m#4506543,2025-04-19T16:30:00Z,True,Aston Villa,10252,Newcastle United,10261
+4506547,33,/matches/chelsea-vs-fulham/2s2omg#4506547,2025-04-20T13:00:00Z,True,Fulham,9879,Chelsea,8455
+4506548,33,/matches/arsenal-vs-ipswich-town/37uw12#4506548,2025-04-20T13:00:00Z,True,Ipswich Town,9902,Arsenal,9825
+4506550,33,/matches/wolverhampton-wanderers-vs-manchester-united/2xx4sz#4506550,2025-04-20T13:00:00Z,True,Manchester United,10260,Wolverhampton Wanderers,8602
+4506549,33,/matches/leicester-city-vs-liverpool/2ci06a#4506549,2025-04-20T15:30:00Z,True,Leicester City,8197,Liverpool,8650
+4506551,33,/matches/tottenham-hotspur-vs-nottingham-forest/2x3odl#4506551,2025-04-21T19:00:00Z,True,Tottenham Hotspur,8586,Nottingham Forest,10203
+4506558,34,/matches/manchester-city-vs-aston-villa/2w74gq#4506558,2025-04-22T19:00:00Z,True,Manchester City,8456,Aston Villa,10252
+4506554,34,/matches/arsenal-vs-crystal-palace/36ytc8#4506554,2025-04-23T19:00:00Z,True,Arsenal,9825,Crystal Palace,9826
+4506556,34,/matches/chelsea-vs-everton/2fahgy#4506556,2025-04-26T11:30:00Z,True,Chelsea,8455,Everton,8668
+4506555,34,/matches/west-ham-united-vs-brighton-hove-albion/2xvimt#4506555,2025-04-26T14:00:00Z,True,Brighton & Hove Albion,10204,West Ham United,8654
+4506559,34,/matches/ipswich-town-vs-newcastle-united/3d1a38#4506559,2025-04-26T14:00:00Z,True,Newcastle United,10261,Ipswich Town,9902
+4506561,34,/matches/southampton-vs-fulham/2s70ac#4506561,2025-04-26T14:00:00Z,True,Southampton,8466,Fulham,9879
+4506562,34,/matches/leicester-city-vs-wolverhampton-wanderers/2c0p1m#4506562,2025-04-26T14:00:00Z,True,Wolverhampton Wanderers,8602,Leicester City,8197
+4506553,34,/matches/afc-bournemouth-vs-manchester-united/2yrx85#4506553,2025-04-27T13:00:00Z,True,AFC Bournemouth,8678,Manchester United,10260
+4506557,34,/matches/tottenham-hotspur-vs-liverpool/2gg3ek#4506557,2025-04-27T15:30:00Z,True,Liverpool,8650,Tottenham Hotspur,8586
+4506560,34,/matches/brentford-vs-nottingham-forest/3crchb#4506560,2025-05-01T18:30:00Z,True,Nottingham Forest,10203,Brentford,9937
+4506570,35,/matches/manchester-city-vs-wolverhampton-wanderers/2emo8d#4506570,2025-05-02T19:00:00Z,True,Manchester City,8456,Wolverhampton Wanderers,8602
+4506564,35,/matches/fulham-vs-aston-villa/3cnglp#4506564,2025-05-03T11:30:00Z,True,Aston Villa,10252,Fulham,9879
+4506568,35,/matches/everton-vs-ipswich-town/2uo0th#4506568,2025-05-03T14:00:00Z,True,Everton,8668,Ipswich Town,9902
+4506569,35,/matches/leicester-city-vs-southampton/2anx5y#4506569,2025-05-03T14:00:00Z,True,Leicester City,8197,Southampton,8466
+4506563,35,/matches/afc-bournemouth-vs-arsenal/2txefx#4506563,2025-05-03T16:30:00Z,True,Arsenal,9825,AFC Bournemouth,8678
+4506565,35,/matches/brentford-vs-manchester-united/3dfzjk#4506565,2025-05-04T13:00:00Z,True,Brentford,9937,Manchester United,10260
+4506572,35,/matches/brighton-hove-albion-vs-newcastle-united/3gos5a#4506572,2025-05-04T13:00:00Z,True,Brighton & Hove Albion,10204,Newcastle United,10261
+4506571,35,/matches/tottenham-hotspur-vs-west-ham-united/2ghkm2#4506571,2025-05-04T13:00:00Z,True,West Ham United,8654,Tottenham Hotspur,8586
+4506566,35,/matches/chelsea-vs-liverpool/2f3vr7#4506566,2025-05-04T15:30:00Z,True,Chelsea,8455,Liverpool,8650
+4506567,35,/matches/crystal-palace-vs-nottingham-forest/3bfk5h#4506567,2025-05-05T19:00:00Z,True,Crystal Palace,9826,Nottingham Forest,10203
+4506574,36,/matches/everton-vs-fulham/2uevfp#4506574,2025-05-10T14:00:00Z,True,Fulham,9879,Everton,8668
+4506575,36,/matches/ipswich-town-vs-brentford/396dqp#4506575,2025-05-10T14:00:00Z,True,Ipswich Town,9902,Brentford,9937
+4506580,36,/matches/manchester-city-vs-southampton/2d9569#4506580,2025-05-10T14:00:00Z,True,Southampton,8466,Manchester City,8456
+4506582,36,/matches/wolverhampton-wanderers-vs-brighton-hove-albion/2xaiyv#4506582,2025-05-10T14:00:00Z,True,Wolverhampton Wanderers,8602,Brighton & Hove Albion,10204
+4506573,36,/matches/afc-bournemouth-vs-aston-villa/2yooch#4506573,2025-05-10T16:30:00Z,True,AFC Bournemouth,8678,Aston Villa,10252
+4506578,36,/matches/chelsea-vs-newcastle-united/2wabz1#4506578,2025-05-11T11:00:00Z,True,Newcastle United,10261,Chelsea,8455
+4506577,36,/matches/west-ham-united-vs-manchester-united/2yi6pt#4506577,2025-05-11T13:15:00Z,True,Manchester United,10260,West Ham United,8654
+4506579,36,/matches/leicester-city-vs-nottingham-forest/2ssmph#4506579,2025-05-11T13:15:00Z,True,Nottingham Forest,10203,Leicester City,8197
+4506581,36,/matches/tottenham-hotspur-vs-crystal-palace/2sxee8#4506581,2025-05-11T13:15:00Z,True,Tottenham Hotspur,8586,Crystal Palace,9826
+4506576,36,/matches/liverpool-vs-arsenal/2tmaz7#4506576,2025-05-11T15:30:00Z,True,Liverpool,8650,Arsenal,9825
+4506584,37,/matches/tottenham-hotspur-vs-aston-villa/2xnfpj#4506584,2025-05-16T18:30:00Z,True,Aston Villa,10252,Tottenham Hotspur,8586
+4506587,37,/matches/chelsea-vs-manchester-united/2w9xj5#4506587,2025-05-16T19:15:00Z,True,Chelsea,8455,Manchester United,10260
+4506589,37,/matches/southampton-vs-everton/2feiut#4506589,2025-05-18T11:00:00Z,True,Everton,8668,Southampton,8466
+4506592,37,/matches/west-ham-united-vs-nottingham-forest/2xv42z#4506592,2025-05-18T13:15:00Z,True,West Ham United,8654,Nottingham Forest,10203
+4506585,37,/matches/fulham-vs-brentford/38wlut#4506585,2025-05-18T14:00:00Z,True,Brentford,9937,Fulham,9879
+4506590,37,/matches/leicester-city-vs-ipswich-town/2pixek#4506590,2025-05-18T14:00:00Z,True,Leicester City,8197,Ipswich Town,9902
+4506583,37,/matches/arsenal-vs-newcastle-united/3c42by#4506583,2025-05-18T15:30:00Z,True,Arsenal,9825,Newcastle United,10261
+4506586,37,/matches/liverpool-vs-brighton-hove-albion/2xtwfj#4506586,2025-05-19T19:00:00Z,True,Brighton & Hove Albion,10204,Liverpool,8650
+4506588,37,/matches/wolverhampton-wanderers-vs-crystal-palace/2t3pt4#4506588,2025-05-20T19:00:00Z,True,Crystal Palace,9826,Wolverhampton Wanderers,8602
+4506591,37,/matches/manchester-city-vs-afc-bournemouth/2feiv3#4506591,2025-05-20T19:00:00Z,True,Manchester City,8456,AFC Bournemouth,8678
+4506593,38,/matches/leicester-city-vs-afc-bournemouth/2cs4hk#4506593,2025-05-25T15:00:00Z,True,AFC Bournemouth,8678,Leicester City,8197
+4506594,38,/matches/manchester-city-vs-fulham/2s32rr#4506594,2025-05-25T15:00:00Z,True,Fulham,9879,Manchester City,8456
+4506595,38,/matches/west-ham-united-vs-ipswich-town/2uigac#4506595,2025-05-25T15:00:00Z,True,Ipswich Town,9902,West Ham United,8654
+4506596,38,/matches/liverpool-vs-crystal-palace/2tmp8g#4506596,2025-05-25T15:00:00Z,True,Liverpool,8650,Crystal Palace,9826
+4506597,38,/matches/aston-villa-vs-manchester-united/3h9f6s#4506597,2025-05-25T15:00:00Z,True,Manchester United,10260,Aston Villa,10252
+4506598,38,/matches/everton-vs-newcastle-united/2yo9qd#4506598,2025-05-25T15:00:00Z,True,Newcastle United,10261,Everton,8668
+4506599,38,/matches/chelsea-vs-nottingham-forest/2vn3ne#4506599,2025-05-25T15:00:00Z,True,Nottingham Forest,10203,Chelsea,8455
+4506600,38,/matches/southampton-vs-arsenal/2rlsz3#4506600,2025-05-25T15:00:00Z,True,Southampton,8466,Arsenal,9825
+4506601,38,/matches/tottenham-hotspur-vs-brighton-hove-albion/2x42vj#4506601,2025-05-25T15:00:00Z,True,Tottenham Hotspur,8586,Brighton & Hove Albion,10204
+4506602,38,/matches/wolverhampton-wanderers-vs-brentford/2ubp0j#4506602,2025-05-25T15:00:00Z,True,Wolverhampton Wanderers,8602,Brentford,9937
+4506300,4,/matches/southampton-vs-manchester-united/2wecfr#4506300,2024-09-14T11:30:00Z,True,Southampton,8466,Manchester United,10260
+4506295,4,/matches/ipswich-town-vs-brighton-hove-albion/3ccoit#4506295,2024-09-14T14:00:00Z,True,Brighton & Hove Albion,10204,Ipswich Town,9902
+4506296,4,/matches/leicester-city-vs-crystal-palace/2opi6m#4506296,2024-09-14T14:00:00Z,True,Crystal Palace,9826,Leicester City,8197
+4506297,4,/matches/west-ham-united-vs-fulham/2u9b5i#4506297,2024-09-14T14:00:00Z,True,Fulham,9879,West Ham United,8654
+4506298,4,/matches/liverpool-vs-nottingham-forest/2xthvt#4506298,2024-09-14T14:00:00Z,True,Liverpool,8650,Nottingham Forest,10203
+4506299,4,/matches/manchester-city-vs-brentford/2spwom#4506299,2024-09-14T14:00:00Z,True,Manchester City,8456,Brentford,9937
+4506294,4,/matches/everton-vs-aston-villa/2ykmb4#4506294,2024-09-14T16:30:00Z,True,Aston Villa,10252,Everton,8668
+4506293,4,/matches/chelsea-vs-afc-bournemouth/2fe5n5#4506293,2024-09-14T19:00:00Z,True,AFC Bournemouth,8678,Chelsea,8455
+4506301,4,/matches/tottenham-hotspur-vs-arsenal/2sx06r#4506301,2024-09-15T13:00:00Z,True,Tottenham Hotspur,8586,Arsenal,9825
+4506302,4,/matches/wolverhampton-wanderers-vs-newcastle-united/2xxjcy#4506302,2024-09-15T15:30:00Z,True,Wolverhampton Wanderers,8602,Newcastle United,10261
+4506312,5,/matches/chelsea-vs-west-ham-united/2f5ck5#4506312,2024-09-21T11:30:00Z,True,West Ham United,8654,Chelsea,8455
+4506303,5,/matches/wolverhampton-wanderers-vs-aston-villa/2xtwe7#4506303,2024-09-21T14:00:00Z,True,Aston Villa,10252,Wolverhampton Wanderers,8602
+4506306,5,/matches/fulham-vs-newcastle-united/3crcfp#4506306,2024-09-21T14:00:00Z,True,Fulham,9879,Newcastle United,10261
+4506307,5,/matches/leicester-city-vs-everton/2coib1#4506307,2024-09-21T14:00:00Z,True,Leicester City,8197,Everton,8668
+4506308,5,/matches/liverpool-vs-afc-bournemouth/2he69q#4506308,2024-09-21T14:00:00Z,True,Liverpool,8650,AFC Bournemouth,8678
+4506310,5,/matches/southampton-vs-ipswich-town/2sg232#4506310,2024-09-21T14:00:00Z,True,Southampton,8466,Ipswich Town,9902
+4506311,5,/matches/tottenham-hotspur-vs-brentford/2u5c8b#4506311,2024-09-21T14:00:00Z,True,Tottenham Hotspur,8586,Brentford,9937
+4506305,5,/matches/crystal-palace-vs-manchester-united/3c42bz#4506305,2024-09-21T16:30:00Z,True,Crystal Palace,9826,Manchester United,10260
+4506304,5,/matches/nottingham-forest-vs-brighton-hove-albion/3fzdi8#4506304,2024-09-22T13:00:00Z,True,Brighton & Hove Albion,10204,Nottingham Forest,10203
+4506309,5,/matches/manchester-city-vs-arsenal/2rhvvi#4506309,2024-09-22T15:30:00Z,True,Manchester City,8456,Arsenal,9825
+4506320,6,/matches/manchester-city-vs-newcastle-united/2waqez#4506320,2024-09-28T11:30:00Z,True,Newcastle United,10261,Manchester City,8456
+4506314,6,/matches/leicester-city-vs-arsenal/2op49y#4506314,2024-09-28T14:00:00Z,True,Arsenal,9825,Leicester City,8197
+4506315,6,/matches/west-ham-united-vs-brentford/2uwdxd#4506315,2024-09-28T14:00:00Z,True,Brentford,9937,West Ham United,8654
+4506316,6,/matches/chelsea-vs-brighton-hove-albion/2vni1p#4506316,2024-09-28T14:00:00Z,True,Chelsea,8455,Brighton & Hove Albion,10204
+4506317,6,/matches/everton-vs-crystal-palace/2tttz7#4506317,2024-09-28T14:00:00Z,True,Everton,8668,Crystal Palace,9826
+4506321,6,/matches/fulham-vs-nottingham-forest/3c2cdu#4506321,2024-09-28T14:00:00Z,True,Nottingham Forest,10203,Fulham,9879
+4506322,6,/matches/wolverhampton-wanderers-vs-liverpool/2gm0as#4506322,2024-09-28T16:30:00Z,True,Wolverhampton Wanderers,8602,Liverpool,8650
+4506318,6,/matches/ipswich-town-vs-aston-villa/3cxe3h#4506318,2024-09-29T13:00:00Z,True,Ipswich Town,9902,Aston Villa,10252
+4506319,6,/matches/tottenham-hotspur-vs-manchester-united/2xqo0r#4506319,2024-09-29T15:30:00Z,True,Manchester United,10260,Tottenham Hotspur,8586
+4506313,6,/matches/southampton-vs-afc-bournemouth/2fi742#4506313,2024-09-30T19:00:00Z,True,AFC Bournemouth,8678,Southampton,8466
+4506328,7,/matches/liverpool-vs-crystal-palace/2tmp8g#4506328,2024-10-05T11:30:00Z,True,Crystal Palace,9826,Liverpool,8650
+4506323,7,/matches/southampton-vs-arsenal/2rlsz3#4506323,2024-10-05T14:00:00Z,True,Arsenal,9825,Southampton,8466
+4506325,7,/matches/wolverhampton-wanderers-vs-brentford/2ubp0j#4506325,2024-10-05T14:00:00Z,True,Brentford,9937,Wolverhampton Wanderers,8602
+4506330,7,/matches/leicester-city-vs-afc-bournemouth/2cs4hk#4506330,2024-10-05T14:00:00Z,True,Leicester City,8197,AFC Bournemouth,8678
+4506331,7,/matches/manchester-city-vs-fulham/2s32rr#4506331,2024-10-05T14:00:00Z,True,Manchester City,8456,Fulham,9879
+4506332,7,/matches/west-ham-united-vs-ipswich-town/2uigac#4506332,2024-10-05T14:00:00Z,True,West Ham United,8654,Ipswich Town,9902
+4506329,7,/matches/everton-vs-newcastle-united/2yo9qd#4506329,2024-10-05T16:30:00Z,True,Everton,8668,Newcastle United,10261
+4506324,7,/matches/aston-villa-vs-manchester-united/3h9f6s#4506324,2024-10-06T13:00:00Z,True,Aston Villa,10252,Manchester United,10260
+4506327,7,/matches/chelsea-vs-nottingham-forest/2vn3ne#4506327,2024-10-06T13:00:00Z,True,Chelsea,8455,Nottingham Forest,10203
+4506326,7,/matches/tottenham-hotspur-vs-brighton-hove-albion/2x42vj#4506326,2024-10-06T15:30:00Z,True,Brighton & Hove Albion,10204,Tottenham Hotspur,8586
+4506401,8,/matches/tottenham-hotspur-vs-west-ham-united/2ghkm2#4506401,2024-10-19T11:30:00Z,True,Tottenham Hotspur,8586,West Ham United,8654
+4506394,8,/matches/fulham-vs-aston-villa/3cnglp#4506394,2024-10-19T14:00:00Z,True,Fulham,9879,Aston Villa,10252
+4506397,8,/matches/brentford-vs-manchester-united/3dfzjk#4506397,2024-10-19T14:00:00Z,True,Manchester United,10260,Brentford,9937
+4506398,8,/matches/brighton-hove-albion-vs-newcastle-united/3gos5a#4506398,2024-10-19T14:00:00Z,True,Newcastle United,10261,Brighton & Hove Albion,10204
+4506400,8,/matches/leicester-city-vs-southampton/2anx5y#4506400,2024-10-19T14:00:00Z,True,Southampton,8466,Leicester City,8197
+4506395,8,/matches/everton-vs-ipswich-town/2uo0th#4506395,2024-10-19T14:15:00Z,True,Ipswich Town,9902,Everton,8668
+4506393,8,/matches/afc-bournemouth-vs-arsenal/2txefx#4506393,2024-10-19T16:30:00Z,True,AFC Bournemouth,8678,Arsenal,9825
+4506402,8,/matches/manchester-city-vs-wolverhampton-wanderers/2emo8d#4506402,2024-10-20T13:00:00Z,True,Wolverhampton Wanderers,8602,Manchester City,8456
+4506396,8,/matches/chelsea-vs-liverpool/2f3vr7#4506396,2024-10-20T15:30:00Z,True,Liverpool,8650,Chelsea,8455
+4506399,8,/matches/crystal-palace-vs-nottingham-forest/3bfk5h#4506399,2024-10-21T19:00:00Z,True,Nottingham Forest,10203,Crystal Palace,9826
+4506413,9,/matches/leicester-city-vs-nottingham-forest/2ssmph#4506413,2024-10-25T19:00:00Z,True,Leicester City,8197,Nottingham Forest,10203
+4506404,9,/matches/afc-bournemouth-vs-aston-villa/2yooch#4506404,2024-10-26T14:00:00Z,True,Aston Villa,10252,AFC Bournemouth,8678
+4506405,9,/matches/ipswich-town-vs-brentford/396dqp#4506405,2024-10-26T14:00:00Z,True,Brentford,9937,Ipswich Town,9902
+4506406,9,/matches/wolverhampton-wanderers-vs-brighton-hove-albion/2xaiyv#4506406,2024-10-26T14:00:00Z,True,Brighton & Hove Albion,10204,Wolverhampton Wanderers,8602
+4506415,9,/matches/manchester-city-vs-southampton/2d9569#4506415,2024-10-26T14:00:00Z,True,Manchester City,8456,Southampton,8466
+4506410,9,/matches/everton-vs-fulham/2uevfp#4506410,2024-10-26T16:30:00Z,True,Everton,8668,Fulham,9879
+4506407,9,/matches/chelsea-vs-newcastle-united/2wabz1#4506407,2024-10-27T14:00:00Z,True,Chelsea,8455,Newcastle United,10261
+4506409,9,/matches/tottenham-hotspur-vs-crystal-palace/2sxee8#4506409,2024-10-27T14:00:00Z,True,Crystal Palace,9826,Tottenham Hotspur,8586
+4506417,9,/matches/west-ham-united-vs-manchester-united/2yi6pt#4506417,2024-10-27T14:00:00Z,True,West Ham United,8654,Manchester United,10260
+4506403,9,/matches/liverpool-vs-arsenal/2tmaz7#4506403,2024-10-27T16:30:00Z,True,Arsenal,9825,Liverpool,8650

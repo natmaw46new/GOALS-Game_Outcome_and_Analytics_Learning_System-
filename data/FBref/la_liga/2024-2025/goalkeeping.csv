@@ -1,0 +1,46 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,league,season
+1,Adrián,es ESP,GK,Real Betis,37,1987,19,19,1710,19.0,27,1.42,76,50,65.8,10,5,4,3,15.8,1,1,0,0,0.0,la_liga,2024-2025
+2,Julen Agirrezabala,es ESP,GK,Athletic Club,23,2000,14,14,1206,13.4,10,0.75,32,24,71.9,9,4,1,5,35.7,2,1,1,0,50.0,la_liga,2024-2025
+3,Augusto Batalla,ar ARG,GK,Rayo Vallecano,28,1996,32,32,2880,32.0,39,1.22,125,93,73.6,10,12,10,8,25.0,8,6,2,0,25.0,la_liga,2024-2025
+4,Dani Cárdenas,es ESP,GK,Rayo Vallecano,27,1997,6,6,540,6.0,6,1.0,20,14,70.0,3,1,2,2,33.3,0,0,0,0,,la_liga,2024-2025
+5,Jasper Cillessen,nl NED,GK,Las Palmas,35,1989,27,27,2335,25.9,42,1.62,123,88,69.1,6,8,13,3,11.1,8,4,3,1,42.9,la_liga,2024-2025
+6,Diego Conde,es ESP,GK,Villarreal,25,1998,22,22,1962,21.8,33,1.51,93,63,67.7,11,6,5,2,9.1,4,3,0,1,0.0,la_liga,2024-2025
+7,Thibaut Courtois,be BEL,GK,Real Madrid,32,1992,30,30,2700,30.0,29,0.97,103,77,74.8,20,6,4,11,36.7,3,3,0,0,0.0,la_liga,2024-2025
+8,Stole Dimitrievski,mk MKD,GK,Valencia,30,1993,4,4,360,4.0,6,1.5,11,6,54.5,0,2,2,0,0.0,2,1,0,1,0.0,la_liga,2024-2025
+9,Marko Dmitrović,rs SRB,GK,Leganés,32,1992,32,32,2880,32.0,49,1.53,145,102,71.0,8,11,13,10,31.3,8,7,0,1,0.0,la_liga,2024-2025
+10,Aitor Fernández,es ESP,GK,Osasuna,33,1991,1,1,90,1.0,0,0.0,5,5,100.0,0,1,0,1,100.0,0,0,0,0,,la_liga,2024-2025
+11,Álvaro Fernández,es ESP,GK,Sevilla,26,1998,9,8,747,8.3,16,1.93,34,20,58.8,2,1,5,3,37.5,2,2,0,0,0.0,la_liga,2024-2025
+12,André Ferreira,pt POR,GK,Valladolid,28,1996,6,6,540,6.0,20,3.33,37,20,54.1,0,0,6,0,0.0,3,3,0,0,0.0,la_liga,2024-2025
+13,Fran,es ESP,GK,Real Madrid,19,2005,1,1,90,1.0,2,2.0,2,0,0.0,0,0,1,0,0.0,0,0,0,0,,la_liga,2024-2025
+14,Joan García,es ESP,GK,Espanyol,23,2001,38,38,3420,38.0,51,1.34,188,143,75.0,11,9,18,8,21.1,6,4,2,0,33.3,la_liga,2024-2025
+15,Paulo Gazzaniga,ar ARG,GK,Girona,32,1992,36,36,3195,35.5,51,1.44,136,90,64.0,11,8,17,8,22.2,5,2,3,0,60.0,la_liga,2024-2025
+16,Dominik Greif,sk SVK,GK,Mallorca,27,1997,31,31,2790,31.0,34,1.1,117,85,72.6,11,8,12,7,22.6,2,2,0,0,0.0,la_liga,2024-2025
+17,Vicente Guaita,es ESP,GK,Celta Vigo,37,1987,34,34,3060,34.0,48,1.41,126,81,64.3,14,7,13,8,23.5,3,3,0,0,0.0,la_liga,2024-2025
+18,Sergio Herrera,es ESP,GK,Osasuna,31,1993,37,37,3330,37.0,52,1.41,177,132,74.6,12,15,10,8,21.6,7,7,0,0,0.0,la_liga,2024-2025
+19,Dinko Horkaš,hr CRO,GK,Las Palmas,25,1999,13,11,1085,12.1,19,1.58,53,36,66.0,2,0,9,1,9.1,2,1,1,0,50.0,la_liga,2024-2025
+20,Karl Jakob Hein,ee EST,GK,Valladolid,22,2002,31,31,2790,31.0,68,2.19,160,96,60.0,4,4,23,5,16.1,4,4,0,0,0.0,la_liga,2024-2025
+21,Luiz Lúcio Reis Júnior,br BRA,GK,Villarreal,23,2001,17,16,1458,16.2,18,1.11,65,49,78.5,9,4,3,5,31.3,4,4,0,0,0.0,la_liga,2024-2025
+22,Vladyslav Krapyvtsov,ua UKR,GK,Girona,19,2005,2,2,180,2.0,7,3.5,18,12,66.7,0,0,2,0,0.0,1,1,0,0,0.0,la_liga,2024-2025
+23,Pau López,es ESP,GK,Girona,29,1994,1,0,45,0.5,2,4.0,3,1,33.3,0,0,0,0,,0,0,0,0,,la_liga,2024-2025
+24,Andriy Lunin,ua UKR,GK,Real Madrid,25,1999,7,7,630,7.0,7,1.0,20,13,65.0,6,0,1,4,57.1,0,0,0,0,,la_liga,2024-2025
+25,Giorgi Mamardashvili,ge GEO,GK,Valencia,23,2000,34,34,3060,34.0,48,1.41,132,91,67.4,11,11,12,8,23.5,7,5,2,0,28.6,la_liga,2024-2025
+26,Unai Marrero,es ESP,GK,Real Sociedad,22,2001,2,2,180,2.0,3,1.5,10,8,70.0,0,0,2,0,0.0,1,0,1,0,100.0,la_liga,2024-2025
+27,Juan Musso,ar ARG,GK,Atlético Madrid,30,1994,2,2,180,2.0,0,0.0,2,2,100.0,2,0,0,2,100.0,0,0,0,0,,la_liga,2024-2025
+28,Ørjan Nyland,no NOR,GK,Sevilla,33,1990,30,30,2673,29.7,39,1.31,108,73,66.7,8,10,12,8,26.7,4,3,1,0,25.0,la_liga,2024-2025
+29,Jan Oblak,si SVN,GK,Atlético Madrid,31,1993,36,36,3240,36.0,30,0.83,111,86,77.5,20,10,6,15,41.7,5,5,0,0,0.0,la_liga,2024-2025
+30,Jesús Owono,gq EQG,GK,Alavés,23,2001,6,5,487,5.4,7,1.29,13,7,53.8,1,1,3,0,0.0,1,1,0,0,0.0,la_liga,2024-2025
+31,Alex Padilla,es ESP,GK,Athletic Club,20,2003,5,3,321,3.6,6,1.68,17,12,70.6,0,1,2,0,0.0,1,1,0,0,0.0,la_liga,2024-2025
+32,Iñaki Peña,es ESP,GK,Barcelona,25,1999,16,15,1396,15.5,18,1.16,52,35,69.2,7,3,5,4,26.7,2,2,0,0,0.0,la_liga,2024-2025
+33,Arnau Rafús,es ESP,GK,Valladolid,21,2003,1,1,90,1.0,2,2.0,2,0,0.0,0,0,1,0,0.0,0,0,0,0,,la_liga,2024-2025
+34,Álex Remiro,es ESP,GK,Real Sociedad,29,1995,36,36,3240,36.0,43,1.19,124,86,69.4,13,7,16,13,36.1,6,5,1,0,16.7,la_liga,2024-2025
+35,Adrian Rodriguez,es ESP,GK,Alavés,23,2000,2,1,122,1.4,2,1.48,5,4,80.0,0,1,0,1,100.0,1,1,0,0,0.0,la_liga,2024-2025
+36,Leo Román,es ESP,GK,Mallorca,24,2000,7,7,630,7.0,10,1.43,49,40,81.6,2,1,4,2,28.6,1,1,0,0,0.0,la_liga,2024-2025
+37,Rui Silva,pt POR,GK,Real Betis,30,1994,15,15,1350,15.0,18,1.2,52,37,71.2,5,5,5,4,26.7,3,3,0,0,0.0,la_liga,2024-2025
+38,Unai Simón,es ESP,GK,Athletic Club,27,1997,21,21,1890,21.0,14,0.67,59,47,78.0,10,8,3,10,47.6,2,1,1,0,50.0,la_liga,2024-2025
+39,Antonio Sivera,es ESP,GK,Alavés,27,1996,32,32,2810,31.2,39,1.25,106,75,71.7,9,10,13,9,28.1,9,9,0,0,0.0,la_liga,2024-2025
+40,David Soria,es ESP,GK,Getafe,31,1993,38,38,3420,38.0,39,1.03,119,89,73.9,11,9,18,9,23.7,9,8,1,0,11.1,la_liga,2024-2025
+41,Juan Soriano,es ESP,GK,Leganés,26,1997,6,6,540,6.0,7,1.17,26,19,73.1,1,2,3,1,16.7,0,0,0,0,,la_liga,2024-2025
+42,Wojciech Szczęsny,pl POL,GK,Barcelona,34,1990,15,15,1350,15.0,12,0.8,32,21,65.6,14,1,0,8,53.3,1,1,0,0,0.0,la_liga,2024-2025
+43,Marc-André ter Stegen,de GER,GK,Barcelona,32,1992,8,8,674,7.5,9,1.2,22,14,63.6,7,0,1,1,12.5,1,1,0,0,0.0,la_liga,2024-2025
+44,Fran Vieites,es ESP,GK,Real Betis,25,1999,4,4,360,4.0,5,1.25,12,7,58.3,1,2,1,0,0.0,0,0,0,0,,la_liga,2024-2025
+45,Iván Villar,es ESP,GK,Celta Vigo,27,1997,4,4,360,4.0,9,2.25,18,10,50.0,2,0,2,0,0.0,1,0,1,0,100.0,la_liga,2024-2025

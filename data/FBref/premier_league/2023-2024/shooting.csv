@@ -1,0 +1,581 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Standard_Gls,Standard_Sh,Standard_SoT,Standard_SoT%,Standard_Sh/90,Standard_SoT/90,Standard_G/Sh,Standard_G/SoT,Standard_PK,Standard_PKatt,league,season
+1,Max Aarons,eng ENG,DF,Bournemouth,23,2000,13.7,0,2,0,0.0,0.15,0.0,0.0,,0,0,premier_league,2023-2024
+2,Joshua Acheampong,eng ENG,DF,Chelsea,17,2006,0.1,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+3,Tyler Adams,us USA,MF,Bournemouth,24,1999,1.3,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+4,Tosin Adarabioyo,eng ENG,DF,Fulham,25,1997,18.0,2,14,5,35.7,0.78,0.28,0.14,0.4,0,0,premier_league,2023-2024
+5,Elijah Adebayo,eng ENG,FW,Luton Town,25,1998,15.8,10,30,14,46.7,1.9,0.89,0.33,0.71,0,0,premier_league,2023-2024
+6,Simon Adingra,ci CIV,MF,Brighton,21,2002,24.7,6,52,22,42.3,2.11,0.89,0.12,0.27,0,0,premier_league,2023-2024
+7,Nayef Aguerd,ma MAR,DF,West Ham United,27,1996,20.6,1,14,4,28.6,0.68,0.19,0.07,0.25,0,0,premier_league,2023-2024
+8,Brandon Aguilera,cr CRC,MF,Nottingham Forest,20,2003,0.1,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+9,Naouirou Ahamada,fr FRA,MF,Crystal Palace,21,2002,3.9,0,9,2,22.2,2.32,0.52,0.0,0.0,0,0,premier_league,2023-2024
+10,Anel Ahmedhodžić,ba BIH,DF,Sheffield United,24,1999,29.4,2,19,5,26.3,0.65,0.17,0.11,0.4,0,0,premier_league,2023-2024
+11,Ola Aina,ng NGA,"DF,MF",Nottingham Forest,26,1996,18.8,1,11,1,9.1,0.59,0.05,0.09,1.0,0,0,premier_league,2023-2024
+12,Rayan Aït-Nouri,dz ALG,"MF,DF",Wolves,22,2001,25.9,2,23,7,30.4,0.89,0.27,0.09,0.29,0,0,premier_league,2023-2024
+13,Kristoffer Ajer,no NOR,DF,Brentford,25,1998,20.4,2,12,4,33.3,0.59,0.2,0.17,0.5,0,0,premier_league,2023-2024
+14,Manuel Akanji,ch SUI,"DF,MF",Manchester City,28,1995,27.9,2,15,5,33.3,0.54,0.18,0.13,0.4,0,0,premier_league,2023-2024
+15,Nathan Aké,nl NED,DF,Manchester City,28,1995,22.7,2,20,5,25.0,0.88,0.22,0.1,0.4,0,0,premier_league,2023-2024
+16,Thiago Alcántara,es ESP,MF,Liverpool,32,1991,0.1,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+17,Trent Alexander-Arnold,eng ENG,DF,Liverpool,24,1998,23.9,3,47,8,17.0,1.96,0.33,0.06,0.38,0,0,premier_league,2023-2024
+18,Alisson,br BRA,GK,Liverpool,30,1992,28.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+19,Miguel Almirón,py PAR,FW,Newcastle United,29,1994,21.5,3,41,12,29.3,1.91,0.56,0.07,0.25,0,0,premier_league,2023-2024
+20,Edson Álvarez,mx MEX,MF,West Ham United,25,1997,26.4,1,17,3,17.6,0.64,0.11,0.06,0.33,0,0,premier_league,2023-2024
+21,Julián Álvarez,ar ARG,"MF,FW",Manchester City,23,2000,29.4,11,98,40,40.8,3.33,1.36,0.09,0.23,2,2,premier_league,2023-2024
+22,Zeki Amdouni,ch SUI,FW,Burnley,22,2000,21.7,5,49,22,44.9,2.26,1.01,0.08,0.18,1,1,premier_league,2023-2024
+23,Sofyan Amrabat,ma MAR,"MF,DF",Manchester Utd,26,1996,10.4,0,3,0,0.0,0.29,0.0,0.0,,0,0,premier_league,2023-2024
+24,Joachim Andersen,dk DEN,DF,Crystal Palace,27,1996,37.9,2,21,8,38.1,0.55,0.21,0.1,0.25,0,0,premier_league,2023-2024
+25,Elliot Anderson,eng ENG,"MF,FW",Newcastle United,20,2002,11.4,0,19,5,26.3,1.67,0.44,0.0,0.0,0,0,premier_league,2023-2024
+26,Jaidon Anthony,eng ENG,MF,Bournemouth,23,1999,1.7,0,2,1,50.0,1.18,0.59,0.0,0.0,0,0,premier_league,2023-2024
+27,Michail Antonio,jm JAM,FW,West Ham United,33,1990,18.8,6,30,14,46.7,1.59,0.74,0.2,0.43,0,0,premier_league,2023-2024
+28,Antony,br BRA,MF,Manchester Utd,23,2000,14.7,1,43,16,37.2,2.92,1.09,0.02,0.06,0,0,premier_league,2023-2024
+29,Oliver Arblaster,eng ENG,MF,Sheffield United,19,2004,10.5,0,1,1,100.0,0.1,0.1,0.0,0.0,0,0,premier_league,2023-2024
+30,Cameron Archer,eng ENG,"FW,MF",Sheffield United,22,2001,20.4,4,42,11,26.2,2.06,0.54,0.1,0.36,0,0,premier_league,2023-2024
+31,Cameron Archer,eng ENG,"FW,MF",Aston Villa,22,2001,0.1,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+32,Alphonse Areola,fr FRA,GK,West Ham United,30,1993,30.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+33,Lorenz Assignon,tg TOG,DF,Burnley,23,2000,13.7,1,9,4,44.4,0.66,0.29,0.11,0.25,0,0,premier_league,2023-2024
+34,Serge Aurier,ci CIV,"DF,MF",Nottingham Forest,30,1992,9.3,0,6,1,16.7,0.65,0.11,0.0,0.0,0,0,premier_league,2023-2024
+35,Taiwo Awoniyi,ng NGA,FW,Nottingham Forest,25,1997,11.6,6,22,11,50.0,1.9,0.95,0.27,0.55,0,0,premier_league,2023-2024
+36,Jordan Ayew,gh GHA,"MF,FW",Crystal Palace,31,1991,28.3,4,48,20,41.7,1.7,0.71,0.08,0.2,0,0,premier_league,2023-2024
+37,Benoît Badiashile,fr FRA,DF,Chelsea,22,2001,14.9,0,6,1,16.7,0.4,0.07,0.0,0.0,0,0,premier_league,2023-2024
+38,Leon Bailey,jm JAM,MF,Aston Villa,25,1997,23.0,10,53,18,34.0,2.31,0.78,0.19,0.56,0,0,premier_league,2023-2024
+39,Stefan Bajcetic,es ESP,MF,Liverpool,18,2004,0.3,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+40,George Baldock,gr GRE,"DF,MF",Sheffield United,30,1993,10.8,0,1,0,0.0,0.09,0.0,0.0,,0,0,premier_league,2023-2024
+41,Carlos Baleba,cm CMR,MF,Brighton,19,2004,14.7,0,21,5,23.8,1.43,0.34,0.0,0.0,0,0,premier_league,2023-2024
+42,Fodé Ballo-Touré,sn SEN,"DF,MF",Fulham,26,1997,0.8,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+43,Shandon Baptiste,gd GRN,MF,Brentford,25,1998,2.5,1,2,2,100.0,0.79,0.79,0.5,0.5,0,0,premier_league,2023-2024
+44,Valentín Barco,ar ARG,DF,Brighton,19,2004,3.4,0,4,2,50.0,1.17,0.59,0.0,0.0,0,0,premier_league,2023-2024
+45,Ross Barkley,eng ENG,MF,Luton Town,29,1993,29.1,5,66,19,28.8,2.27,0.65,0.08,0.26,0,0,premier_league,2023-2024
+46,Harvey Barnes,eng ENG,"FW,MF",Newcastle United,25,1997,8.9,5,27,12,44.4,3.03,1.35,0.19,0.42,0,0,premier_league,2023-2024
+47,Chris Basham,eng ENG,"DF,MF",Sheffield United,35,1988,3.6,0,2,0,0.0,0.56,0.0,0.0,,0,0,premier_league,2023-2024
+48,Calvin Bassey,ng NGA,DF,Fulham,23,1999,25.6,1,5,2,40.0,0.2,0.08,0.2,0.5,0,0,premier_league,2023-2024
+49,Owen Beck,wls WAL,"DF,MF",Liverpool,20,2002,0.1,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+50,Donny van de Beek,nl NED,MF,Manchester Utd,26,1997,0.0,0,1,0,0.0,30.0,0.0,0.0,,0,0,premier_league,2023-2024
+51,Amari'i Bell,jm JAM,DF,Luton Town,29,1994,19.1,0,2,2,100.0,0.1,0.1,0.0,0.0,0,0,premier_league,2023-2024
+52,Jean-Ricner Bellegarde,ht HAI,"MF,FW",Wolves,25,1998,10.6,2,15,5,33.3,1.41,0.47,0.13,0.4,0,0,premier_league,2023-2024
+53,Anis Ben Slimane,tn TUN,MF,Sheffield United,22,2001,4.7,0,8,3,37.5,1.72,0.64,0.0,0.0,0,0,premier_league,2023-2024
+54,Saïd Benrahma,dz ALG,MF,West Ham United,27,1995,6.9,0,19,6,31.6,2.76,0.87,0.0,0.0,0,1,premier_league,2023-2024
+55,Rodrigo Bentancur,uy URU,MF,Tottenham Hotspur,26,1997,11.2,1,18,5,27.8,1.61,0.45,0.06,0.2,0,0,premier_league,2023-2024
+56,Daniel Bentley,eng ENG,GK,Wolves,30,1993,4.3,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+57,Jóhann Berg Guðmundsson,is ISL,MF,Burnley,32,1990,13.2,1,15,6,40.0,1.13,0.45,0.07,0.17,0,0,premier_league,2023-2024
+58,Sander Berge,no NOR,MF,Burnley,25,1998,33.4,1,25,3,12.0,0.75,0.09,0.04,0.33,0,0,premier_league,2023-2024
+59,Luke Berry,eng ENG,MF,Luton Town,31,1992,3.6,2,8,4,50.0,2.23,1.11,0.25,0.5,0,0,premier_league,2023-2024
+60,Beto,gw GNB,FW,Everton,25,1998,10.6,3,43,13,30.2,4.07,1.23,0.07,0.23,0,1,premier_league,2023-2024
+61,Jordan Beyer,de GER,DF,Burnley,23,2000,13.7,0,5,0,0.0,0.36,0.0,0.0,,0,0,premier_league,2023-2024
+62,Philip Billing,dk DEN,MF,Bournemouth,27,1996,15.5,2,30,8,26.7,1.93,0.52,0.07,0.25,0,0,premier_league,2023-2024
+63,Yves Bissouma,ml MLI,MF,Tottenham Hotspur,26,1996,23.0,0,24,5,20.8,1.04,0.22,0.0,0.0,0,0,premier_league,2023-2024
+64,Benicio Boaitey,eng ENG,FW,Brighton,19,2004,0.4,0,1,0,0.0,2.25,0.0,0.0,,0,0,premier_league,2023-2024
+65,Oscar Bobb,no NOR,MF,Manchester City,20,2003,3.4,1,4,2,50.0,1.19,0.6,0.25,0.5,0,0,premier_league,2023-2024
+66,Jayden Bogle,eng ENG,"MF,DF",Sheffield United,23,2000,31.0,3,32,11,34.4,1.03,0.36,0.09,0.27,0,0,premier_league,2023-2024
+67,Willy Boly,ci CIV,DF,Nottingham Forest,32,1991,16.0,2,14,6,42.9,0.88,0.38,0.14,0.33,0,0,premier_league,2023-2024
+68,Sven Botman,nl NED,DF,Newcastle United,23,2000,15.3,2,10,2,20.0,0.65,0.13,0.2,1.0,0,0,premier_league,2023-2024
+69,Jarrod Bowen,eng ENG,"MF,FW",West Ham United,26,1996,33.5,16,85,37,43.5,2.53,1.1,0.19,0.43,0,0,premier_league,2023-2024
+70,Conor Bradley,nir NIR,DF,Liverpool,20,2003,8.4,1,12,4,33.3,1.43,0.48,0.08,0.25,0,0,premier_league,2023-2024
+71,Jarrad Branthwaite,eng ENG,DF,Everton,21,2002,34.6,3,14,4,28.6,0.4,0.12,0.21,0.75,0,0,premier_league,2023-2024
+72,Ben Brereton,cl CHI,"FW,MF",Sheffield United,24,1999,12.3,6,35,19,54.3,2.85,1.55,0.14,0.26,1,1,premier_league,2023-2024
+73,Rhian Brewster,eng ENG,FW,Sheffield United,23,2000,3.8,0,7,3,42.9,1.82,0.78,0.0,0.0,0,0,premier_league,2023-2024
+74,Armando Broja,al ALB,FW,Chelsea,21,2001,5.0,1,13,2,15.4,2.58,0.4,0.08,0.5,0,0,premier_league,2023-2024
+75,Armando Broja,al ALB,FW,Fulham,21,2001,1.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+76,Andre Brooks,eng ENG,MF,Sheffield United,19,2003,10.4,0,9,2,22.2,0.86,0.19,0.0,0.0,0,0,premier_league,2023-2024
+77,David Brooks,wls WAL,MF,Bournemouth,26,1997,3.1,1,13,5,38.5,4.15,1.6,0.08,0.2,0,0,premier_league,2023-2024
+78,Jacob Brown,sct SCO,"MF,FW",Luton Town,25,1998,11.3,2,25,7,28.0,2.21,0.62,0.08,0.29,0,0,premier_league,2023-2024
+79,Josh Brownhill,eng ENG,MF,Burnley,27,1995,25.0,4,28,11,39.3,1.12,0.44,0.14,0.36,0,0,premier_league,2023-2024
+80,Jacob Bruun Larsen,dk DEN,MF,Burnley,24,1998,13.9,6,44,16,36.4,3.17,1.15,0.11,0.31,1,1,premier_league,2023-2024
+81,Hugo Bueno,es ESP,"MF,DF",Wolves,20,2002,8.2,0,5,0,0.0,0.61,0.0,0.0,,0,0,premier_league,2023-2024
+82,Santiago Bueno,uy URU,DF,Wolves,24,1998,9.1,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+83,Facundo Buonanotte,ar ARG,"MF,FW",Brighton,18,2004,15.2,3,21,9,42.9,1.39,0.59,0.14,0.33,0,0,premier_league,2023-2024
+84,Reece Burke,eng ENG,DF,Luton Town,26,1996,18.4,0,13,4,30.8,0.7,0.22,0.0,0.0,0,0,premier_league,2023-2024
+85,Dan Burn,eng ENG,DF,Newcastle United,31,1992,30.3,2,23,6,26.1,0.76,0.2,0.09,0.33,0,0,premier_league,2023-2024
+86,Mason Burstow,eng ENG,FW,Chelsea,19,2003,0.1,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+87,Moisés Caicedo,ec ECU,MF,Chelsea,21,2001,31.8,1,13,4,30.8,0.41,0.13,0.08,0.25,0,0,premier_league,2023-2024
+88,Tom Cairney,sct SCO,MF,Fulham,32,1991,16.5,1,17,8,47.1,1.03,0.48,0.06,0.13,0,0,premier_league,2023-2024
+89,Dominic Calvert-Lewin,eng ENG,FW,Everton,26,1997,24.1,7,73,31,42.5,3.03,1.29,0.07,0.16,2,2,premier_league,2023-2024
+90,Thomas Cannon,ie IRL,FW,Everton,20,2002,0.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+91,Diego Carlos,br BRA,DF,Aston Villa,30,1993,20.2,0,10,1,10.0,0.5,0.05,0.0,0.0,0,0,premier_league,2023-2024
+92,Cesare Casadei,it ITA,MF,Chelsea,20,2003,0.9,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+93,Casemiro,br BRA,"MF,DF",Manchester Utd,31,1992,22.0,1,39,9,23.1,1.77,0.41,0.03,0.11,0,0,premier_league,2023-2024
+94,Kaelan Casey,eng ENG,DF,West Ham United,18,2004,0.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+95,Matty Cash,pl POL,"DF,MF",Aston Villa,25,1997,23.8,2,33,13,39.4,1.39,0.55,0.06,0.15,0,0,premier_league,2023-2024
+96,Timothy Castagne,be BEL,DF,Fulham,27,1995,29.3,1,14,5,35.7,0.48,0.17,0.07,0.2,0,0,premier_league,2023-2024
+97,Jonny Castro,es ESP,"DF,MF",Wolves,29,1994,0.1,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+98,Trevoh Chalobah,eng ENG,DF,Chelsea,24,1999,10.6,1,2,2,100.0,0.19,0.19,0.5,0.5,0,0,premier_league,2023-2024
+99,Calum Chambers,eng ENG,MF,Aston Villa,28,1995,1.7,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+100,Youssef Chermiti,pt POR,FW,Everton,19,2004,2.3,0,7,2,28.6,3.03,0.87,0.0,0.0,0,0,premier_league,2023-2024
+101,Ben Chilwell,eng ENG,"MF,DF",Chelsea,26,1996,8.4,0,12,4,33.3,1.43,0.48,0.0,0.0,0,0,premier_league,2023-2024
+102,Tawanda Chirewa,zw ZIM,FW,Wolves,19,2003,1.6,0,3,1,33.3,1.86,0.62,0.0,0.0,0,0,premier_league,2023-2024
+103,Leon Chiwome,eng ENG,FW,Wolves,17,2006,1.9,0,2,0,0.0,1.03,0.0,0.0,,0,0,premier_league,2023-2024
+104,Tahith Chong,cw CUW,"MF,FW",Luton Town,23,1999,22.0,4,30,7,23.3,1.36,0.32,0.13,0.57,0,0,premier_league,2023-2024
+105,Ryan Christie,sct SCO,MF,Bournemouth,28,1995,32.3,0,43,13,30.2,1.33,0.4,0.0,0.0,0,0,premier_league,2023-2024
+106,Carney Chukwuemeka,eng ENG,MF,Chelsea,19,2003,2.5,1,3,2,66.7,1.19,0.79,0.33,0.5,0,0,premier_league,2023-2024
+107,Bobby Clark,eng ENG,MF,Liverpool,18,2005,1.0,0,2,0,0.0,2.02,0.0,0.0,,0,0,premier_league,2023-2024
+108,Jordan Clark,eng ENG,MF,Luton Town,29,1993,14.5,1,17,4,23.5,1.17,0.28,0.06,0.25,0,0,premier_league,2023-2024
+109,Nathaniel Clyne,eng ENG,DF,Crystal Palace,32,1991,14.9,0,4,0,0.0,0.27,0.0,0.0,,0,0,premier_league,2023-2024
+110,Séamus Coleman,ie IRL,DF,Everton,34,1988,7.4,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+111,Nathan Collins,ie IRL,DF,Brentford,22,2001,29.5,1,10,2,20.0,0.34,0.07,0.1,0.5,0,0,premier_league,2023-2024
+112,Levi Colwill,eng ENG,DF,Chelsea,20,2003,20.0,1,11,3,27.3,0.55,0.15,0.09,0.33,0,0,premier_league,2023-2024
+113,Lewis Cook,eng ENG,MF,Bournemouth,26,1997,31.0,0,12,4,33.3,0.39,0.13,0.0,0.0,0,0,premier_league,2023-2024
+114,Jack Cork,eng ENG,"DF,MF",Burnley,34,1989,0.3,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+115,Maxwel Cornet,ci CIV,MF,West Ham United,26,1996,1.2,1,4,1,25.0,3.21,0.8,0.25,1.0,0,0,premier_league,2023-2024
+116,Vladimír Coufal,cz CZE,DF,West Ham United,30,1992,34.8,0,8,2,25.0,0.23,0.06,0.0,0.0,0,0,premier_league,2023-2024
+117,Philippe Coutinho,br BRA,"FW,MF",Aston Villa,31,1992,0.3,0,3,1,33.3,10.8,3.6,0.0,0.0,0,0,premier_league,2023-2024
+118,Aaron Cresswell,eng ENG,DF,West Ham United,33,1989,4.8,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+119,Marc Cucurella,es ESP,DF,Chelsea,25,1998,19.8,0,8,4,50.0,0.4,0.2,0.0,0.0,0,0,premier_league,2023-2024
+120,Josh Cullen,ie IRL,MF,Burnley,27,1996,22.9,2,16,5,31.3,0.7,0.22,0.13,0.4,0,0,premier_league,2023-2024
+121,Matheus Cunha,br BRA,"FW,MF",Wolves,24,1999,27.1,12,73,38,52.1,2.69,1.4,0.15,0.29,1,1,premier_league,2023-2024
+122,Sam Curtis,ie IRL,DF,Sheffield United,17,2005,0.3,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+123,Mahmoud Dahoud,de GER,MF,Brighton,27,1996,5.0,0,6,1,16.7,1.19,0.2,0.0,0.0,0,0,premier_league,2023-2024
+124,Ameen Al-Dakhil,be BEL,DF,Burnley,21,2002,11.7,1,8,3,37.5,0.68,0.26,0.13,0.33,0,0,premier_league,2023-2024
+125,Diogo Dalot,pt POR,DF,Manchester Utd,24,1999,35.3,2,30,7,23.3,0.85,0.2,0.07,0.29,0,0,premier_league,2023-2024
+126,Mikkel Damsgaard,dk DEN,MF,Brentford,23,2000,9.4,0,9,4,44.4,0.96,0.43,0.0,0.0,0,0,premier_league,2023-2024
+127,Danilo,br BRA,MF,Nottingham Forest,22,2001,19.9,2,23,7,30.4,1.16,0.35,0.09,0.29,0,0,premier_league,2023-2024
+128,Arnaut Danjuma,nl NED,"MF,FW",Everton,26,1997,6.6,1,25,9,36.0,3.78,1.36,0.04,0.11,0,0,premier_league,2023-2024
+129,Jayden Danns,eng ENG,FW,Liverpool,17,2006,0.1,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+130,Josh Dasilva,eng ENG,MF,Brentford,24,1998,0.3,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+131,David Datro Fofana,ci CIV,FW,Burnley,20,2002,9.8,4,19,10,52.6,1.95,1.02,0.21,0.4,0,0,premier_league,2023-2024
+132,Ben Davies,wls WAL,DF,Tottenham Hotspur,30,1993,12.1,1,12,2,16.7,0.99,0.17,0.08,0.5,0,0,premier_league,2023-2024
+133,Tom Davies,eng ENG,MF,Sheffield United,25,1998,2.5,0,4,1,25.0,1.63,0.41,0.0,0.0,0,0,premier_league,2023-2024
+134,Craig Dawson,eng ENG,DF,Wolves,33,1990,24.5,1,16,5,31.3,0.65,0.2,0.06,0.2,0,0,premier_league,2023-2024
+135,Kevin De Bruyne,be BEL,MF,Manchester City,32,1991,13.6,4,44,17,38.6,3.24,1.25,0.09,0.24,0,0,premier_league,2023-2024
+136,Bobby De Cordova-Reid,jm JAM,"MF,FW",Fulham,30,1993,15.8,6,33,8,24.2,2.09,0.51,0.18,0.75,0,0,premier_league,2023-2024
+137,Hannes Delcroix,ht HAI,DF,Burnley,24,1999,6.5,0,4,2,50.0,0.61,0.31,0.0,0.0,0,0,premier_league,2023-2024
+138,Leander Dendoncker,be BEL,MF,Aston Villa,28,1995,1.3,1,2,1,50.0,1.51,0.76,0.5,1.0,0,0,premier_league,2023-2024
+139,Moussa Diaby,fr FRA,"MF,FW",Aston Villa,24,1999,24.2,6,54,23,42.6,2.24,0.95,0.11,0.26,0,0,premier_league,2023-2024
+140,Amad Diallo,ci CIV,MF,Manchester Utd,21,2002,4.3,1,10,4,40.0,2.31,0.92,0.1,0.25,0,0,premier_league,2023-2024
+141,Amadou Diallo,eng ENG,FW,Newcastle United,20,2003,0.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+142,Rúben Dias,pt POR,"DF,MF",Manchester City,26,1997,28.4,0,20,8,40.0,0.7,0.28,0.0,0.0,0,0,premier_league,2023-2024
+143,Luis Díaz,co COL,FW,Liverpool,26,1997,29.2,8,94,32,34.0,3.22,1.1,0.09,0.25,0,0,premier_league,2023-2024
+144,Eric Dier,eng ENG,DF,Tottenham Hotspur,29,1994,2.2,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+145,Lucas Digne,fr FRA,DF,Aston Villa,30,1993,26.8,1,20,4,20.0,0.75,0.15,0.05,0.25,0,0,premier_league,2023-2024
+146,Issa Diop,fr FRA,DF,Fulham,26,1997,15.8,0,5,1,20.0,0.32,0.06,0.0,0.0,0,0,premier_league,2023-2024
+147,Axel Disasi,fr FRA,DF,Chelsea,25,1998,28.7,2,16,4,25.0,0.56,0.14,0.13,0.5,0,0,premier_league,2023-2024
+148,Lewis Dobbin,eng ENG,MF,Everton,20,2003,2.6,1,5,2,40.0,1.94,0.78,0.2,0.5,0,0,premier_league,2023-2024
+149,Matt Doherty,ie IRL,"MF,DF",Wolves,31,1992,12.8,1,8,3,37.5,0.63,0.23,0.13,0.33,0,0,premier_league,2023-2024
+150,Jeremy Doku,be BEL,"MF,FW",Manchester City,21,2002,17.7,3,56,19,33.9,3.16,1.07,0.05,0.16,0,0,premier_league,2023-2024
+151,Nicolás Domínguez,ar ARG,MF,Nottingham Forest,25,1998,16.6,2,22,6,27.3,1.32,0.36,0.09,0.33,0,0,premier_league,2023-2024
+152,Jamie Donley,nir NIR,MF,Tottenham Hotspur,18,2005,0.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+153,Abdoulaye Doucouré,ml MLI,MF,Everton,30,1993,29.2,7,47,23,48.9,1.61,0.79,0.15,0.3,0,0,premier_league,2023-2024
+154,Cheick Doucouré,ml MLI,MF,Crystal Palace,23,2000,10.2,0,6,2,33.3,0.59,0.2,0.0,0.0,0,0,premier_league,2023-2024
+155,Alfie Doughty,eng ENG,"MF,DF",Luton Town,23,1999,32.5,2,26,8,30.8,0.8,0.25,0.08,0.25,0,0,premier_league,2023-2024
+156,Tommy Doyle,eng ENG,MF,Wolves,21,2001,13.6,0,14,3,21.4,1.03,0.22,0.0,0.0,0,0,premier_league,2023-2024
+157,Radu Drăgușin,ro ROU,DF,Tottenham Hotspur,21,2002,4.8,0,1,0,0.0,0.21,0.0,0.0,,0,0,premier_league,2023-2024
+158,Martin Dúbravka,sk SVK,GK,Newcastle United,34,1989,22.1,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+159,Paul Dummett,wls WAL,DF,Newcastle United,31,1991,0.2,0,1,0,0.0,4.5,0.0,0.0,,0,0,premier_league,2023-2024
+160,Lewis Dunk,eng ENG,DF,Brighton,31,1991,31.9,3,33,12,36.4,1.04,0.38,0.09,0.25,0,0,premier_league,2023-2024
+161,Jáder Durán,co COL,FW,Aston Villa,19,2003,5.3,5,20,7,35.0,3.79,1.33,0.25,0.71,0,0,premier_league,2023-2024
+162,George Earthy,eng ENG,MF,West Ham United,18,2004,0.4,1,1,1,100.0,2.65,2.65,1.0,1.0,0,0,premier_league,2023-2024
+163,Ederson,br BRA,GK,Manchester City,29,1993,30.9,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+164,Odsonne Édouard,fr FRA,"FW,MF",Crystal Palace,25,1998,17.3,7,51,19,37.3,2.95,1.1,0.14,0.37,0,0,premier_league,2023-2024
+165,John Egan,ie IRL,DF,Sheffield United,30,1992,5.4,0,3,1,33.3,0.56,0.19,0.0,0.0,0,0,premier_league,2023-2024
+166,Hjalmar Ekdal,se SWE,DF,Burnley,24,1998,4.9,0,2,1,50.0,0.41,0.21,0.0,0.0,0,0,premier_league,2023-2024
+167,Anthony Elanga,se SWE,"MF,FW",Nottingham Forest,21,2002,27.0,5,54,23,42.6,2.0,0.85,0.09,0.22,0,0,premier_league,2023-2024
+168,Harvey Elliott,eng ENG,"MF,FW",Liverpool,20,2003,15.0,3,49,17,34.7,3.26,1.13,0.06,0.18,0,0,premier_league,2023-2024
+169,Mohamed Elneny,eg EGY,MF,Arsenal,31,1992,0.3,0,2,1,50.0,6.43,3.21,0.0,0.0,0,0,premier_league,2023-2024
+170,Emerson,br BRA,DF,Tottenham Hotspur,24,1999,12.9,1,6,3,50.0,0.47,0.23,0.17,0.33,0,0,premier_league,2023-2024
+171,Julio Enciso,py PAR,MF,Brighton,19,2004,5.3,0,28,8,28.6,5.31,1.52,0.0,0.0,0,0,premier_league,2023-2024
+172,Wataru Endo,jp JPN,MF,Liverpool,30,1993,19.1,1,10,3,30.0,0.52,0.16,0.1,0.33,0,0,premier_league,2023-2024
+173,Christian Eriksen,dk DEN,MF,Manchester Utd,31,1992,12.7,1,13,4,30.8,1.03,0.32,0.08,0.25,0,0,premier_league,2023-2024
+174,Maxime Estève,fr FRA,DF,Burnley,21,2002,14.5,0,7,0,0.0,0.48,0.0,0.0,,0,0,premier_league,2023-2024
+175,Pervis Estupiñán,ec ECU,"DF,MF",Brighton,25,1998,13.8,2,11,6,54.5,0.8,0.43,0.18,0.33,0,0,premier_league,2023-2024
+176,Jonny Evans,nir NIR,DF,Manchester Utd,35,1988,15.5,0,1,0,0.0,0.06,0.0,0.0,,0,0,premier_league,2023-2024
+177,Eberechi Eze,eng ENG,"MF,FW",Crystal Palace,25,1998,22.8,11,83,34,41.0,3.64,1.49,0.12,0.29,1,1,premier_league,2023-2024
+178,Łukasz Fabiański,pl POL,GK,West Ham United,38,1985,8.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+179,Romain Faivre,fr FRA,MF,Bournemouth,25,1998,0.5,0,2,0,0.0,4.39,0.0,0.0,,0,0,premier_league,2023-2024
+180,Ansu Fati,es ESP,"MF,FW",Brighton,20,2002,5.8,2,26,11,42.3,4.49,1.9,0.08,0.18,0,0,premier_league,2023-2024
+181,Felipe,br BRA,DF,Nottingham Forest,34,1989,4.2,0,3,0,0.0,0.72,0.0,0.0,,0,0,premier_league,2023-2024
+182,Evan Ferguson,ie IRL,FW,Brighton,18,2004,15.2,6,33,20,60.6,2.17,1.32,0.18,0.3,0,0,premier_league,2023-2024
+183,Bruno Fernandes,pt POR,MF,Manchester Utd,28,1994,34.6,10,95,41,43.2,2.74,1.18,0.06,0.15,4,5,premier_league,2023-2024
+184,Enzo Fernández,ar ARG,MF,Chelsea,22,2001,24.5,3,47,16,34.0,1.91,0.65,0.04,0.13,1,2,premier_league,2023-2024
+185,John Fleck,sct SCO,MF,Sheffield United,31,1991,1.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+186,Mark Flekken,nl NED,GK,Brentford,30,1993,36.5,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+187,Phil Foden,eng ENG,MF,Manchester City,23,2000,31.7,19,105,48,45.7,3.31,1.51,0.18,0.4,0,0,premier_league,2023-2024
+188,Wes Foderingham,eng ENG,GK,Sheffield United,32,1991,29.4,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+189,Pablo Fornals,es ESP,MF,West Ham United,27,1996,4.7,0,7,3,42.9,1.48,0.63,0.0,0.0,0,0,premier_league,2023-2024
+190,Omari Forson,eng ENG,MF,Manchester Utd,19,2004,0.8,0,1,0,0.0,1.29,0.0,0.0,,0,0,premier_league,2023-2024
+191,Lyle Foster,za RSA,"FW,MF",Burnley,22,2000,21.1,5,34,17,50.0,1.61,0.81,0.15,0.29,0,0,premier_league,2023-2024
+192,Matheus França,br BRA,MF,Crystal Palace,19,2004,2.6,0,8,2,25.0,3.1,0.78,0.0,0.0,0,0,premier_league,2023-2024
+193,Nathan Fraser,ie IRL,FW,Wolves,18,2005,2.1,0,3,2,66.7,1.45,0.97,0.0,0.0,0,0,premier_league,2023-2024
+194,Cody Gakpo,nl NED,"FW,MF",Liverpool,24,1999,18.3,8,66,24,36.4,3.6,1.31,0.12,0.33,0,0,premier_league,2023-2024
+195,Conor Gallagher,eng ENG,MF,Chelsea,23,2000,34.8,5,48,18,37.5,1.38,0.52,0.1,0.28,0,0,premier_league,2023-2024
+196,Idrissa Gana Gueye,sn SEN,MF,Everton,33,1989,20.9,4,26,7,26.9,1.24,0.33,0.15,0.57,0,0,premier_league,2023-2024
+197,Ben Gannon-Doak,sct SCO,MF,Liverpool,17,2005,0.2,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+198,Alejandro Garnacho,ar ARG,MF,Manchester Utd,19,2004,28.5,7,100,28,28.0,3.51,0.98,0.07,0.25,0,0,premier_league,2023-2024
+199,James Garner,eng ENG,MF,Everton,22,2001,33.4,1,41,11,26.8,1.23,0.33,0.02,0.09,0,0,premier_league,2023-2024
+200,Saman Ghoddos,ir IRN,"DF,MF",Brentford,29,1993,8.2,1,9,2,22.2,1.1,0.24,0.11,0.5,0,0,premier_league,2023-2024
+201,Morgan Gibbs-White,eng ENG,"MF,FW",Nottingham Forest,23,2000,35.1,5,71,15,21.1,2.02,0.43,0.06,0.27,1,1,premier_league,2023-2024
+202,Bryan Gil,es ESP,MF,Tottenham Hotspur,22,2001,2.3,0,4,1,25.0,1.72,0.43,0.0,0.0,0,0,premier_league,2023-2024
+203,Alfie Gilchrist,eng ENG,DF,Chelsea,19,2003,2.3,1,5,1,20.0,2.17,0.43,0.2,1.0,0,0,premier_league,2023-2024
+204,Ryan Giles,eng ENG,"MF,DF",Luton Town,23,2000,5.6,0,2,2,100.0,0.36,0.36,0.0,0.0,0,0,premier_league,2023-2024
+205,Billy Gilmour,sct SCO,MF,Brighton,22,2001,23.6,0,25,5,20.0,1.06,0.21,0.0,0.0,0,0,premier_league,2023-2024
+206,Ben Godfrey,eng ENG,DF,Everton,25,1998,12.4,0,15,4,26.7,1.21,0.32,0.0,0.0,0,0,premier_league,2023-2024
+207,André Gomes,pt POR,MF,Everton,30,1993,5.6,1,8,4,50.0,1.42,0.71,0.13,0.25,0,0,premier_league,2023-2024
+208,João Gomes,br BRA,MF,Wolves,22,2001,29.4,2,26,8,30.8,0.88,0.27,0.08,0.25,0,0,premier_league,2023-2024
+209,Toti Gomes,pt POR,DF,Wolves,24,1999,30.8,1,10,5,50.0,0.32,0.16,0.1,0.2,0,0,premier_league,2023-2024
+210,Joe Gomez,eng ENG,DF,Liverpool,26,1997,19.8,0,19,2,10.5,0.96,0.1,0.0,0.0,0,0,premier_league,2023-2024
+211,Sergio Gómez,es ESP,"DF,MF",Manchester City,22,2000,0.6,0,2,0,0.0,3.4,0.0,0.0,,0,0,premier_league,2023-2024
+212,Enso Gonzalez,py PAR,FW,Wolves,18,2005,0.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+213,Anthony Gordon,eng ENG,FW,Newcastle United,22,2001,32.1,11,81,31,38.3,2.52,0.97,0.12,0.32,1,1,premier_league,2023-2024
+214,Kaide Gordon,eng ENG,FW,Liverpool,18,2004,0.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+215,Daniel Gore,eng ENG,MF,Manchester Utd,18,2004,0.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+216,Ryan Gravenberch,nl NED,MF,Liverpool,21,2002,12.5,1,23,8,34.8,1.85,0.64,0.04,0.13,0,0,premier_league,2023-2024
+217,Ivo Grbić,hr CRO,GK,Sheffield United,27,1996,8.6,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+218,Jack Grealish,eng ENG,"MF,FW",Manchester City,27,1995,11.2,3,22,5,22.7,1.96,0.45,0.14,0.6,0,0,premier_league,2023-2024
+219,Pascal Groß,de GER,"MF,DF",Brighton,32,1991,34.6,4,55,20,36.4,1.59,0.58,0.05,0.15,1,1,premier_league,2023-2024
+220,Marc Guéhi,eng ENG,DF,Crystal Palace,23,2000,22.5,0,5,0,0.0,0.22,0.0,0.0,,0,0,premier_league,2023-2024
+221,Bruno Guimarães,br BRA,MF,Newcastle United,25,1997,36.3,7,48,16,33.3,1.32,0.44,0.15,0.44,0,0,premier_league,2023-2024
+222,Malo Gusto,fr FRA,"DF,MF",Chelsea,20,2003,19.5,0,15,5,33.3,0.77,0.26,0.0,0.0,0,0,premier_league,2023-2024
+223,Joško Gvardiol,hr CRO,DF,Manchester City,21,2002,25.9,4,32,14,43.8,1.24,0.54,0.13,0.29,0,0,premier_league,2023-2024
+224,Erling Haaland,no NOR,"FW,MF",Manchester City,23,2000,28.4,27,121,59,48.8,4.27,2.08,0.17,0.34,7,8,premier_league,2023-2024
+225,Antwoine Hackford,eng ENG,FW,Sheffield United,19,2004,0.1,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+226,Lewis Hall,eng ENG,DF,Newcastle United,18,2004,8.7,1,11,4,36.4,1.27,0.46,0.09,0.25,0,0,premier_league,2023-2024
+227,Gustavo Hamer,nl NED,MF,Sheffield United,26,1997,32.3,4,49,15,30.6,1.52,0.46,0.08,0.27,0,0,premier_league,2023-2024
+228,Luke Harris,wls WAL,MF,Fulham,18,2005,0.8,0,1,1,100.0,1.2,1.2,0.0,0.0,0,0,premier_league,2023-2024
+229,Jack Harrison,eng ENG,MF,Everton,26,1996,24.6,3,34,9,26.5,1.38,0.37,0.09,0.33,0,0,premier_league,2023-2024
+230,Daiki Hashioka,jp JPN,"DF,MF",Luton Town,24,1999,6.6,0,2,0,0.0,0.3,0.0,0.0,,0,0,premier_league,2023-2024
+231,Kai Havertz,de GER,"MF,FW",Arsenal,24,1999,29.3,13,69,28,40.6,2.36,0.96,0.17,0.43,1,1,premier_league,2023-2024
+232,Jan Paul van Hecke,nl NED,DF,Brighton,23,2000,26.3,0,15,6,40.0,0.57,0.23,0.0,0.0,0,0,premier_league,2023-2024
+233,Hwang Hee-chan,kr KOR,"FW,MF",Wolves,27,1996,23.5,12,45,18,40.0,1.91,0.76,0.24,0.61,1,1,premier_league,2023-2024
+234,Dean Henderson,eng ENG,GK,Crystal Palace,26,1997,18.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+235,Rico Henry,jm JAM,DF,Brentford,26,1997,4.5,0,2,0,0.0,0.45,0.0,0.0,,0,0,premier_league,2023-2024
+236,Son Heung-min,kr KOR,"FW,MF",Tottenham Hotspur,31,1992,32.6,17,85,40,47.1,2.61,1.23,0.18,0.38,2,2,premier_league,2023-2024
+237,Aaron Hickey,sct SCO,"DF,MF",Brentford,21,2002,7.9,0,7,1,14.3,0.88,0.13,0.0,0.0,0,0,premier_league,2023-2024
+238,James Hill,eng ENG,DF,Bournemouth,21,2002,0.8,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+239,Jack Hinshelwood,eng ENG,"DF,MF",Brighton,18,2005,9.7,3,14,8,57.1,1.45,0.83,0.21,0.38,0,0,premier_league,2023-2024
+240,Mason Holgate,jm JAM,DF,Sheffield United,26,1996,7.9,0,3,0,0.0,0.38,0.0,0.0,,0,0,premier_league,2023-2024
+241,Callum Hudson-Odoi,eng ENG,"MF,FW",Nottingham Forest,22,2000,20.6,8,38,20,52.6,1.84,0.97,0.21,0.4,0,0,premier_league,2023-2024
+242,Will Hughes,eng ENG,MF,Crystal Palace,28,1995,21.0,0,8,3,37.5,0.38,0.14,0.0,0.0,0,0,premier_league,2023-2024
+243,Pierre Højbjerg,dk DEN,MF,Tottenham Hotspur,27,1995,14.6,0,19,6,31.6,1.3,0.41,0.0,0.0,0,0,premier_league,2023-2024
+244,Rasmus Højlund,dk DEN,FW,Manchester Utd,20,2003,24.0,10,38,21,55.3,1.58,0.88,0.26,0.48,0,0,premier_league,2023-2024
+245,Igor,br BRA,DF,Brighton,25,1998,18.2,0,5,0,0.0,0.27,0.0,0.0,,0,0,premier_league,2023-2024
+246,Danny Ings,eng ENG,"FW,MF",West Ham United,31,1992,4.5,1,12,4,33.3,2.67,0.89,0.08,0.25,0,0,premier_league,2023-2024
+247,Tim Iroegbunam,eng ENG,MF,Aston Villa,20,2003,1.8,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+248,Alexander Isak,se SWE,FW,Newcastle United,23,1999,25.1,21,78,43,55.1,3.11,1.72,0.21,0.37,5,6,premier_league,2023-2024
+249,Alex Iwobi,ng NGA,MF,Everton,27,1996,1.6,0,4,2,50.0,2.57,1.29,0.0,0.0,0,0,premier_league,2023-2024
+250,Alex Iwobi,ng NGA,MF,Fulham,27,1996,24.4,5,51,18,35.3,2.09,0.74,0.1,0.28,0,0,premier_league,2023-2024
+251,Nicolas Jackson,sn SEN,FW,Chelsea,22,2001,31.1,14,80,41,51.3,2.57,1.32,0.18,0.34,0,0,premier_league,2023-2024
+252,Reece James,eng ENG,"DF,MF",Chelsea,23,1999,4.7,0,7,1,14.3,1.5,0.21,0.0,0.0,0,0,premier_league,2023-2024
+253,Vitaly Janelt,de GER,"MF,DF",Brentford,25,1998,33.9,1,21,7,33.3,0.62,0.21,0.05,0.14,0,0,premier_league,2023-2024
+254,Daniel Jebbison,ca CAN,FW,Sheffield United,19,2003,0.2,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+255,Mathias Jensen,dk DEN,MF,Brentford,27,1996,24.5,3,14,7,50.0,0.57,0.29,0.21,0.43,0,0,premier_league,2023-2024
+256,Gabriel Jesus,br BRA,FW,Arsenal,26,1997,16.4,4,55,19,34.5,3.35,1.16,0.07,0.21,0,0,premier_league,2023-2024
+257,Raúl Jiménez,mx MEX,FW,Fulham,32,1991,15.5,7,41,17,41.5,2.65,1.1,0.17,0.41,0,0,premier_league,2023-2024
+258,João Pedro,br BRA,"MF,FW",Brighton,21,2001,22.7,9,75,26,34.7,3.3,1.14,0.07,0.19,4,5,premier_league,2023-2024
+259,Joelinton,br BRA,"MF,FW",Newcastle United,26,1996,14.2,2,19,9,47.4,1.34,0.63,0.11,0.22,0,0,premier_league,2023-2024
+260,Ben Johnson,eng ENG,"MF,DF",West Ham United,23,2000,6.0,0,6,2,33.3,0.99,0.33,0.0,0.0,0,0,premier_league,2023-2024
+261,Brennan Johnson,wls WAL,"MF,FW",Tottenham Hotspur,22,2001,23.2,5,50,21,42.0,2.16,0.91,0.1,0.24,0,0,premier_league,2023-2024
+262,Brennan Johnson,wls WAL,"FW,MF",Nottingham Forest,22,2001,2.6,0,3,0,0.0,1.14,0.0,0.0,,0,0,premier_league,2023-2024
+263,Joseph Johnson,eng ENG,DF,Luton Town,17,2006,0.9,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+264,Sam Johnstone,eng ENG,GK,Crystal Palace,30,1993,20.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+265,Curtis Jones,eng ENG,MF,Liverpool,22,2001,13.0,1,19,6,31.6,1.47,0.46,0.05,0.17,0,0,premier_league,2023-2024
+266,Jorginho,it ITA,MF,Arsenal,31,1991,10.2,0,4,0,0.0,0.39,0.0,0.0,,0,0,premier_league,2023-2024
+267,Diogo Jota,pt POR,FW,Liverpool,26,1996,12.7,10,41,20,48.8,3.22,1.57,0.24,0.5,0,0,premier_league,2023-2024
+268,Mads Juel Andersen,dk DEN,DF,Luton Town,25,1997,4.4,1,3,1,33.3,0.68,0.23,0.33,1.0,0,0,premier_league,2023-2024
+269,Hamed Junior Traorè,ci CIV,MF,Bournemouth,23,2000,0.5,0,3,2,66.7,5.74,3.83,0.0,0.0,0,0,premier_league,2023-2024
+270,Mathias Jørgensen,dk DEN,DF,Brentford,33,1990,12.1,1,8,2,25.0,0.66,0.17,0.13,0.5,0,0,premier_league,2023-2024
+271,Issa Kaboré,bf BFA,"MF,DF",Luton Town,22,2001,19.2,0,6,1,16.7,0.31,0.05,0.0,0.0,0,0,premier_league,2023-2024
+272,Sasa Kalajdzic,at AUT,FW,Wolves,26,1997,1.8,2,4,2,50.0,2.17,1.08,0.5,1.0,0,0,premier_league,2023-2024
+273,Boubacar Kamara,fr FRA,MF,Aston Villa,23,1999,18.4,0,5,1,20.0,0.27,0.05,0.0,0.0,0,0,premier_league,2023-2024
+274,Willy Kambwala,fr FRA,DF,Manchester Utd,18,2004,3.7,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+275,Thomas Kaminski,be BEL,GK,Luton Town,30,1992,37.8,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+276,Loris Karius,de GER,GK,Newcastle United,30,1993,1.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+277,Michael Keane,eng ENG,DF,Everton,30,1993,4.9,1,6,4,66.7,1.23,0.82,0.17,0.25,0,0,premier_league,2023-2024
+278,Thilo Kehrer,de GER,DF,West Ham United,26,1996,0.2,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+279,Caoimhín Kelleher,ie IRL,GK,Liverpool,24,1998,10.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+280,Lloyd Kelly,eng ENG,DF,Bournemouth,24,1998,17.3,0,4,1,25.0,0.23,0.06,0.0,0.0,0,0,premier_league,2023-2024
+281,Omari Kellyman,eng ENG,MF,Aston Villa,17,2005,0.4,0,1,0,0.0,2.43,0.0,0.0,,0,0,premier_league,2023-2024
+282,Milos Kerkez,hu HUN,DF,Bournemouth,19,2003,21.9,0,16,5,31.3,0.73,0.23,0.0,0.0,0,0,premier_league,2023-2024
+283,Kaine Kesler-Hayden,eng ENG,"DF,MF",Aston Villa,20,2002,0.1,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+284,Max Kilman,eng ENG,DF,Wolves,26,1997,38.0,2,14,6,42.9,0.37,0.16,0.14,0.33,0,0,premier_league,2023-2024
+285,Jakub Kiwior,pl POL,DF,Arsenal,23,2000,10.5,1,6,3,50.0,0.57,0.29,0.17,0.33,0,0,premier_league,2023-2024
+286,Justin Kluivert,nl NED,MF,Bournemouth,24,1999,21.3,7,56,20,35.7,2.63,0.94,0.13,0.35,0,0,premier_league,2023-2024
+287,Luca Koleosho,it ITA,"MF,FW",Burnley,18,2004,10.8,1,23,5,21.7,2.13,0.46,0.04,0.2,0,0,premier_league,2023-2024
+288,Ibrahima Konaté,fr FRA,DF,Liverpool,24,1999,17.5,0,11,2,18.2,0.63,0.11,0.0,0.0,0,0,premier_league,2023-2024
+289,Ezri Konsa,eng ENG,DF,Aston Villa,25,1997,34.1,1,19,5,26.3,0.56,0.15,0.05,0.2,0,0,premier_league,2023-2024
+290,Cheikhou Kouyaté,sn SEN,MF,Nottingham Forest,33,1989,2.4,0,5,1,20.0,2.12,0.42,0.0,0.0,0,0,premier_league,2023-2024
+291,Mateo Kovačić,hr CRO,MF,Manchester City,29,1994,17.2,1,22,5,22.7,1.28,0.29,0.05,0.2,0,0,premier_league,2023-2024
+292,Emil Krafth,se SWE,DF,Newcastle United,28,1994,10.1,0,4,0,0.0,0.39,0.0,0.0,,0,0,premier_league,2023-2024
+293,Mohammed Kudus,gh GHA,MF,West Ham United,22,2000,27.6,8,67,17,25.4,2.43,0.62,0.12,0.47,0,0,premier_league,2023-2024
+294,Dejan Kulusevski,se SWE,"MF,FW",Tottenham Hotspur,23,2000,30.7,8,57,24,42.1,1.86,0.78,0.14,0.33,0,0,premier_league,2023-2024
+295,Adam Lallana,eng ENG,MF,Brighton,35,1988,9.4,0,11,2,18.2,1.16,0.21,0.0,0.0,0,0,premier_league,2023-2024
+296,Tariq Lamptey,gh GHA,"DF,MF",Brighton,22,2000,10.2,0,6,0,0.0,0.59,0.0,0.0,,0,0,premier_league,2023-2024
+297,Aymeric Laporte,es ESP,DF,Manchester City,29,1994,0.1,0,1,1,100.0,7.5,7.5,0.0,0.0,0,0,premier_league,2023-2024
+298,Yasser Larouci,dz ALG,MF,Sheffield United,22,2001,5.9,0,6,1,16.7,1.02,0.17,0.0,0.0,0,0,premier_league,2023-2024
+299,Jamaal Lascelles,eng ENG,DF,Newcastle United,29,1993,12.0,1,6,1,16.7,0.5,0.08,0.17,1.0,0,0,premier_league,2023-2024
+300,Roméo Lavia,be BEL,MF,Chelsea,19,2004,0.4,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+301,Mario Lemina,ga GAB,MF,Wolves,29,1993,33.0,4,48,18,37.5,1.46,0.55,0.08,0.22,0,0,premier_league,2023-2024
+302,Clément Lenglet,fr FRA,DF,Aston Villa,28,1995,12.8,0,7,2,28.6,0.55,0.16,0.0,0.0,0,0,premier_league,2023-2024
+303,Bernd Leno,de GER,GK,Fulham,31,1992,38.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+304,Jefferson Lerma,co COL,"MF,DF",Crystal Palace,28,1994,26.7,1,34,9,26.5,1.27,0.34,0.03,0.11,0,0,premier_league,2023-2024
+305,Rico Lewis,eng ENG,"DF,MF",Manchester City,18,2004,9.0,2,5,4,80.0,0.56,0.44,0.4,0.5,0,0,premier_league,2023-2024
+306,Keane Lewis-Potter,eng ENG,"FW,MF",Brentford,22,2001,16.0,3,43,22,51.2,2.69,1.37,0.07,0.14,0,0,premier_league,2023-2024
+307,Victor Lindelöf,se SWE,DF,Manchester Utd,29,1994,14.8,1,6,4,66.7,0.41,0.27,0.17,0.25,0,0,premier_league,2023-2024
+308,Valentino Livramento,eng ENG,DF,Newcastle United,20,2002,14.6,1,4,2,50.0,0.27,0.14,0.25,0.5,0,0,premier_league,2023-2024
+309,Giovani Lo Celso,ar ARG,MF,Tottenham Hotspur,27,1996,5.6,2,13,6,46.2,2.31,1.07,0.15,0.33,0,0,premier_league,2023-2024
+310,Tom Lockyer,wls WAL,DF,Luton Town,28,1994,13.0,1,7,1,14.3,0.54,0.08,0.14,1.0,0,0,premier_league,2023-2024
+311,Sean Longstaff,eng ENG,MF,Newcastle United,25,1997,30.5,6,41,15,36.6,1.34,0.49,0.15,0.4,0,0,premier_league,2023-2024
+312,Max Lowe,eng ENG,"MF,DF",Sheffield United,26,1997,5.6,0,2,0,0.0,0.36,0.0,0.0,,0,0,premier_league,2023-2024
+313,Douglas Luiz,br BRA,MF,Aston Villa,25,1998,33.3,9,48,17,35.4,1.44,0.51,0.1,0.29,4,4,premier_league,2023-2024
+314,Saša Lukić,rs SRB,MF,Fulham,26,1996,12.5,1,13,3,23.1,1.04,0.24,0.08,0.33,0,0,premier_league,2023-2024
+315,Ian Maatsen,nl NED,MF,Chelsea,21,2002,2.3,0,5,1,20.0,2.15,0.43,0.0,0.0,0,0,premier_league,2023-2024
+316,Alexis Mac Allister,ar ARG,MF,Liverpool,24,1998,28.9,5,44,9,20.5,1.52,0.31,0.09,0.44,1,1,premier_league,2023-2024
+317,James Maddison,eng ENG,MF,Tottenham Hotspur,26,1996,23.7,4,57,22,38.6,2.4,0.93,0.07,0.18,0,0,premier_league,2023-2024
+318,Noni Madueke,eng ENG,MF,Chelsea,21,2002,11.7,5,32,13,40.6,2.74,1.11,0.13,0.31,1,1,premier_league,2023-2024
+319,Gabriel Magalhães,br BRA,DF,Arsenal,25,1997,33.8,4,31,10,32.3,0.92,0.3,0.13,0.4,0,0,premier_league,2023-2024
+320,Harry Maguire,eng ENG,DF,Manchester Utd,30,1993,18.4,2,20,3,15.0,1.09,0.16,0.1,0.67,0,0,premier_league,2023-2024
+321,Kobbie Mainoo,eng ENG,MF,Manchester Utd,18,2005,21.4,3,11,5,45.5,0.51,0.23,0.27,0.6,0,0,premier_league,2023-2024
+322,Orel Mangala,be BEL,MF,Nottingham Forest,25,1998,17.4,1,10,1,10.0,0.58,0.06,0.1,1.0,0,0,premier_league,2023-2024
+323,Benson Manuel,ao ANG,MF,Burnley,26,1997,1.3,0,4,2,50.0,3.1,1.55,0.0,0.0,0,0,premier_league,2023-2024
+324,Solly March,eng ENG,"MF,DF",Brighton,29,1994,6.2,3,14,6,42.9,2.27,0.97,0.21,0.5,0,0,premier_league,2023-2024
+325,Anthony Martial,fr FRA,FW,Manchester Utd,27,1995,5.0,1,6,4,66.7,1.21,0.8,0.17,0.25,0,0,premier_league,2023-2024
+326,Gabriel Martinelli,br BRA,FW,Arsenal,22,2001,22.4,6,58,22,37.9,2.59,0.98,0.1,0.27,0,0,premier_league,2023-2024
+327,Emiliano Martínez,ar ARG,GK,Aston Villa,30,1992,33.5,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+328,Lisandro Martínez,ar ARG,DF,Manchester Utd,25,1998,7.2,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+329,Han-Noah Massengo,fr FRA,MF,Burnley,22,2001,0.2,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+330,Pape Matar Sarr,sn SEN,MF,Tottenham Hotspur,20,2002,23.0,3,36,14,38.9,1.57,0.61,0.08,0.21,0,0,premier_league,2023-2024
+331,Jean-Philippe Mateta,fr FRA,FW,Crystal Palace,26,1997,25.4,16,46,29,63.0,1.81,1.14,0.3,0.48,2,2,premier_league,2023-2024
+332,Joël Matip,cm CMR,DF,Liverpool,31,1991,8.7,0,5,0,0.0,0.58,0.0,0.0,,0,0,premier_league,2023-2024
+333,Alex Matos,eng ENG,MF,Chelsea,18,2004,0.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+334,Remi Matthews,eng ENG,GK,Crystal Palace,29,1994,0.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+335,Neal Maupay,fr FRA,FW,Brentford,26,1996,14.7,6,37,16,43.2,2.52,1.09,0.16,0.38,0,0,premier_league,2023-2024
+336,Neal Maupay,fr FRA,FW,Everton,26,1996,1.2,0,5,4,80.0,4.05,3.24,0.0,0.0,0,0,premier_league,2023-2024
+337,Konstantinos Mavropanos,gr GRE,DF,West Ham United,25,1997,16.7,1,12,3,25.0,0.72,0.18,0.08,0.33,0,0,premier_league,2023-2024
+338,Bryan Mbeumo,cm CMR,FW,Brentford,23,1999,21.8,9,53,20,37.7,2.43,0.92,0.11,0.3,3,3,premier_league,2023-2024
+339,James Mcatee,eng ENG,"MF,FW",Sheffield United,20,2002,20.2,3,26,9,34.6,1.28,0.44,0.08,0.22,1,1,premier_league,2023-2024
+340,James Mcatee,eng ENG,MF,Manchester City,20,2002,0.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+341,Oliver McBurnie,sct SCO,FW,Sheffield United,27,1996,14.2,6,33,17,51.5,2.32,1.2,0.12,0.24,2,2,premier_league,2023-2024
+342,James McConnell,eng ENG,MF,Liverpool,18,2004,0.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+343,John McGinn,sct SCO,MF,Aston Villa,28,1994,33.3,6,40,16,40.0,1.2,0.48,0.15,0.38,0,0,premier_league,2023-2024
+344,Scott McKenna,sct SCO,DF,Nottingham Forest,26,1996,4.6,0,2,0,0.0,0.43,0.0,0.0,,0,0,premier_league,2023-2024
+345,Dwight McNeil,eng ENG,MF,Everton,23,1999,32.1,3,57,15,26.3,1.77,0.47,0.05,0.2,0,0,premier_league,2023-2024
+346,Scott McTominay,sct SCO,"MF,FW",Manchester Utd,26,1996,21.1,7,44,19,43.2,2.08,0.9,0.16,0.37,0,0,premier_league,2023-2024
+347,Ben Mee,eng ENG,DF,Brentford,33,1989,14.1,2,10,2,20.0,0.71,0.14,0.2,1.0,0,0,premier_league,2023-2024
+348,Hannibal Mejbri,tn TUN,MF,Manchester Utd,20,2003,1.5,1,1,1,100.0,0.68,0.68,1.0,1.0,0,0,premier_league,2023-2024
+349,Teden Mengi,eng ENG,DF,Luton Town,21,2002,27.4,1,11,4,36.4,0.4,0.15,0.09,0.25,0,0,premier_league,2023-2024
+350,Chris Mepham,wls WAL,DF,Bournemouth,25,1997,6.9,0,1,1,100.0,0.15,0.15,0.0,0.0,0,0,premier_league,2023-2024
+351,Lewis Miley,eng ENG,MF,Newcastle United,17,2006,13.4,1,13,3,23.1,0.97,0.22,0.08,0.33,0,0,premier_league,2023-2024
+352,James Milner,eng ENG,"DF,MF",Brighton,37,1986,8.6,0,5,1,20.0,0.58,0.12,0.0,0.0,0,0,premier_league,2023-2024
+353,Tyrone Mings,eng ENG,DF,Aston Villa,30,1993,0.3,0,1,0,0.0,3.0,0.0,0.0,,0,0,premier_league,2023-2024
+354,Tyrick Mitchell,eng ENG,"DF,MF",Crystal Palace,23,1999,35.6,2,12,4,33.3,0.34,0.11,0.17,0.5,0,0,premier_league,2023-2024
+355,Kaoru Mitoma,jp JPN,"MF,FW",Brighton,26,1997,16.5,3,34,15,44.1,2.06,0.91,0.09,0.2,0,0,premier_league,2023-2024
+356,Aleksandar Mitrović,rs SRB,FW,Fulham,28,1994,0.4,0,2,1,50.0,5.45,2.73,0.0,0.0,0,0,premier_league,2023-2024
+357,Jakub Moder,pl POL,"MF,DF",Brighton,24,1999,6.9,0,11,3,27.3,1.6,0.44,0.0,0.0,0,0,premier_league,2023-2024
+358,Gonzalo Montiel,ar ARG,DF,Nottingham Forest,26,1997,8.9,0,3,0,0.0,0.34,0.0,0.0,,0,0,premier_league,2023-2024
+359,Kieffer Moore,wls WAL,"DF,FW",Bournemouth,30,1992,1.2,1,6,2,33.3,5.0,1.67,0.17,0.5,0,0,premier_league,2023-2024
+360,Mikey Moore,eng ENG,FW,Tottenham Hotspur,15,2007,0.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+361,Álex Moreno,es ESP,DF,Aston Villa,30,1993,11.5,2,8,4,50.0,0.7,0.35,0.25,0.5,0,0,premier_league,2023-2024
+362,Carlton Morris,eng ENG,"FW,MF",Luton Town,27,1995,31.8,11,73,31,42.5,2.3,0.97,0.08,0.19,5,5,premier_league,2023-2024
+363,Mason Mount,eng ENG,MF,Manchester Utd,24,1999,5.7,1,5,1,20.0,0.87,0.17,0.2,1.0,0,0,premier_league,2023-2024
+364,Divin Mubama,eng ENG,FW,West Ham United,18,2004,0.9,0,1,0,0.0,1.13,0.0,0.0,,0,0,premier_league,2023-2024
+365,Mykhailo Mudryk,ua UKR,MF,Chelsea,22,2001,17.5,5,35,12,34.3,2.0,0.69,0.14,0.42,0,0,premier_league,2023-2024
+366,Rodrigo Muniz,br BRA,FW,Fulham,22,2001,17.7,9,73,27,37.0,4.12,1.53,0.12,0.33,0,0,premier_league,2023-2024
+367,Daniel Muñoz,co COL,"MF,DF",Crystal Palace,27,1996,16.0,0,8,0,0.0,0.5,0.0,0.0,,0,0,premier_league,2023-2024
+368,Finley Munroe,eng ENG,DF,Aston Villa,18,2005,0.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+369,Arijanet Muric,xk KVX,GK,Burnley,24,1998,10.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+370,Murillo,br BRA,DF,Nottingham Forest,21,2002,31.0,0,17,6,35.3,0.55,0.19,0.0,0.0,0,0,premier_league,2023-2024
+371,Alex Murphy,ie IRL,DF,Newcastle United,19,2004,0.1,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+372,Jacob Murphy,eng ENG,"FW,MF",Newcastle United,28,1995,13.2,3,30,10,33.3,2.27,0.76,0.1,0.3,0,0,premier_league,2023-2024
+373,Vitaliy Mykolenko,ua UKR,DF,Everton,24,1999,27.4,2,26,5,19.2,0.95,0.18,0.08,0.4,0,0,premier_league,2023-2024
+374,Marvelous Nakamba,zw ZIM,MF,Luton Town,29,1994,12.6,0,5,0,0.0,0.4,0.0,0.0,,0,0,premier_league,2023-2024
+375,Michael Ndiweni,eng ENG,MF,Newcastle United,19,2003,0.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+376,Reiss Nelson,eng ENG,FW,Arsenal,23,1999,3.0,0,4,1,25.0,1.34,0.34,0.0,0.0,0,0,premier_league,2023-2024
+377,Zack Nelson,eng ENG,MF,Luton Town,18,2004,0.1,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+378,Neto,br BRA,GK,Bournemouth,34,1989,32.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+379,Pedro Neto,pt POR,"MF,FW",Wolves,23,2000,16.8,2,36,12,33.3,2.14,0.71,0.06,0.17,0,0,premier_league,2023-2024
+380,Moussa Niakhate,sn SEN,DF,Nottingham Forest,27,1996,16.2,1,5,1,20.0,0.31,0.06,0.2,1.0,0,0,premier_league,2023-2024
+381,Eddie Nketiah,eng ENG,FW,Arsenal,24,1999,12.0,5,38,12,31.6,3.16,1.0,0.13,0.42,0,0,premier_league,2023-2024
+382,Christopher Nkunku,fr FRA,"MF,FW",Chelsea,25,1997,4.9,3,16,9,56.3,3.25,1.83,0.19,0.33,0,0,premier_league,2023-2024
+383,Rhys Norrington-Davies,wls WAL,DF,Sheffield United,24,1999,1.2,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+384,Oliver Norwood,nir NIR,MF,Sheffield United,32,1991,16.0,1,15,6,40.0,0.94,0.37,0.0,0.0,1,1,premier_league,2023-2024
+385,Matheus Nunes,pt POR,MF,Wolves,24,1998,2.0,0,1,0,0.0,0.5,0.0,0.0,,0,0,premier_league,2023-2024
+386,Matheus Nunes,pt POR,"MF,FW",Manchester City,24,1998,7.3,0,9,4,44.4,1.23,0.54,0.0,0.0,0,0,premier_league,2023-2024
+387,Darwin Núñez,uy URU,FW,Liverpool,24,1999,22.7,11,108,46,42.6,4.75,2.02,0.1,0.24,0,1,premier_league,2023-2024
+388,Ethan Nwaneri,eng ENG,MF,Arsenal,16,2007,0.2,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+389,Christian Nørgaard,dk DEN,MF,Brentford,29,1994,27.8,2,35,7,20.0,1.26,0.25,0.06,0.29,0,0,premier_league,2023-2024
+390,Mark O'Mahony,ie IRL,FW,Brighton,18,2005,0.7,0,1,0,0.0,1.43,0.0,0.0,,0,0,premier_league,2023-2024
+391,Dara O'Shea,ie IRL,DF,Burnley,24,1999,32.1,3,19,5,26.3,0.59,0.16,0.16,0.6,0,0,premier_league,2023-2024
+392,Michael Obafemi,ie IRL,FW,Burnley,23,2000,0.2,0,2,0,0.0,9.0,0.0,0.0,,0,0,premier_league,2023-2024
+393,Wilson Odobert,fr FRA,"MF,FW",Burnley,18,2004,23.3,3,49,14,28.6,2.1,0.6,0.06,0.21,0,0,premier_league,2023-2024
+394,Odeluga Offiah,eng ENG,DF,Brighton,20,2002,1.4,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+395,Chiedozie Ogbene,ie IRL,MF,Luton Town,26,1997,22.2,4,35,14,40.0,1.58,0.63,0.11,0.29,0,0,premier_league,2023-2024
+396,Angelo Ogbonna,it ITA,DF,West Ham United,35,1988,7.1,0,1,0,0.0,0.14,0.0,0.0,,0,0,premier_league,2023-2024
+397,Michael Olakigbe,eng ENG,MF,Brentford,19,2004,0.7,0,3,1,33.3,4.58,1.53,0.0,0.0,0,0,premier_league,2023-2024
+398,Michael Olise,fr FRA,"MF,FW",Crystal Palace,21,2001,14.2,10,57,21,36.8,4.02,1.48,0.16,0.43,1,1,premier_league,2023-2024
+399,Robin Olsen,se SWE,GK,Aston Villa,33,1990,4.5,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+400,Andrew Omobamidele,ie IRL,DF,Nottingham Forest,21,2002,8.7,0,1,0,0.0,0.11,0.0,0.0,,0,0,premier_league,2023-2024
+401,Amadou Onana,be BEL,MF,Everton,21,2001,23.2,2,29,6,20.7,1.25,0.26,0.07,0.33,0,0,premier_league,2023-2024
+402,André Onana,cm CMR,GK,Manchester Utd,27,1996,38.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+403,Ryan One,sct SCO,MF,Sheffield United,17,2006,0.1,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+404,Tyler Onyango,eng ENG,MF,Everton,20,2003,0.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+405,Fred Onyedinma,eng ENG,MF,Luton Town,26,1996,4.5,0,5,2,40.0,1.11,0.44,0.0,0.0,0,0,premier_league,2023-2024
+406,Frank Onyeka,ng NGA,MF,Brentford,25,1998,12.9,1,22,9,40.9,1.71,0.7,0.05,0.11,0,0,premier_league,2023-2024
+407,Divock Origi,be BEL,"MF,FW",Nottingham Forest,28,1995,6.7,0,14,4,28.6,2.08,0.59,0.0,0.0,0,0,premier_league,2023-2024
+408,Stefan Ortega,de GER,GK,Manchester City,30,1992,7.1,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+409,Ben Osborn,eng ENG,MF,Sheffield United,28,1994,15.2,0,4,0,0.0,0.26,0.0,0.0,,0,0,premier_league,2023-2024
+410,Gabriel Osho,ng NGA,DF,Luton Town,24,1998,20.5,2,10,2,20.0,0.49,0.1,0.2,1.0,0,0,premier_league,2023-2024
+411,William Osula,dk DEN,FW,Sheffield United,19,2003,8.7,0,21,8,38.1,2.4,0.92,0.0,0.0,0,0,premier_league,2023-2024
+412,Dango Ouattara,bf BFA,"DF,MF",Bournemouth,21,2002,13.7,1,30,7,23.3,2.2,0.51,0.03,0.14,0,0,premier_league,2023-2024
+413,David Ozoh,eng ENG,MF,Crystal Palace,18,2005,1.7,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+414,João Palhinha,pt POR,MF,Fulham,28,1995,30.0,4,44,13,29.5,1.47,0.43,0.09,0.31,0,0,premier_league,2023-2024
+415,Cole Palmer,eng ENG,"MF,FW",Chelsea,21,2002,29.0,22,108,46,42.6,3.73,1.59,0.12,0.28,9,9,premier_league,2023-2024
+416,Cole Palmer,eng ENG,"FW,MF",Manchester City,21,2002,0.1,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+417,Emerson Palmieri,it ITA,DF,West Ham United,28,1994,34.9,1,19,4,21.1,0.55,0.11,0.05,0.25,0,0,premier_league,2023-2024
+418,Lucas Paquetá,br BRA,MF,West Ham United,25,1997,29.1,4,42,11,26.2,1.44,0.38,0.05,0.18,2,2,premier_league,2023-2024
+419,Ben Parkinson,eng ENG,FW,Newcastle United,18,2005,0.3,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+420,Thomas Partey,gh GHA,"MF,DF",Arsenal,30,1993,8.8,0,8,2,25.0,0.91,0.23,0.0,0.0,0,0,premier_league,2023-2024
+421,Nathan Patterson,sct SCO,DF,Everton,21,2001,11.2,0,4,0,0.0,0.36,0.0,0.0,,0,0,premier_league,2023-2024
+422,Myles Peart-Harris,eng ENG,MF,Brentford,20,2002,0.1,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+423,Sydie Peck,eng ENG,MF,Sheffield United,18,2004,0.1,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+424,Facundo Pellistri,uy URU,MF,Manchester Utd,21,2001,1.9,0,4,2,50.0,2.09,1.05,0.0,0.0,0,0,premier_league,2023-2024
+425,Andreas Pereira,br BRA,MF,Fulham,27,1996,29.0,3,52,16,30.8,1.79,0.55,0.06,0.19,0,0,premier_league,2023-2024
+426,Ivan Perišić,hr CRO,"FW,MF",Tottenham Hotspur,34,1989,1.1,0,2,0,0.0,1.75,0.0,0.0,,0,0,premier_league,2023-2024
+427,Đorđe Petrović,rs SRB,GK,Chelsea,23,1999,22.1,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+428,Kalvin Phillips,eng ENG,MF,West Ham United,27,1995,3.4,0,3,2,66.7,0.87,0.58,0.0,0.0,0,0,premier_league,2023-2024
+429,Kalvin Phillips,eng ENG,"DF,MF",Manchester City,27,1995,1.0,0,2,0,0.0,1.94,0.0,0.0,,0,0,premier_league,2023-2024
+430,Jaden Philogene Bidace,eng ENG,"FW,MF",Aston Villa,21,2002,0.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+431,Jordan Pickford,eng ENG,GK,Everton,29,1994,38.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+432,Ethan Pinnock,jm JAM,DF,Brentford,30,1993,28.0,2,19,4,21.1,0.68,0.14,0.11,0.5,0,0,premier_league,2023-2024
+433,Nick Pope,eng ENG,GK,Newcastle United,31,1992,14.9,0,1,0,0.0,0.07,0.0,0.0,,0,0,premier_league,2023-2024
+434,Pedro Porro,es ESP,DF,Tottenham Hotspur,23,1999,34.3,3,53,12,22.6,1.54,0.35,0.06,0.25,0,0,premier_league,2023-2024
+435,Jarell Quansah,eng ENG,DF,Liverpool,20,2003,13.2,2,6,4,66.7,0.45,0.3,0.33,0.5,0,0,premier_league,2023-2024
+436,Ionuț Radu,ro ROU,GK,Bournemouth,26,1997,2.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+437,Jesurun Rak Sakyi,eng ENG,"FW,MF",Crystal Palace,20,2002,1.5,0,5,1,20.0,3.31,0.66,0.0,0.0,0,0,premier_league,2023-2024
+438,Aaron Ramsdale,eng ENG,GK,Arsenal,25,1998,6.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+439,Aaron Ramsey,eng ENG,MF,Burnley,20,2003,5.9,0,6,2,33.3,1.02,0.34,0.0,0.0,0,0,premier_league,2023-2024
+440,Jacob Ramsey,eng ENG,MF,Aston Villa,22,2001,9.5,1,19,5,26.3,2.0,0.53,0.05,0.2,0,0,premier_league,2023-2024
+441,Marcus Rashford,eng ENG,"MF,FW",Manchester Utd,25,1997,25.2,7,62,21,33.9,2.46,0.83,0.08,0.24,2,2,premier_league,2023-2024
+442,David Raya,es ESP,GK,Arsenal,27,1995,32.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+443,Tim Ream,us USA,DF,Fulham,35,1987,16.7,1,1,1,100.0,0.06,0.06,1.0,1.0,0,0,premier_league,2023-2024
+444,Nathan Redmond,eng ENG,"FW,MF",Burnley,29,1994,1.6,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+445,Harrison Reed,eng ENG,MF,Fulham,28,1995,14.7,0,9,2,22.2,0.61,0.14,0.0,0.0,0,0,premier_league,2023-2024
+446,Sergio Reguilón,es ESP,DF,Manchester Utd,26,1996,4.6,0,4,0,0.0,0.87,0.0,0.0,,0,0,premier_league,2023-2024
+447,Sergio Reguilón,es ESP,"MF,DF",Brentford,26,1996,12.4,0,13,2,15.4,1.05,0.16,0.0,0.0,0,0,premier_league,2023-2024
+448,Gio Reyna,us USA,MF,Nottingham Forest,20,2002,2.6,0,5,2,40.0,1.91,0.77,0.0,0.0,0,0,premier_league,2023-2024
+449,Rodrigo Ribeiro,pt POR,FW,Nottingham Forest,18,2005,0.2,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+450,Declan Rice,eng ENG,MF,Arsenal,24,1999,35.8,7,58,20,34.5,1.62,0.56,0.12,0.35,0,0,premier_league,2023-2024
+451,Chris Richards,us USA,"DF,MF",Crystal Palace,23,2000,23.3,1,11,3,27.3,0.47,0.13,0.09,0.33,0,0,premier_league,2023-2024
+452,Richarlison,br BRA,"FW,MF",Tottenham Hotspur,26,1997,16.6,11,61,25,41.0,3.68,1.51,0.18,0.44,0,0,premier_league,2023-2024
+453,Jaïro Riedewald,nl NED,MF,Crystal Palace,26,1996,2.6,0,1,0,0.0,0.38,0.0,0.0,,0,0,premier_league,2023-2024
+454,Matt Ritchie,sct SCO,"DF,MF",Newcastle United,33,1989,1.4,1,6,4,66.7,4.22,2.81,0.17,0.25,0,0,premier_league,2023-2024
+455,Connor Roberts,wls WAL,DF,Burnley,27,1995,9.1,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+456,Andrew Robertson,sct SCO,DF,Liverpool,29,1994,18.8,3,12,7,58.3,0.64,0.37,0.25,0.43,0,0,premier_league,2023-2024
+457,Antonee Robinson,us USA,DF,Fulham,25,1997,36.3,0,16,7,43.8,0.44,0.19,0.0,0.0,0,0,premier_league,2023-2024
+458,Jack Robinson,eng ENG,DF,Sheffield United,29,1993,32.1,1,14,6,42.9,0.44,0.19,0.07,0.17,0,0,premier_league,2023-2024
+459,Rodri,es ESP,"MF,DF",Manchester City,27,1996,32.6,8,62,22,35.5,1.9,0.68,0.13,0.36,0,0,premier_league,2023-2024
+460,Jay Rodriguez,eng ENG,FW,Burnley,34,1989,9.1,2,22,8,36.4,2.41,0.88,0.05,0.13,1,1,premier_league,2023-2024
+461,Mads Roerslev,dk DEN,"MF,DF",Brentford,24,1999,22.1,1,7,1,14.3,0.32,0.05,0.14,1.0,0,0,premier_league,2023-2024
+462,Morgan Rogers,eng ENG,MF,Aston Villa,21,2002,7.1,3,11,5,45.5,1.55,0.71,0.27,0.6,0,0,premier_league,2023-2024
+463,Cristian Romero,ar ARG,DF,Tottenham Hotspur,25,1998,31.0,5,24,10,41.7,0.77,0.32,0.21,0.5,0,0,premier_league,2023-2024
+464,Joe Rothwell,eng ENG,MF,Bournemouth,28,1995,4.3,0,2,0,0.0,0.47,0.0,0.0,,0,0,premier_league,2023-2024
+465,Pelly Ruddock Mpanzu,cd COD,MF,Luton Town,30,1993,12.2,0,11,1,9.1,0.9,0.08,0.0,0.0,0,0,premier_league,2023-2024
+466,José Sá,pt POR,GK,Wolves,30,1993,33.7,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+467,Dominic Sadi,eng ENG,MF,Bournemouth,19,2003,0.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+468,Bukayo Saka,eng ENG,FW,Arsenal,21,2001,32.4,16,107,37,34.6,3.3,1.14,0.09,0.27,6,6,premier_league,2023-2024
+469,Mohamed Salah,eg EGY,FW,Liverpool,31,1992,28.2,18,114,56,49.1,4.05,1.99,0.11,0.23,5,7,premier_league,2023-2024
+470,William Saliba,fr FRA,DF,Arsenal,22,2001,38.0,2,10,4,40.0,0.26,0.11,0.2,0.5,0,0,premier_league,2023-2024
+471,Albert Sambi Lokonga,be BEL,MF,Luton Town,23,1999,14.5,1,8,2,25.0,0.55,0.14,0.13,0.5,0,0,premier_league,2023-2024
+472,Davinson Sánchez,co COL,DF,Tottenham Hotspur,27,1996,0.9,0,1,0,0.0,1.17,0.0,0.0,,0,0,premier_league,2023-2024
+473,Robert Sánchez,es ESP,GK,Chelsea,25,1997,15.9,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+474,Jadon Sancho,eng ENG,"FW,MF",Manchester Utd,23,2000,0.9,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+475,Ibrahim Sangaré,ci CIV,MF,Nottingham Forest,25,1997,11.5,0,8,0,0.0,0.7,0.0,0.0,,0,0,premier_league,2023-2024
+476,Andrey Santos,br BRA,MF,Nottingham Forest,19,2004,0.1,0,2,0,0.0,22.5,0.0,0.0,,0,0,premier_league,2023-2024
+477,Pablo Sarabia,es ESP,"MF,FW",Wolves,31,1992,19.4,4,46,18,39.1,2.37,0.93,0.04,0.11,2,2,premier_league,2023-2024
+478,Dane Scarlett,eng ENG,FW,Tottenham Hotspur,19,2004,0.2,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+479,Kevin Schade,de GER,FW,Brentford,21,2001,3.7,2,8,4,50.0,2.16,1.08,0.25,0.5,0,0,premier_league,2023-2024
+480,Fabian Schär,ch SUI,DF,Newcastle United,31,1991,33.9,4,35,9,25.7,1.03,0.27,0.11,0.44,0,0,premier_league,2023-2024
+481,Jeffrey Schlupp,gh GHA,"MF,FW",Crystal Palace,30,1992,15.0,2,19,11,57.9,1.26,0.73,0.11,0.18,0,0,premier_league,2023-2024
+482,Alex Scott,eng ENG,MF,Bournemouth,19,2003,11.3,1,15,4,26.7,1.33,0.36,0.07,0.25,0,0,premier_league,2023-2024
+483,Matz Sels,be BEL,GK,Nottingham Forest,31,1992,16.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+484,Nélson Semedo,pt POR,"MF,DF",Wolves,29,1993,34.3,0,17,4,23.5,0.5,0.12,0.0,0.0,0,0,premier_league,2023-2024
+485,Antoine Semenyo,gh GHA,MF,Bournemouth,23,2000,23.4,8,70,31,44.3,2.99,1.33,0.11,0.26,0,0,premier_league,2023-2024
+486,Marcos Senesi,ar ARG,DF,Bournemouth,26,1997,24.9,4,13,4,30.8,0.52,0.16,0.31,1.0,0,0,premier_league,2023-2024
+487,Luke Shaw,eng ENG,DF,Manchester Utd,28,1995,10.7,0,2,0,0.0,0.19,0.0,0.0,,0,0,premier_league,2023-2024
+488,James Shea,eng ENG,GK,Luton Town,32,1991,0.2,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+489,Bernardo Silva,pt POR,MF,Manchester City,28,1994,28.6,6,34,15,44.1,1.19,0.52,0.18,0.4,0,0,premier_league,2023-2024
+490,Fábio Silva,pt POR,FW,Wolves,21,2002,2.9,0,7,3,42.9,2.39,1.02,0.0,0.0,0,0,premier_league,2023-2024
+491,Thiago Silva,br BRA,DF,Chelsea,38,1984,28.1,3,14,4,28.6,0.5,0.14,0.21,0.75,0,0,premier_league,2023-2024
+492,Luis Sinisterra,co COL,MF,Bournemouth,24,1999,7.8,2,27,9,33.3,3.48,1.16,0.07,0.22,0,0,premier_league,2023-2024
+493,Oliver Skipp,eng ENG,"MF,DF",Tottenham Hotspur,22,2000,7.9,0,4,1,25.0,0.51,0.13,0.0,0.0,0,0,premier_league,2023-2024
+494,Adam Smith,eng ENG,DF,Bournemouth,32,1991,23.9,0,2,0,0.0,0.08,0.0,0.0,,0,0,premier_league,2023-2024
+495,Emile Smith Rowe,eng ENG,MF,Arsenal,23,2000,3.9,0,15,7,46.7,3.82,1.78,0.0,0.0,0,0,premier_league,2023-2024
+496,Cédric Soares,pt POR,"DF,MF",Arsenal,31,1991,0.7,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+497,Dominic Solanke,eng ENG,FW,Bournemouth,25,1997,36.9,19,109,38,34.9,2.95,1.03,0.16,0.45,2,3,premier_league,2023-2024
+498,Manor Solomon,il ISR,MF,Tottenham Hotspur,24,1999,2.2,0,7,1,14.3,3.17,0.45,0.0,0.0,0,0,premier_league,2023-2024
+499,Tomáš Souček,cz CZE,MF,West Ham United,28,1995,31.9,7,42,15,35.7,1.32,0.47,0.17,0.47,0,0,premier_league,2023-2024
+500,Vinicius Souza,br BRA,MF,Sheffield United,24,1999,29.6,1,14,6,42.9,0.47,0.2,0.07,0.17,0,0,premier_league,2023-2024
+501,Jason Steele,eng ENG,GK,Brighton,32,1990,17.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+502,Raheem Sterling,eng ENG,MF,Chelsea,28,1994,22.0,8,51,22,43.1,2.32,1.0,0.16,0.36,0,0,premier_league,2023-2024
+503,John Stones,eng ENG,DF,Manchester City,29,1994,11.8,1,4,2,50.0,0.34,0.17,0.25,0.5,0,0,premier_league,2023-2024
+504,Thomas Strakosha,al ALB,GK,Brentford,28,1995,1.5,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+505,Dominik Szoboszlai,hu HUN,MF,Liverpool,22,2000,23.4,3,60,15,25.0,2.57,0.64,0.05,0.2,0,0,premier_league,2023-2024
+506,Matt Targett,eng ENG,DF,Newcastle United,27,1995,0.9,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+507,James Tarkowski,eng ENG,DF,Everton,30,1992,38.0,1,25,5,20.0,0.66,0.13,0.04,0.2,0,0,premier_league,2023-2024
+508,Jimi Tauriainen,eng ENG,FW,Chelsea,19,2004,0.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+509,Nuno Tavares,pt POR,DF,Nottingham Forest,23,2000,5.1,0,7,1,14.3,1.38,0.2,0.0,0.0,0,0,premier_league,2023-2024
+510,Marcus Tavernier,eng ENG,MF,Bournemouth,24,1999,23.5,3,53,16,30.2,2.25,0.68,0.06,0.19,0,0,premier_league,2023-2024
+511,Charlie Taylor,eng ENG,DF,Burnley,29,1993,25.9,1,10,1,10.0,0.39,0.04,0.1,1.0,0,0,premier_league,2023-2024
+512,Kenny Tete,nl NED,DF,Fulham,27,1995,9.6,1,4,1,25.0,0.42,0.1,0.25,1.0,0,0,premier_league,2023-2024
+513,Luke Thomas,eng ENG,"MF,DF",Sheffield United,22,2001,10.2,0,6,1,16.7,0.59,0.1,0.0,0.0,0,0,premier_league,2023-2024
+514,Youri Tielemans,be BEL,"MF,FW",Aston Villa,26,1997,18.0,2,14,6,42.9,0.78,0.33,0.14,0.33,0,0,premier_league,2023-2024
+515,Jurriën Timber,nl NED,DF,Arsenal,22,2001,0.8,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+516,Harry Toffolo,eng ENG,"DF,MF",Nottingham Forest,27,1995,16.2,1,8,5,62.5,0.49,0.31,0.13,0.2,0,0,premier_league,2023-2024
+517,Takehiro Tomiyasu,jp JPN,DF,Arsenal,24,1998,12.8,2,17,3,17.6,1.33,0.23,0.12,0.67,0,0,premier_league,2023-2024
+518,James Tomkins,eng ENG,"DF,MF",Crystal Palace,34,1989,0.1,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+519,Sandro Tonali,it ITA,MF,Newcastle United,23,2000,4.9,1,3,2,66.7,0.62,0.41,0.33,0.5,0,0,premier_league,2023-2024
+520,Ivan Toney,eng ENG,FW,Brentford,27,1996,16.1,4,51,22,43.1,3.17,1.37,0.08,0.18,0,0,premier_league,2023-2024
+521,Pau Torres,es ESP,DF,Aston Villa,26,1997,27.4,2,12,5,41.7,0.44,0.18,0.17,0.4,0,0,premier_league,2023-2024
+522,Andros Townsend,eng ENG,"MF,FW",Luton Town,32,1991,13.4,1,20,7,35.0,1.49,0.52,0.05,0.14,0,0,premier_league,2023-2024
+523,James Trafford,eng ENG,GK,Burnley,20,2002,28.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+524,Adama Traoré,es ESP,MF,Fulham,27,1996,4.2,2,11,7,63.6,2.63,1.67,0.18,0.29,0,0,premier_league,2023-2024
+525,Bénie Traoré,ci CIV,"FW,MF",Sheffield United,20,2002,4.3,0,1,1,100.0,0.23,0.23,0.0,0.0,0,0,premier_league,2023-2024
+526,Bertrand Traoré,bf BFA,"FW,MF",Aston Villa,27,1995,0.1,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+527,Boubacar Traoré,ml MLI,MF,Wolves,21,2001,9.1,0,11,1,9.1,1.21,0.11,0.0,0.0,0,0,premier_league,2023-2024
+528,Mark Travers,ie IRL,GK,Bournemouth,24,1999,4.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+529,Mike Trésor,be BEL,"MF,FW",Burnley,24,1999,4.7,0,5,0,0.0,1.07,0.0,0.0,,0,0,premier_league,2023-2024
+530,Kieran Trippier,eng ENG,DF,Newcastle United,32,1990,24.8,1,8,2,25.0,0.32,0.08,0.13,0.5,0,0,premier_league,2023-2024
+531,Leandro Trossard,be BEL,"FW,MF",Arsenal,28,1994,18.3,12,60,22,36.7,3.27,1.2,0.2,0.55,0,0,premier_league,2023-2024
+532,Auston Trusty,us USA,DF,Sheffield United,24,1998,28.6,0,8,2,25.0,0.28,0.07,0.0,0.0,0,0,premier_league,2023-2024
+533,Kostas Tsimikas,gr GRE,DF,Liverpool,27,1996,7.5,0,3,0,0.0,0.4,0.0,0.0,,0,0,premier_league,2023-2024
+534,Matt Turner,us USA,GK,Nottingham Forest,29,1994,17.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+535,Destiny Udogie,it ITA,DF,Tottenham Hotspur,20,2002,26.6,2,9,5,55.6,0.34,0.19,0.22,0.4,0,0,premier_league,2023-2024
+536,Lesley Ugochukwu,fr FRA,MF,Chelsea,19,2004,3.3,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+537,Enes Ünal,tr TUR,FW,Bournemouth,26,1997,3.6,2,23,11,47.8,6.31,3.02,0.09,0.18,0,0,premier_league,2023-2024
+538,Virgil van Dijk,nl NED,DF,Liverpool,32,1991,35.3,2,45,14,31.1,1.27,0.4,0.04,0.14,0,0,premier_league,2023-2024
+539,Raphaël Varane,fr FRA,DF,Manchester Utd,30,1993,15.3,1,8,2,25.0,0.52,0.13,0.13,0.5,0,0,premier_league,2023-2024
+540,Alejo Véliz,ar ARG,FW,Tottenham Hotspur,19,2003,0.6,1,2,1,50.0,3.6,1.8,0.5,1.0,0,0,premier_league,2023-2024
+541,Joël Veltman,nl NED,DF,Brighton,31,1992,17.6,1,6,3,50.0,0.34,0.17,0.17,0.33,0,0,premier_league,2023-2024
+542,Micky van de Ven,nl NED,DF,Tottenham Hotspur,22,2001,26.0,3,8,3,37.5,0.31,0.12,0.38,1.0,0,0,premier_league,2023-2024
+543,Bart Verbruggen,nl NED,GK,Brighton,20,2002,21.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+544,Guglielmo Vicario,it ITA,GK,Tottenham Hotspur,26,1996,38.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+545,Fabio Vieira,pt POR,MF,Arsenal,23,2000,3.3,1,7,2,28.6,2.12,0.61,0.0,0.0,1,1,premier_league,2023-2024
+546,Carlos Vinícius,br BRA,FW,Fulham,28,1995,3.5,2,9,5,55.6,2.57,1.43,0.22,0.4,0,0,premier_league,2023-2024
+547,Vitinho,br BRA,"DF,MF",Burnley,24,1999,25.7,0,25,4,16.0,0.97,0.16,0.0,0.0,0,0,premier_league,2023-2024
+548,Odysseas Vlachodimos,gr GRE,GK,Nottingham Forest,29,1994,5.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+549,Kyle Walker,eng ENG,"DF,MF",Manchester City,33,1990,30.7,0,16,3,18.8,0.52,0.1,0.0,0.0,0,0,premier_league,2023-2024
+550,Aaron Wan-Bissaka,cd COD,DF,Manchester Utd,25,1997,19.8,0,3,1,33.3,0.15,0.05,0.0,0.0,0,0,premier_league,2023-2024
+551,Joel Ward,eng ENG,DF,Crystal Palace,33,1989,22.0,0,10,0,0.0,0.45,0.0,0.0,,0,0,premier_league,2023-2024
+552,James Ward-Prowse,eng ENG,MF,West Ham United,28,1994,33.3,7,44,18,40.9,1.32,0.54,0.11,0.28,2,2,premier_league,2023-2024
+553,Lewis Warrington,eng ENG,MF,Everton,20,2002,0.0,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+554,Deivid Washington,br BRA,FW,Chelsea,18,2005,0.1,0,1,0,0.0,6.92,0.0,0.0,,0,0,premier_league,2023-2024
+555,Ollie Watkins,eng ENG,FW,Aston Villa,27,1995,35.7,19,106,46,43.4,2.97,1.29,0.18,0.41,0,0,premier_league,2023-2024
+556,Adam Webster,eng ENG,DF,Brighton,28,1995,12.7,0,8,1,12.5,0.63,0.08,0.0,0.0,0,0,premier_league,2023-2024
+557,Danny Welbeck,eng ENG,"FW,MF",Brighton,32,1990,18.8,5,41,16,39.0,2.18,0.85,0.12,0.31,0,0,premier_league,2023-2024
+558,Timo Werner,de GER,"MF,FW",Tottenham Hotspur,27,1996,9.0,2,29,7,24.1,3.23,0.78,0.07,0.29,0,0,premier_league,2023-2024
+559,Adam Wharton,eng ENG,MF,Crystal Palace,19,2004,14.4,0,10,1,10.0,0.69,0.07,0.0,0.0,0,0,premier_league,2023-2024
+560,Ethan Wheatley,eng ENG,FW,Manchester Utd,17,2006,0.2,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+561,Ben White,eng ENG,DF,Arsenal,25,1997,33.2,4,13,8,61.5,0.39,0.24,0.31,0.5,0,0,premier_league,2023-2024
+562,Joe White,eng ENG,MF,Newcastle United,20,2002,0.1,0,0,0,,0.0,0.0,,,0,0,premier_league,2023-2024
+563,Neco Williams,wls WAL,"DF,MF",Nottingham Forest,22,2001,18.2,0,15,4,26.7,0.82,0.22,0.0,0.0,0,0,premier_league,2023-2024
+564,Willian,br BRA,"MF,FW",Fulham,34,1988,22.8,4,45,18,40.0,1.97,0.79,0.04,0.11,2,2,premier_league,2023-2024
+565,Joe Willock,eng ENG,MF,Newcastle United,23,1999,4.7,1,7,4,57.1,1.5,0.86,0.14,0.25,0,0,premier_league,2023-2024
+566,Callum Wilson,eng ENG,FW,Newcastle United,31,1992,11.0,9,35,21,60.0,3.18,1.91,0.2,0.33,2,2,premier_league,2023-2024
+567,Harry Wilson,wls WAL,"MF,FW",Fulham,26,1997,18.0,4,40,13,32.5,2.22,0.72,0.1,0.31,0,0,premier_league,2023-2024
+568,Yoane Wissa,cd COD,FW,Brentford,26,1996,27.7,12,67,26,38.8,2.42,0.94,0.18,0.46,0,0,premier_league,2023-2024
+569,Chris Wood,nz NZL,FW,Nottingham Forest,31,1991,20.1,14,48,26,54.2,2.38,1.29,0.29,0.54,0,0,premier_league,2023-2024
+570,Cauley Woodrow,eng ENG,FW,Luton Town,28,1994,4.7,1,16,4,25.0,3.37,0.84,0.06,0.25,0,0,premier_league,2023-2024
+571,Joe Worrall,eng ENG,DF,Nottingham Forest,26,1997,4.9,0,2,0,0.0,0.41,0.0,0.0,,0,0,premier_league,2023-2024
+572,Yehor Yarmoliuk,ua UKR,MF,Brentford,19,2004,7.6,0,11,5,45.5,1.44,0.65,0.0,0.0,0,0,premier_league,2023-2024
+573,Ryan Yates,eng ENG,MF,Nottingham Forest,25,1997,22.1,1,32,7,21.9,1.45,0.32,0.03,0.14,0,0,premier_league,2023-2024
+574,Ashley Young,eng ENG,"DF,MF",Everton,38,1985,25.3,0,13,2,15.4,0.51,0.08,0.0,0.0,0,0,premier_league,2023-2024
+575,Illia Zabarnyi,ua UKR,DF,Bournemouth,20,2002,37.0,1,8,3,37.5,0.22,0.08,0.13,0.33,0,0,premier_league,2023-2024
+576,Nicolò Zaniolo,it ITA,"MF,FW",Aston Villa,24,1999,9.3,2,27,10,37.0,2.9,1.07,0.07,0.2,0,0,premier_league,2023-2024
+577,Anass Zaroury,ma MAR,FW,Burnley,22,2000,1.7,0,3,1,33.3,1.78,0.59,0.0,0.0,0,0,premier_league,2023-2024
+578,Oleksandr Zinchenko,ua UKR,DF,Arsenal,26,1996,19.1,1,17,3,17.6,0.89,0.16,0.06,0.33,0,0,premier_league,2023-2024
+579,Kurt Zouma,fr FRA,DF,West Ham United,28,1994,31.5,3,16,7,43.8,0.51,0.22,0.19,0.43,0,0,premier_league,2023-2024
+580,Martin Ødegaard,no NOR,MF,Arsenal,24,1998,34.3,8,77,23,29.9,2.24,0.67,0.08,0.26,2,2,premier_league,2023-2024
