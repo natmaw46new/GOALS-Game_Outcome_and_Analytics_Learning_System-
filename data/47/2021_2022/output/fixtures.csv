@@ -1,0 +1,381 @@
+match_id,round,page_url,match_date,finished,home_team,home_id,away_team,away_id
+3609929,1,/matches/arsenal-vs-brentford/389pak#3609929,2021-08-13T19:00:00Z,True,Brentford,9937,Arsenal,9825
+3609934,1,/matches/leeds-united-vs-manchester-united/2wd539#3609934,2021-08-14T11:30:00Z,True,Manchester United,10260,Leeds United,8463
+3609930,1,/matches/burnley-vs-brighton-hove-albion/2sqnq1#3609930,2021-08-14T14:00:00Z,True,Burnley,8191,Brighton & Hove Albion,10204
+3609931,1,/matches/chelsea-vs-crystal-palace/2rhvvj#3609931,2021-08-14T14:00:00Z,True,Chelsea,8455,Crystal Palace,9826
+3609932,1,/matches/southampton-vs-everton/2feiut#3609932,2021-08-14T14:00:00Z,True,Everton,8668,Southampton,8466
+3609933,1,/matches/leicester-city-vs-wolverhampton-wanderers/2c0p1m#3609933,2021-08-14T14:00:00Z,True,Leicester City,8197,Wolverhampton Wanderers,8602
+3609938,1,/matches/watford-vs-aston-villa/3bwqyg#3609938,2021-08-14T14:00:00Z,True,Watford,9817,Aston Villa,10252
+3609936,1,/matches/liverpool-vs-norwich-city/2tw7ms#3609936,2021-08-14T16:30:00Z,True,Norwich City,9850,Liverpool,8650
+3609935,1,/matches/west-ham-united-vs-newcastle-united/2yilb8#3609935,2021-08-15T13:00:00Z,True,Newcastle United,10261,West Ham United,8654
+3609937,1,/matches/manchester-city-vs-tottenham-hotspur/2egtpx#3609937,2021-08-15T15:30:00Z,True,Tottenham Hotspur,8586,Manchester City,8456
+3610021,10,/matches/leicester-city-vs-arsenal/2op49y#3610021,2021-10-30T11:30:00Z,True,Leicester City,8197,Arsenal,9825
+3610020,10,/matches/burnley-vs-brentford/2pu6rd#3610020,2021-10-30T14:00:00Z,True,Burnley,8191,Brentford,9937
+3610022,10,/matches/liverpool-vs-brighton-hove-albion/2xtwfj#3610022,2021-10-30T14:00:00Z,True,Liverpool,8650,Brighton & Hove Albion,10204
+3610023,10,/matches/manchester-city-vs-crystal-palace/2ri9zd#3610023,2021-10-30T14:00:00Z,True,Manchester City,8456,Crystal Palace,9826
+3610024,10,/matches/chelsea-vs-newcastle-united/2wabz1#3610024,2021-10-30T14:00:00Z,True,Newcastle United,10261,Chelsea,8455
+3610027,10,/matches/southampton-vs-watford/2rio2z#3610027,2021-10-30T14:00:00Z,True,Watford,9817,Southampton,8466
+3610026,10,/matches/tottenham-hotspur-vs-manchester-united/2xqo0r#3610026,2021-10-30T16:30:00Z,True,Tottenham Hotspur,8586,Manchester United,10260
+3610025,10,/matches/leeds-united-vs-norwich-city/2rufon#3610025,2021-10-31T14:00:00Z,True,Norwich City,9850,Leeds United,8463
+3610019,10,/matches/west-ham-united-vs-aston-villa/2yexzh#3610019,2021-10-31T16:30:00Z,True,Aston Villa,10252,West Ham United,8654
+3610028,10,/matches/wolverhampton-wanderers-vs-everton/2gso21#3610028,2021-11-01T20:00:00Z,True,Wolverhampton Wanderers,8602,Everton,8668
+3610037,11,/matches/southampton-vs-aston-villa/2wb4v7#3610037,2021-11-05T20:00:00Z,True,Southampton,8466,Aston Villa,10252
+3610036,11,/matches/manchester-city-vs-manchester-united/2wabz2#3610036,2021-11-06T12:30:00Z,True,Manchester United,10260,Manchester City,8456
+3610030,11,/matches/norwich-city-vs-brentford/38kar7#3610030,2021-11-06T15:00:00Z,True,Brentford,9937,Norwich City,9850
+3610032,11,/matches/burnley-vs-chelsea/2ahuos#3610032,2021-11-06T15:00:00Z,True,Chelsea,8455,Burnley,8191
+3610033,11,/matches/wolverhampton-wanderers-vs-crystal-palace/2t3pt4#3610033,2021-11-06T15:00:00Z,True,Crystal Palace,9826,Wolverhampton Wanderers,8602
+3610031,11,/matches/brighton-hove-albion-vs-newcastle-united/3gos5a#3610031,2021-11-06T17:30:00Z,True,Brighton & Hove Albion,10204,Newcastle United,10261
+3610029,11,/matches/watford-vs-arsenal/36v0wg#3610029,2021-11-07T14:00:00Z,True,Arsenal,9825,Watford,9817
+3610034,11,/matches/tottenham-hotspur-vs-everton/2gmqxt#3610034,2021-11-07T14:00:00Z,True,Everton,8668,Tottenham Hotspur,8586
+3610035,11,/matches/leicester-city-vs-leeds-united/2amuld#3610035,2021-11-07T14:00:00Z,True,Leeds United,8463,Leicester City,8197
+3610038,11,/matches/liverpool-vs-west-ham-united/2h59kq#3610038,2021-11-07T16:30:00Z,True,West Ham United,8654,Liverpool,8650
+3610041,12,/matches/leicester-city-vs-chelsea/2ajzrp#3610041,2021-11-20T12:30:00Z,True,Leicester City,8197,Chelsea,8455
+3610039,12,/matches/brighton-hove-albion-vs-aston-villa/3gku1s#3610039,2021-11-20T15:00:00Z,True,Aston Villa,10252,Brighton & Hove Albion,10204
+3610040,12,/matches/burnley-vs-crystal-palace/2on6r7#3610040,2021-11-20T15:00:00Z,True,Burnley,8191,Crystal Palace,9826
+3610044,12,/matches/brentford-vs-newcastle-united/3dgf4m#3610044,2021-11-20T15:00:00Z,True,Newcastle United,10261,Brentford,9937
+3610045,12,/matches/southampton-vs-norwich-city/2rvm2w#3610045,2021-11-20T15:00:00Z,True,Norwich City,9850,Southampton,8466
+3610047,12,/matches/watford-vs-manchester-united/3c06v8#3610047,2021-11-20T15:00:00Z,True,Watford,9817,Manchester United,10260
+3610048,12,/matches/wolverhampton-wanderers-vs-west-ham-united/2gnhk2#3610048,2021-11-20T15:00:00Z,True,Wolverhampton Wanderers,8602,West Ham United,8654
+3610042,12,/matches/liverpool-vs-arsenal/2tmaz7#3610042,2021-11-20T17:30:00Z,True,Liverpool,8650,Arsenal,9825
+3610043,12,/matches/manchester-city-vs-everton/2fauom#3610043,2021-11-21T14:00:00Z,True,Manchester City,8456,Everton,8668
+3610046,12,/matches/leeds-united-vs-tottenham-hotspur/2ejdsf#3610046,2021-11-21T16:30:00Z,True,Tottenham Hotspur,8586,Leeds United,8463
+3610049,13,/matches/arsenal-vs-newcastle-united/3c42by#3610049,2021-11-27T12:30:00Z,True,Arsenal,9825,Newcastle United,10261
+3610054,13,/matches/crystal-palace-vs-aston-villa/3c0md7#3610054,2021-11-27T15:00:00Z,True,Crystal Palace,9826,Aston Villa,10252
+3610056,13,/matches/southampton-vs-liverpool/2f7wzk#3610056,2021-11-27T15:00:00Z,True,Liverpool,8650,Southampton,8466
+3610058,13,/matches/wolverhampton-wanderers-vs-norwich-city/2td7bg#3610058,2021-11-27T15:00:00Z,True,Norwich City,9850,Wolverhampton Wanderers,8602
+3610051,13,/matches/leeds-united-vs-brighton-hove-albion/2vqp9d#3610051,2021-11-27T17:30:00Z,True,Brighton & Hove Albion,10204,Leeds United,8463
+3610050,13,/matches/everton-vs-brentford/2v1yu4#3610050,2021-11-28T14:00:00Z,True,Brentford,9937,Everton,8668
+3610055,13,/matches/leicester-city-vs-watford/2om11m#3610055,2021-11-28T14:00:00Z,True,Leicester City,8197,Watford,9817
+3610057,13,/matches/manchester-city-vs-west-ham-united/2f5prf#3610057,2021-11-28T14:00:00Z,True,Manchester City,8456,West Ham United,8654
+3610053,13,/matches/chelsea-vs-manchester-united/2w9xj5#3610053,2021-11-28T16:30:00Z,True,Chelsea,8455,Manchester United,10260
+3610052,13,/matches/burnley-vs-tottenham-hotspur/2bss1j#3610052,2022-02-23T19:30:00Z,True,Burnley,8191,Tottenham Hotspur,8586
+3610066,14,/matches/norwich-city-vs-newcastle-united/3ceu2a#3610066,2021-11-30T19:30:00Z,True,Newcastle United,10261,Norwich City,9850
+3610061,14,/matches/leeds-united-vs-crystal-palace/2rl0qz#3610061,2021-11-30T20:15:00Z,True,Leeds United,8463,Crystal Palace,9826
+3610067,14,/matches/leicester-city-vs-southampton/2anx5y#3610067,2021-12-01T19:30:00Z,True,Southampton,8466,Leicester City,8197
+3610062,14,/matches/chelsea-vs-watford/2recy1#3610062,2021-12-01T19:30:00Z,True,Watford,9817,Chelsea,8455
+3610063,14,/matches/west-ham-united-vs-brighton-hove-albion/2xvimt#3610063,2021-12-01T19:30:00Z,True,West Ham United,8654,Brighton & Hove Albion,10204
+3610064,14,/matches/burnley-vs-wolverhampton-wanderers/2byja7#3610064,2021-12-01T19:30:00Z,True,Wolverhampton Wanderers,8602,Burnley,8191
+3610059,14,/matches/manchester-city-vs-aston-villa/2w74gq#3610059,2021-12-01T20:15:00Z,True,Aston Villa,10252,Manchester City,8456
+3610060,14,/matches/liverpool-vs-everton/2hagld#3610060,2021-12-01T20:15:00Z,True,Everton,8668,Liverpool,8650
+3610068,14,/matches/tottenham-hotspur-vs-brentford/2u5c8b#3610068,2021-12-02T19:30:00Z,True,Tottenham Hotspur,8586,Brentford,9937
+3610065,14,/matches/arsenal-vs-manchester-united/3c3mu0#3610065,2021-12-02T20:15:00Z,True,Manchester United,10260,Arsenal,9825
+3610077,15,/matches/chelsea-vs-west-ham-united/2f5ck5#3610077,2021-12-04T12:30:00Z,True,West Ham United,8654,Chelsea,8455
+3610073,15,/matches/burnley-vs-newcastle-united/2td61d#3610073,2021-12-04T15:00:00Z,True,Newcastle United,10261,Burnley,8191
+3610074,15,/matches/southampton-vs-brighton-hove-albion/2vrwh7#3610074,2021-12-04T15:00:00Z,True,Southampton,8466,Brighton & Hove Albion,10204
+3610078,15,/matches/wolverhampton-wanderers-vs-liverpool/2gm0as#3610078,2021-12-04T15:00:00Z,True,Wolverhampton Wanderers,8602,Liverpool,8650
+3610076,15,/matches/manchester-city-vs-watford/2rer1m#3610076,2021-12-04T17:30:00Z,True,Watford,9817,Manchester City,8456
+3610071,15,/matches/leeds-united-vs-brentford/2sso1t#3610071,2021-12-05T14:00:00Z,True,Leeds United,8463,Brentford,9937
+3610072,15,/matches/crystal-palace-vs-manchester-united/3c42bz#3610072,2021-12-05T14:00:00Z,True,Manchester United,10260,Crystal Palace,9826
+3610075,15,/matches/tottenham-hotspur-vs-norwich-city/2t6vlw#3610075,2021-12-05T14:00:00Z,True,Tottenham Hotspur,8586,Norwich City,9850
+3610069,15,/matches/leicester-city-vs-aston-villa/2tbzby#3610069,2021-12-05T16:30:00Z,True,Aston Villa,10252,Leicester City,8197
+3610070,15,/matches/everton-vs-arsenal/2ttfpg#3610070,2021-12-06T20:00:00Z,True,Everton,8668,Arsenal,9825
+3610081,16,/matches/watford-vs-brentford/386bbs#3610081,2021-12-10T20:00:00Z,True,Brentford,9937,Watford,9817
+3610088,16,/matches/manchester-city-vs-wolverhampton-wanderers/2emo8d#3610088,2021-12-11T12:30:00Z,True,Manchester City,8456,Wolverhampton Wanderers,8602
+3610080,16,/matches/southampton-vs-arsenal/2rlsz3#3610080,2021-12-11T15:00:00Z,True,Arsenal,9825,Southampton,8466
+3610084,16,/matches/chelsea-vs-leeds-united/2d7oy4#3610084,2021-12-11T15:00:00Z,True,Chelsea,8455,Leeds United,8463
+3610087,16,/matches/liverpool-vs-aston-villa/2ydbmv#3610087,2021-12-11T15:00:00Z,True,Liverpool,8650,Aston Villa,10252
+3610089,16,/matches/norwich-city-vs-manchester-united/3ceejn#3610089,2021-12-11T17:30:00Z,True,Norwich City,9850,Manchester United,10260
+3610083,16,/matches/burnley-vs-west-ham-united/2cha6h#3610083,2021-12-12T14:00:00Z,True,Burnley,8191,West Ham United,8654
+3610086,16,/matches/leicester-city-vs-newcastle-united/2tfjhg#3610086,2021-12-12T14:00:00Z,True,Leicester City,8197,Newcastle United,10261
+3610085,16,/matches/everton-vs-crystal-palace/2tttz7#3610085,2021-12-12T16:30:00Z,True,Crystal Palace,9826,Everton,8668
+3610082,16,/matches/tottenham-hotspur-vs-brighton-hove-albion/2x42vj#3610082,2022-03-16T19:30:00Z,True,Brighton & Hove Albion,10204,Tottenham Hotspur,8586
+3610095,17,/matches/norwich-city-vs-aston-villa/3cayfj#3610095,2021-12-14T19:45:00Z,True,Norwich City,9850,Aston Villa,10252
+3610099,17,/matches/manchester-city-vs-leeds-united/2d8203#3610099,2021-12-14T20:00:00Z,True,Manchester City,8456,Leeds United,8463
+3610092,17,/matches/wolverhampton-wanderers-vs-brighton-hove-albion/2xaiyv#3610092,2021-12-15T19:30:00Z,True,Brighton & Hove Albion,10204,Wolverhampton Wanderers,8602
+3610096,17,/matches/southampton-vs-crystal-palace/2rm738#3610096,2021-12-15T19:30:00Z,True,Crystal Palace,9826,Southampton,8466
+3610090,17,/matches/west-ham-united-vs-arsenal/2tnw09#3610090,2021-12-15T20:00:00Z,True,Arsenal,9825,West Ham United,8654
+3610097,17,/matches/chelsea-vs-everton/2fahgy#3610097,2021-12-16T19:45:00Z,True,Chelsea,8455,Everton,8668
+3610098,17,/matches/liverpool-vs-newcastle-united/2ygyxm#3610098,2021-12-16T20:00:00Z,True,Liverpool,8650,Newcastle United,10261
+3610094,17,/matches/leicester-city-vs-tottenham-hotspur/2buxqa#3610094,2022-01-19T19:30:00Z,True,Leicester City,8197,Tottenham Hotspur,8586
+3610091,17,/matches/brentford-vs-manchester-united/3dfzjk#3610091,2022-01-19T20:00:00Z,True,Brentford,9937,Manchester United,10260
+3610093,17,/matches/burnley-vs-watford/2ojpnp#3610093,2022-02-05T18:00:00Z,True,Burnley,8191,Watford,9817
+3610102,18,/matches/leeds-united-vs-arsenal/2rkmmx#3610102,2021-12-18T17:30:00Z,True,Leeds United,8463,Arsenal,9825
+3610104,18,/matches/manchester-city-vs-newcastle-united/2waqez#3610104,2021-12-19T14:00:00Z,True,Newcastle United,10261,Manchester City,8456
+3610109,18,/matches/chelsea-vs-wolverhampton-wanderers/2emb2j#3610109,2021-12-19T14:00:00Z,True,Wolverhampton Wanderers,8602,Chelsea,8455
+3610106,18,/matches/tottenham-hotspur-vs-liverpool/2gg3ek#3610106,2021-12-19T16:30:00Z,True,Tottenham Hotspur,8586,Liverpool,8650
+3610105,18,/matches/southampton-vs-brentford/2stunb#3610105,2022-01-11T19:45:00Z,True,Southampton,8466,Brentford,9937
+3610108,18,/matches/west-ham-united-vs-norwich-city/2txsqm#3610108,2022-01-12T19:45:00Z,True,West Ham United,8654,Norwich City,9850
+3610103,18,/matches/brighton-hove-albion-vs-manchester-united/3goccs#3610103,2022-02-15T20:15:00Z,True,Manchester United,10260,Brighton & Hove Albion,10204
+3610107,18,/matches/watford-vs-crystal-palace/36vg24#3610107,2022-02-23T19:30:00Z,True,Watford,9817,Crystal Palace,9826
+3610101,18,/matches/leicester-city-vs-everton/2coib1#3610101,2022-04-20T18:45:00Z,True,Everton,8668,Leicester City,8197
+3610100,18,/matches/burnley-vs-aston-villa/2t9lxd#3610100,2022-05-19T19:00:00Z,True,Aston Villa,10252,Burnley,8191
+3610114,19,/matches/leicester-city-vs-manchester-city/2akcmb#3610114,2021-12-26T15:00:00Z,True,Manchester City,8456,Leicester City,8197
+3610116,19,/matches/arsenal-vs-norwich-city/378xhw#3610116,2021-12-26T15:00:00Z,True,Norwich City,9850,Arsenal,9825
+3610117,19,/matches/tottenham-hotspur-vs-crystal-palace/2sxee8#3610117,2021-12-26T15:00:00Z,True,Tottenham Hotspur,8586,Crystal Palace,9826
+3610118,19,/matches/southampton-vs-west-ham-united/2f9dtq#3610118,2021-12-26T15:00:00Z,True,West Ham United,8654,Southampton,8466
+3610110,19,/matches/chelsea-vs-aston-villa/2w6q11#3610110,2021-12-26T17:30:00Z,True,Aston Villa,10252,Chelsea,8455
+3610111,19,/matches/brentford-vs-brighton-hove-albion/3crs0s#3610111,2021-12-26T20:00:00Z,True,Brighton & Hove Albion,10204,Brentford,9937
+3610115,19,/matches/manchester-united-vs-newcastle-united/3hddo2#3610115,2021-12-27T20:00:00Z,True,Newcastle United,10261,Manchester United,10260
+3610113,19,/matches/leeds-united-vs-liverpool/2f6tdb#3610113,2022-02-23T19:45:00Z,True,Liverpool,8650,Leeds United,8463
+3610119,19,/matches/wolverhampton-wanderers-vs-watford/2t05uv#3610119,2022-03-10T19:30:00Z,True,Wolverhampton Wanderers,8602,Watford,9817
+3610112,19,/matches/burnley-vs-everton/2cmc8m#3610112,2022-04-06T18:30:00Z,True,Burnley,8191,Everton,8668
+3609944,2,/matches/burnley-vs-liverpool/2cfu6v#3609944,2021-08-21T11:30:00Z,True,Liverpool,8650,Burnley,8191
+3609940,2,/matches/aston-villa-vs-newcastle-united/3h9v0m#3609940,2021-08-21T14:00:00Z,True,Aston Villa,10252,Newcastle United,10261
+3609942,2,/matches/crystal-palace-vs-brentford/38a4jj#3609942,2021-08-21T14:00:00Z,True,Crystal Palace,9826,Brentford,9937
+3609943,2,/matches/leeds-united-vs-everton/2fdf72#3609943,2021-08-21T14:00:00Z,True,Leeds United,8463,Everton,8668
+3609945,2,/matches/manchester-city-vs-norwich-city/2rrosd#3609945,2021-08-21T14:00:00Z,True,Manchester City,8456,Norwich City,9850
+3609941,2,/matches/watford-vs-brighton-hove-albion/3bc4j4#3609941,2021-08-21T16:30:00Z,True,Brighton & Hove Albion,10204,Watford,9817
+3609946,2,/matches/southampton-vs-manchester-united/2wecfr#3609946,2021-08-22T13:00:00Z,True,Southampton,8466,Manchester United,10260
+3609948,2,/matches/tottenham-hotspur-vs-wolverhampton-wanderers/2fydv8#3609948,2021-08-22T13:00:00Z,True,Wolverhampton Wanderers,8602,Tottenham Hotspur,8586
+3609939,2,/matches/chelsea-vs-arsenal/2rhhrp#3609939,2021-08-22T15:30:00Z,True,Arsenal,9825,Chelsea,8455
+3609947,2,/matches/leicester-city-vs-west-ham-united/2cjg6k#3609947,2021-08-23T19:00:00Z,True,West Ham United,8654,Leicester City,8197
+3610124,20,/matches/crystal-palace-vs-norwich-city/379cog#3610124,2021-12-28T15:00:00Z,True,Crystal Palace,9826,Norwich City,9850
+3610129,20,/matches/southampton-vs-tottenham-hotspur/2ekh9c#3610129,2021-12-28T15:00:00Z,True,Southampton,8466,Tottenham Hotspur,8586
+3610123,20,/matches/west-ham-united-vs-watford/2tkpyd#3610123,2021-12-28T15:00:00Z,True,Watford,9817,West Ham United,8654
+3610127,20,/matches/leicester-city-vs-liverpool/2ci06a#3610127,2021-12-28T20:00:00Z,True,Leicester City,8197,Liverpool,8650
+3610122,20,/matches/chelsea-vs-brighton-hove-albion/2vni1p#3610122,2021-12-29T19:30:00Z,True,Chelsea,8455,Brighton & Hove Albion,10204
+3610121,20,/matches/manchester-city-vs-brentford/2spwom#3610121,2021-12-29T20:15:00Z,True,Brentford,9937,Manchester City,8456
+3610128,20,/matches/burnley-vs-manchester-united/2tcrst#3610128,2021-12-30T20:15:00Z,True,Manchester United,10260,Burnley,8191
+3610120,20,/matches/wolverhampton-wanderers-vs-arsenal/2t3bl7#3610120,2022-02-24T19:45:00Z,True,Arsenal,9825,Wolverhampton Wanderers,8602
+3610126,20,/matches/leeds-united-vs-aston-villa/2w9xjd#3610126,2022-03-10T19:45:00Z,True,Leeds United,8463,Aston Villa,10252
+3610125,20,/matches/everton-vs-newcastle-united/2yo9qd#3610125,2022-03-17T19:45:00Z,True,Everton,8668,Newcastle United,10261
+3610130,21,/matches/manchester-city-vs-arsenal/2rhvvi#3610130,2022-01-01T12:30:00Z,True,Arsenal,9825,Manchester City,8456
+3610139,21,/matches/tottenham-hotspur-vs-watford/2stujz#3610139,2022-01-01T15:00:00Z,True,Watford,9817,Tottenham Hotspur,8586
+3610133,21,/matches/west-ham-united-vs-crystal-palace/2toa9m#3610133,2022-01-01T17:30:00Z,True,Crystal Palace,9826,West Ham United,8654
+3610131,21,/matches/brentford-vs-aston-villa/3dciw4#3610131,2022-01-02T14:00:00Z,True,Brentford,9937,Aston Villa,10252
+3610134,21,/matches/everton-vs-brighton-hove-albion/2y16fs#3610134,2022-01-02T14:00:00Z,True,Everton,8668,Brighton & Hove Albion,10204
+3610135,21,/matches/burnley-vs-leeds-united/2akph4#3610135,2022-01-02T14:00:00Z,True,Leeds United,8463,Burnley,8191
+3610132,21,/matches/chelsea-vs-liverpool/2f3vr7#3610132,2022-01-02T16:30:00Z,True,Chelsea,8455,Liverpool,8650
+3610137,21,/matches/wolverhampton-wanderers-vs-manchester-united/2xx4sz#3610137,2022-01-03T17:30:00Z,True,Manchester United,10260,Wolverhampton Wanderers,8602
+3610138,21,/matches/southampton-vs-newcastle-united/2weqvy#3610138,2022-03-10T19:30:00Z,True,Southampton,8466,Newcastle United,10261
+3610136,21,/matches/leicester-city-vs-norwich-city/2oys6y#3610136,2022-05-11T18:45:00Z,True,Leicester City,8197,Norwich City,9850
+3610141,22,/matches/crystal-palace-vs-brighton-hove-albion/3bfzlv#3610141,2022-01-14T20:00:00Z,True,Brighton & Hove Albion,10204,Crystal Palace,9826
+3610144,22,/matches/chelsea-vs-manchester-city/2d55kw#3610144,2022-01-15T12:30:00Z,True,Manchester City,8456,Chelsea,8455
+3610145,22,/matches/watford-vs-newcastle-united/3c0mcy#3610145,2022-01-15T15:00:00Z,True,Newcastle United,10261,Watford,9817
+3610146,22,/matches/everton-vs-norwich-city/2u3cpj#3610146,2022-01-15T15:00:00Z,True,Norwich City,9850,Everton,8668
+3610149,22,/matches/southampton-vs-wolverhampton-wanderers/2eqbw8#3610149,2022-01-15T15:00:00Z,True,Wolverhampton Wanderers,8602,Southampton,8466
+3610140,22,/matches/aston-villa-vs-manchester-united/3h9f6s#3610140,2022-01-15T17:30:00Z,True,Aston Villa,10252,Manchester United,10260
+3610143,22,/matches/liverpool-vs-brentford/2uusjv#3610143,2022-01-16T14:00:00Z,True,Liverpool,8650,Brentford,9937
+3610148,22,/matches/leeds-united-vs-west-ham-united/2f8a75#3610148,2022-01-16T14:00:00Z,True,West Ham United,8654,Leeds United,8463
+3610142,22,/matches/burnley-vs-leicester-city/27yia7#3610142,2022-03-01T19:45:00Z,True,Burnley,8191,Leicester City,8197
+3610147,22,/matches/tottenham-hotspur-vs-arsenal/2sx06r#3610147,2022-05-12T18:45:00Z,True,Tottenham Hotspur,8586,Arsenal,9825
+3610159,23,/matches/watford-vs-norwich-city/375k2g#3610159,2022-01-21T20:00:00Z,True,Watford,9817,Norwich City,9850
+3610154,23,/matches/everton-vs-aston-villa/2ykmb4#3610154,2022-01-22T12:30:00Z,True,Everton,8668,Aston Villa,10252
+3610151,23,/matches/wolverhampton-wanderers-vs-brentford/2ubp0j#3610151,2022-01-22T15:00:00Z,True,Brentford,9937,Wolverhampton Wanderers,8602
+3610155,23,/matches/leeds-united-vs-newcastle-united/2wdjjd#3610155,2022-01-22T15:00:00Z,True,Leeds United,8463,Newcastle United,10261
+3610157,23,/matches/west-ham-united-vs-manchester-united/2yi6pt#3610157,2022-01-22T15:00:00Z,True,Manchester United,10260,West Ham United,8654
+3610158,23,/matches/manchester-city-vs-southampton/2d9569#3610158,2022-01-22T17:30:00Z,True,Southampton,8466,Manchester City,8456
+3610150,23,/matches/burnley-vs-arsenal/2omsup#3610150,2022-01-23T14:00:00Z,True,Arsenal,9825,Burnley,8191
+3610153,23,/matches/liverpool-vs-crystal-palace/2tmp8g#3610153,2022-01-23T14:00:00Z,True,Crystal Palace,9826,Liverpool,8650
+3610156,23,/matches/leicester-city-vs-brighton-hove-albion/2st0wm#3610156,2022-01-23T14:00:00Z,True,Leicester City,8197,Brighton & Hove Albion,10204
+3610152,23,/matches/chelsea-vs-tottenham-hotspur/2eggkj#3610152,2022-01-23T16:30:00Z,True,Chelsea,8455,Tottenham Hotspur,8586
+3610161,24,/matches/chelsea-vs-brighton-hove-albion/2vni1p#3610161,2022-01-18T20:00:00Z,True,Brighton & Hove Albion,10204,Chelsea,8455
+3610166,24,/matches/everton-vs-newcastle-united/2yo9qd#3610166,2022-02-08T19:45:00Z,True,Newcastle United,10261,Everton,8668
+3610164,24,/matches/west-ham-united-vs-watford/2tkpyd#3610164,2022-02-08T19:45:00Z,True,West Ham United,8654,Watford,9817
+3610162,24,/matches/burnley-vs-manchester-united/2tcrst#3610162,2022-02-08T20:00:00Z,True,Burnley,8191,Manchester United,10260
+3610169,24,/matches/manchester-city-vs-brentford/2spwom#3610169,2022-02-09T19:45:00Z,True,Manchester City,8456,Brentford,9937
+3610163,24,/matches/crystal-palace-vs-norwich-city/379cog#3610163,2022-02-09T19:45:00Z,True,Norwich City,9850,Crystal Palace,9826
+3610167,24,/matches/southampton-vs-tottenham-hotspur/2ekh9c#3610167,2022-02-09T19:45:00Z,True,Tottenham Hotspur,8586,Southampton,8466
+3610160,24,/matches/leeds-united-vs-aston-villa/2w9xjd#3610160,2022-02-09T20:00:00Z,True,Aston Villa,10252,Leeds United,8463
+3610168,24,/matches/leicester-city-vs-liverpool/2ci06a#3610168,2022-02-10T19:45:00Z,True,Liverpool,8650,Leicester City,8197
+3610165,24,/matches/wolverhampton-wanderers-vs-arsenal/2t3bl7#3610165,2022-02-10T19:45:00Z,True,Wolverhampton Wanderers,8602,Arsenal,9825
+3610175,25,/matches/southampton-vs-manchester-united/2wecfr#3610175,2022-02-12T12:30:00Z,True,Manchester United,10260,Southampton,8466
+3610170,25,/matches/crystal-palace-vs-brentford/38a4jj#3610170,2022-02-12T15:00:00Z,True,Brentford,9937,Crystal Palace,9826
+3610173,25,/matches/leeds-united-vs-everton/2fdf72#3610173,2022-02-12T15:00:00Z,True,Everton,8668,Leeds United,8463
+3610179,25,/matches/watford-vs-brighton-hove-albion/3bc4j4#3610179,2022-02-12T15:00:00Z,True,Watford,9817,Brighton & Hove Albion,10204
+3610177,25,/matches/manchester-city-vs-norwich-city/2rrosd#3610177,2022-02-12T17:30:00Z,True,Norwich City,9850,Manchester City,8456
+3610171,25,/matches/burnley-vs-liverpool/2cfu6v#3610171,2022-02-13T14:00:00Z,True,Burnley,8191,Liverpool,8650
+3610176,25,/matches/aston-villa-vs-newcastle-united/3h9v0m#3610176,2022-02-13T14:00:00Z,True,Newcastle United,10261,Aston Villa,10252
+3610178,25,/matches/tottenham-hotspur-vs-wolverhampton-wanderers/2fydv8#3610178,2022-02-13T14:00:00Z,True,Tottenham Hotspur,8586,Wolverhampton Wanderers,8602
+3610174,25,/matches/leicester-city-vs-west-ham-united/2cjg6k#3610174,2022-02-13T16:30:00Z,True,Leicester City,8197,West Ham United,8654
+3610172,25,/matches/chelsea-vs-arsenal/2rhhrp#3610172,2022-04-20T18:45:00Z,True,Chelsea,8455,Arsenal,9825
+3610188,26,/matches/west-ham-united-vs-newcastle-united/2yilb8#3610188,2022-02-19T12:30:00Z,True,West Ham United,8654,Newcastle United,10261
+3610180,26,/matches/arsenal-vs-brentford/389pak#3610180,2022-02-19T15:00:00Z,True,Arsenal,9825,Brentford,9937
+3610181,26,/matches/watford-vs-aston-villa/3bwqyg#3610181,2022-02-19T15:00:00Z,True,Aston Villa,10252,Watford,9817
+3610182,26,/matches/burnley-vs-brighton-hove-albion/2sqnq1#3610182,2022-02-19T15:00:00Z,True,Brighton & Hove Albion,10204,Burnley,8191
+3610183,26,/matches/chelsea-vs-crystal-palace/2rhvvj#3610183,2022-02-19T15:00:00Z,True,Crystal Palace,9826,Chelsea,8455
+3610185,26,/matches/liverpool-vs-norwich-city/2tw7ms#3610185,2022-02-19T15:00:00Z,True,Liverpool,8650,Norwich City,9850
+3610187,26,/matches/southampton-vs-everton/2feiut#3610187,2022-02-19T15:00:00Z,True,Southampton,8466,Everton,8668
+3610186,26,/matches/manchester-city-vs-tottenham-hotspur/2egtpx#3610186,2022-02-19T17:30:00Z,True,Manchester City,8456,Tottenham Hotspur,8586
+3610184,26,/matches/leeds-united-vs-manchester-united/2wd539#3610184,2022-02-20T14:00:00Z,True,Leeds United,8463,Manchester United,10260
+3610189,26,/matches/leicester-city-vs-wolverhampton-wanderers/2c0p1m#3610189,2022-02-20T16:30:00Z,True,Wolverhampton Wanderers,8602,Leicester City,8197
+3610198,27,/matches/southampton-vs-norwich-city/2rvm2w#3610198,2022-02-25T20:00:00Z,True,Southampton,8466,Norwich City,9850
+3610196,27,/matches/leeds-united-vs-tottenham-hotspur/2ejdsf#3610196,2022-02-26T12:30:00Z,True,Leeds United,8463,Tottenham Hotspur,8586
+3610191,27,/matches/brentford-vs-newcastle-united/3dgf4m#3610191,2022-02-26T15:00:00Z,True,Brentford,9937,Newcastle United,10261
+3610194,27,/matches/burnley-vs-crystal-palace/2on6r7#3610194,2022-02-26T15:00:00Z,True,Crystal Palace,9826,Burnley,8191
+3610197,27,/matches/watford-vs-manchester-united/3c06v8#3610197,2022-02-26T15:00:00Z,True,Manchester United,10260,Watford,9817
+3610192,27,/matches/brighton-hove-albion-vs-aston-villa/3gku1s#3610192,2022-02-26T15:30:00Z,True,Brighton & Hove Albion,10204,Aston Villa,10252
+3610195,27,/matches/manchester-city-vs-everton/2fauom#3610195,2022-02-26T17:30:00Z,True,Everton,8668,Manchester City,8456
+3610199,27,/matches/wolverhampton-wanderers-vs-west-ham-united/2gnhk2#3610199,2022-02-27T14:00:00Z,True,West Ham United,8654,Wolverhampton Wanderers,8602
+3610190,27,/matches/liverpool-vs-arsenal/2tmaz7#3610190,2022-03-16T20:15:00Z,True,Arsenal,9825,Liverpool,8650
+3610193,27,/matches/leicester-city-vs-chelsea/2ajzrp#3610193,2022-05-19T19:00:00Z,True,Chelsea,8455,Leicester City,8197
+3610202,28,/matches/leicester-city-vs-leeds-united/2amuld#3610202,2022-03-05T12:30:00Z,True,Leicester City,8197,Leeds United,8463
+3610200,28,/matches/southampton-vs-aston-villa/2wb4v7#3610200,2022-03-05T15:00:00Z,True,Aston Villa,10252,Southampton,8466
+3610201,28,/matches/burnley-vs-chelsea/2ahuos#3610201,2022-03-05T15:00:00Z,True,Burnley,8191,Chelsea,8455
+3610205,28,/matches/brighton-hove-albion-vs-newcastle-united/3gos5a#3610205,2022-03-05T15:00:00Z,True,Newcastle United,10261,Brighton & Hove Albion,10204
+3610206,28,/matches/norwich-city-vs-brentford/38kar7#3610206,2022-03-05T15:00:00Z,True,Norwich City,9850,Brentford,9937
+3610209,28,/matches/wolverhampton-wanderers-vs-crystal-palace/2t3pt4#3610209,2022-03-05T15:00:00Z,True,Wolverhampton Wanderers,8602,Crystal Palace,9826
+3610203,28,/matches/liverpool-vs-west-ham-united/2h59kq#3610203,2022-03-05T17:30:00Z,True,Liverpool,8650,West Ham United,8654
+3610208,28,/matches/watford-vs-arsenal/36v0wg#3610208,2022-03-06T14:00:00Z,True,Watford,9817,Arsenal,9825
+3610204,28,/matches/manchester-city-vs-manchester-united/2wabz2#3610204,2022-03-06T16:30:00Z,True,Manchester City,8456,Manchester United,10260
+3610207,28,/matches/tottenham-hotspur-vs-everton/2gmqxt#3610207,2022-03-07T20:00:00Z,True,Tottenham Hotspur,8586,Everton,8668
+3610212,29,/matches/liverpool-vs-brighton-hove-albion/2xtwfj#3610212,2022-03-12T12:30:00Z,True,Brighton & Hove Albion,10204,Liverpool,8650
+3610211,29,/matches/burnley-vs-brentford/2pu6rd#3610211,2022-03-12T15:00:00Z,True,Brentford,9937,Burnley,8191
+3610217,29,/matches/tottenham-hotspur-vs-manchester-united/2xqo0r#3610217,2022-03-12T17:30:00Z,True,Manchester United,10260,Tottenham Hotspur,8586
+3610213,29,/matches/chelsea-vs-newcastle-united/2wabz1#3610213,2022-03-13T14:00:00Z,True,Chelsea,8455,Newcastle United,10261
+3610215,29,/matches/wolverhampton-wanderers-vs-everton/2gso21#3610215,2022-03-13T14:00:00Z,True,Everton,8668,Wolverhampton Wanderers,8602
+3610216,29,/matches/leeds-united-vs-norwich-city/2rufon#3610216,2022-03-13T14:00:00Z,True,Leeds United,8463,Norwich City,9850
+3610218,29,/matches/southampton-vs-watford/2rio2z#3610218,2022-03-13T14:00:00Z,True,Southampton,8466,Watford,9817
+3610219,29,/matches/west-ham-united-vs-aston-villa/2yexzh#3610219,2022-03-13T14:00:00Z,True,West Ham United,8654,Aston Villa,10252
+3610210,29,/matches/leicester-city-vs-arsenal/2op49y#3610210,2022-03-13T16:30:00Z,True,Arsenal,9825,Leicester City,8197
+3610214,29,/matches/manchester-city-vs-crystal-palace/2ri9zd#3610214,2022-03-14T20:00:00Z,True,Crystal Palace,9826,Manchester City,8456
+3609953,3,/matches/manchester-city-vs-arsenal/2rhvvi#3609953,2021-08-28T11:30:00Z,True,Manchester City,8456,Arsenal,9825
+3609949,3,/matches/brentford-vs-aston-villa/3dciw4#3609949,2021-08-28T14:00:00Z,True,Aston Villa,10252,Brentford,9937
+3609950,3,/matches/everton-vs-brighton-hove-albion/2y16fs#3609950,2021-08-28T14:00:00Z,True,Brighton & Hove Albion,10204,Everton,8668
+3609954,3,/matches/southampton-vs-newcastle-united/2weqvy#3609954,2021-08-28T14:00:00Z,True,Newcastle United,10261,Southampton,8466
+3609955,3,/matches/leicester-city-vs-norwich-city/2oys6y#3609955,2021-08-28T14:00:00Z,True,Norwich City,9850,Leicester City,8197
+3609957,3,/matches/west-ham-united-vs-crystal-palace/2toa9m#3609957,2021-08-28T14:00:00Z,True,West Ham United,8654,Crystal Palace,9826
+3609952,3,/matches/chelsea-vs-liverpool/2f3vr7#3609952,2021-08-28T16:30:00Z,True,Liverpool,8650,Chelsea,8455
+3609951,3,/matches/burnley-vs-leeds-united/2akph4#3609951,2021-08-29T13:00:00Z,True,Burnley,8191,Leeds United,8463
+3609956,3,/matches/tottenham-hotspur-vs-watford/2stujz#3609956,2021-08-29T13:00:00Z,True,Tottenham Hotspur,8586,Watford,9817
+3609958,3,/matches/wolverhampton-wanderers-vs-manchester-united/2xx4sz#3609958,2021-08-29T15:30:00Z,True,Wolverhampton Wanderers,8602,Manchester United,10260
+3610226,30,/matches/chelsea-vs-norwich-city/2rranv#3610226,2022-03-10T19:30:00Z,True,Norwich City,9850,Chelsea,8455
+3610229,30,/matches/leeds-united-vs-wolverhampton-wanderers/2ep8dz#3610229,2022-03-18T20:00:00Z,True,Wolverhampton Wanderers,8602,Leeds United,8463
+3610220,30,/matches/arsenal-vs-aston-villa/3c06vg#3610220,2022-03-19T12:30:00Z,True,Aston Villa,10252,Arsenal,9825
+3610222,30,/matches/leicester-city-vs-brentford/2pwipa#3610222,2022-03-20T14:00:00Z,True,Leicester City,8197,Brentford,9937
+3610227,30,/matches/tottenham-hotspur-vs-west-ham-united/2ghkm2#3610227,2022-03-20T16:30:00Z,True,Tottenham Hotspur,8586,West Ham United,8654
+3610223,30,/matches/liverpool-vs-manchester-united/2ygkcb#3610223,2022-04-19T19:00:00Z,True,Liverpool,8650,Manchester United,10260
+3610225,30,/matches/crystal-palace-vs-newcastle-united/3c4hty#3610225,2022-04-20T18:45:00Z,True,Newcastle United,10261,Crystal Palace,9826
+3610224,30,/matches/manchester-city-vs-brighton-hove-albion/2vnwg2#3610224,2022-04-20T19:00:00Z,True,Manchester City,8456,Brighton & Hove Albion,10204
+3610221,30,/matches/burnley-vs-southampton/2als17#3610221,2022-04-21T18:45:00Z,True,Burnley,8191,Southampton,8466
+3610228,30,/matches/everton-vs-watford/2tq9kg#3610228,2022-05-11T18:45:00Z,True,Watford,9817,Everton,8668
+3610234,31,/matches/liverpool-vs-watford/2tj4y7#3610234,2022-04-02T11:30:00Z,True,Liverpool,8650,Watford,9817
+3610239,31,/matches/norwich-city-vs-brighton-hove-albion/3bqas7#3610239,2022-04-02T14:00:00Z,True,Brighton & Hove Albion,10204,Norwich City,9850
+3610238,31,/matches/burnley-vs-manchester-city/2ai7j8#3610238,2022-04-02T14:00:00Z,True,Burnley,8191,Manchester City,8456
+3610237,31,/matches/chelsea-vs-brentford/2spihp#3610237,2022-04-02T14:00:00Z,True,Chelsea,8455,Brentford,9937
+3610235,31,/matches/leeds-united-vs-southampton/2dbolf#3610235,2022-04-02T14:00:00Z,True,Leeds United,8463,Southampton,8466
+3610230,31,/matches/wolverhampton-wanderers-vs-aston-villa/2xtwe7#3610230,2022-04-02T14:00:00Z,True,Wolverhampton Wanderers,8602,Aston Villa,10252
+3610233,31,/matches/leicester-city-vs-manchester-united/2tf58q#3610233,2022-04-02T16:30:00Z,True,Manchester United,10260,Leicester City,8197
+3610231,31,/matches/west-ham-united-vs-everton/2hby1v#3610231,2022-04-03T13:00:00Z,True,West Ham United,8654,Everton,8668
+3610232,31,/matches/tottenham-hotspur-vs-newcastle-united/2xr2ka#3610232,2022-04-03T15:30:00Z,True,Tottenham Hotspur,8586,Newcastle United,10261
+3610236,31,/matches/arsenal-vs-crystal-palace/36ytc8#3610236,2022-04-04T19:00:00Z,True,Crystal Palace,9826,Arsenal,9825
+3610243,32,/matches/wolverhampton-wanderers-vs-newcastle-united/2xxjcy#3610243,2022-04-08T19:00:00Z,True,Newcastle United,10261,Wolverhampton Wanderers,8602
+3610246,32,/matches/everton-vs-manchester-united/2ynv4k#3610246,2022-04-09T11:30:00Z,True,Everton,8668,Manchester United,10260
+3610249,32,/matches/arsenal-vs-brighton-hove-albion/3bfk5g#3610249,2022-04-09T14:00:00Z,True,Arsenal,9825,Brighton & Hove Albion,10204
+3610241,32,/matches/chelsea-vs-southampton/2d8s47#3610241,2022-04-09T14:00:00Z,True,Southampton,8466,Chelsea,8455
+3610240,32,/matches/leeds-united-vs-watford/2rhhrh#3610240,2022-04-09T14:00:00Z,True,Watford,9817,Leeds United,8463
+3610248,32,/matches/tottenham-hotspur-vs-aston-villa/2xnfpj#3610248,2022-04-09T16:30:00Z,True,Aston Villa,10252,Tottenham Hotspur,8586
+3610247,32,/matches/west-ham-united-vs-brentford/2uwdxd#3610247,2022-04-10T13:00:00Z,True,Brentford,9937,West Ham United,8654
+3610245,32,/matches/leicester-city-vs-crystal-palace/2opi6m#3610245,2022-04-10T13:00:00Z,True,Leicester City,8197,Crystal Palace,9826
+3610242,32,/matches/burnley-vs-norwich-city/2owgnj#3610242,2022-04-10T13:00:00Z,True,Norwich City,9850,Burnley,8191
+3610244,32,/matches/manchester-city-vs-liverpool/2f48yd#3610244,2022-04-10T15:30:00Z,True,Manchester City,8456,Liverpool,8650
+3610253,33,/matches/tottenham-hotspur-vs-brighton-hove-albion/2x42vj#3610253,2022-04-16T11:30:00Z,True,Tottenham Hotspur,8586,Brighton & Hove Albion,10204
+3610256,33,/matches/norwich-city-vs-manchester-united/3ceejn#3610256,2022-04-16T14:00:00Z,True,Manchester United,10260,Norwich City,9850
+3610254,33,/matches/southampton-vs-arsenal/2rlsz3#3610254,2022-04-16T14:00:00Z,True,Southampton,8466,Arsenal,9825
+3610252,33,/matches/watford-vs-brentford/386bbs#3610252,2022-04-16T14:00:00Z,True,Watford,9817,Brentford,9937
+3610255,33,/matches/leicester-city-vs-newcastle-united/2tfjhg#3610255,2022-04-17T13:15:00Z,True,Newcastle United,10261,Leicester City,8197
+3610251,33,/matches/burnley-vs-west-ham-united/2cha6h#3610251,2022-04-17T13:15:00Z,True,West Ham United,8654,Burnley,8191
+3610259,33,/matches/liverpool-vs-aston-villa/2ydbmv#3610259,2022-05-10T19:00:00Z,True,Aston Villa,10252,Liverpool,8650
+3610257,33,/matches/chelsea-vs-leeds-united/2d7oy4#3610257,2022-05-11T18:30:00Z,True,Leeds United,8463,Chelsea,8455
+3610250,33,/matches/manchester-city-vs-wolverhampton-wanderers/2emo8d#3610250,2022-05-11T19:15:00Z,True,Wolverhampton Wanderers,8602,Manchester City,8456
+3610258,33,/matches/everton-vs-crystal-palace/2tttz7#3610258,2022-05-19T18:45:00Z,True,Everton,8668,Crystal Palace,9826
+3610269,34,/matches/arsenal-vs-manchester-united/3c3mu0#3610269,2022-04-23T11:30:00Z,True,Arsenal,9825,Manchester United,10260
+3610263,34,/matches/leicester-city-vs-aston-villa/2tbzby#3610263,2022-04-23T14:00:00Z,True,Leicester City,8197,Aston Villa,10252
+3610261,34,/matches/manchester-city-vs-watford/2rer1m#3610261,2022-04-23T14:00:00Z,True,Manchester City,8456,Watford,9817
+3610260,34,/matches/norwich-city-vs-newcastle-united/3ceu2a#3610260,2022-04-23T14:00:00Z,True,Norwich City,9850,Newcastle United,10261
+3610268,34,/matches/tottenham-hotspur-vs-brentford/2u5c8b#3610268,2022-04-23T16:30:00Z,True,Brentford,9937,Tottenham Hotspur,8586
+3610267,34,/matches/southampton-vs-brighton-hove-albion/2vrwh7#3610267,2022-04-24T13:00:00Z,True,Brighton & Hove Albion,10204,Southampton,8466
+3610266,34,/matches/burnley-vs-wolverhampton-wanderers/2byja7#3610266,2022-04-24T13:00:00Z,True,Burnley,8191,Wolverhampton Wanderers,8602
+3610265,34,/matches/chelsea-vs-west-ham-united/2f5ck5#3610265,2022-04-24T13:00:00Z,True,Chelsea,8455,West Ham United,8654
+3610262,34,/matches/liverpool-vs-everton/2hagld#3610262,2022-04-24T15:30:00Z,True,Liverpool,8650,Everton,8668
+3610264,34,/matches/leeds-united-vs-crystal-palace/2rl0qz#3610264,2022-04-25T19:00:00Z,True,Crystal Palace,9826,Leeds United,8463
+3610275,35,/matches/liverpool-vs-newcastle-united/2ygyxm#3610275,2022-04-30T11:30:00Z,True,Newcastle United,10261,Liverpool,8650
+3610279,35,/matches/norwich-city-vs-aston-villa/3cayfj#3610279,2022-04-30T14:00:00Z,True,Aston Villa,10252,Norwich City,9850
+3610274,35,/matches/southampton-vs-crystal-palace/2rm738#3610274,2022-04-30T14:00:00Z,True,Southampton,8466,Crystal Palace,9826
+3610272,35,/matches/burnley-vs-watford/2ojpnp#3610272,2022-04-30T14:00:00Z,True,Watford,9817,Burnley,8191
+3610270,35,/matches/wolverhampton-wanderers-vs-brighton-hove-albion/2xaiyv#3610270,2022-04-30T14:00:00Z,True,Wolverhampton Wanderers,8602,Brighton & Hove Albion,10204
+3610277,35,/matches/manchester-city-vs-leeds-united/2d8203#3610277,2022-04-30T16:30:00Z,True,Leeds United,8463,Manchester City,8456
+3610278,35,/matches/chelsea-vs-everton/2fahgy#3610278,2022-05-01T13:00:00Z,True,Everton,8668,Chelsea,8455
+3610273,35,/matches/leicester-city-vs-tottenham-hotspur/2buxqa#3610273,2022-05-01T13:00:00Z,True,Tottenham Hotspur,8586,Leicester City,8197
+3610271,35,/matches/west-ham-united-vs-arsenal/2tnw09#3610271,2022-05-01T15:30:00Z,True,West Ham United,8654,Arsenal,9825
+3610276,35,/matches/brentford-vs-manchester-united/3dfzjk#3610276,2022-05-02T19:00:00Z,True,Manchester United,10260,Brentford,9937
+3610288,36,/matches/southampton-vs-brentford/2stunb#3610288,2022-05-07T14:00:00Z,True,Brentford,9937,Southampton,8466
+3610286,36,/matches/burnley-vs-aston-villa/2t9lxd#3610286,2022-05-07T14:00:00Z,True,Burnley,8191,Aston Villa,10252
+3610285,36,/matches/chelsea-vs-wolverhampton-wanderers/2emb2j#3610285,2022-05-07T14:00:00Z,True,Chelsea,8455,Wolverhampton Wanderers,8602
+3610284,36,/matches/watford-vs-crystal-palace/36vg24#3610284,2022-05-07T14:00:00Z,True,Crystal Palace,9826,Watford,9817
+3610287,36,/matches/brighton-hove-albion-vs-manchester-united/3goccs#3610287,2022-05-07T16:30:00Z,True,Brighton & Hove Albion,10204,Manchester United,10260
+3610282,36,/matches/tottenham-hotspur-vs-liverpool/2gg3ek#3610282,2022-05-07T18:45:00Z,True,Liverpool,8650,Tottenham Hotspur,8586
+3610289,36,/matches/leeds-united-vs-arsenal/2rkmmx#3610289,2022-05-08T13:00:00Z,True,Arsenal,9825,Leeds United,8463
+3610283,36,/matches/leicester-city-vs-everton/2coib1#3610283,2022-05-08T13:00:00Z,True,Leicester City,8197,Everton,8668
+3610280,36,/matches/west-ham-united-vs-norwich-city/2txsqm#3610280,2022-05-08T13:00:00Z,True,Norwich City,9850,West Ham United,8654
+3610281,36,/matches/manchester-city-vs-newcastle-united/2waqez#3610281,2022-05-08T15:30:00Z,True,Manchester City,8456,Newcastle United,10261
+3610296,37,/matches/chelsea-vs-manchester-united/2w9xj5#3610296,2022-04-28T18:45:00Z,True,Manchester United,10260,Chelsea,8455
+3610293,37,/matches/burnley-vs-tottenham-hotspur/2bss1j#3610293,2022-05-15T11:00:00Z,True,Tottenham Hotspur,8586,Burnley,8191
+3610299,37,/matches/crystal-palace-vs-aston-villa/3c0md7#3610299,2022-05-15T13:00:00Z,True,Aston Villa,10252,Crystal Palace,9826
+3610297,37,/matches/leeds-united-vs-brighton-hove-albion/2vqp9d#3610297,2022-05-15T13:00:00Z,True,Leeds United,8463,Brighton & Hove Albion,10204
+3610292,37,/matches/leicester-city-vs-watford/2om11m#3610292,2022-05-15T13:00:00Z,True,Watford,9817,Leicester City,8197
+3610291,37,/matches/manchester-city-vs-west-ham-united/2f5prf#3610291,2022-05-15T13:00:00Z,True,West Ham United,8654,Manchester City,8456
+3610290,37,/matches/wolverhampton-wanderers-vs-norwich-city/2td7bg#3610290,2022-05-15T13:00:00Z,True,Wolverhampton Wanderers,8602,Norwich City,9850
+3610298,37,/matches/everton-vs-brentford/2v1yu4#3610298,2022-05-15T15:30:00Z,True,Everton,8668,Brentford,9937
+3610295,37,/matches/arsenal-vs-newcastle-united/3c42by#3610295,2022-05-16T19:00:00Z,True,Newcastle United,10261,Arsenal,9825
+3610294,37,/matches/southampton-vs-liverpool/2f7wzk#3610294,2022-05-17T18:45:00Z,True,Southampton,8466,Liverpool,8650
+3610300,38,/matches/everton-vs-arsenal/2ttfpg#3610300,2022-05-22T15:00:00Z,True,Arsenal,9825,Everton,8668
+3610301,38,/matches/leeds-united-vs-brentford/2sso1t#3610301,2022-05-22T15:00:00Z,True,Brentford,9937,Leeds United,8463
+3610302,38,/matches/west-ham-united-vs-brighton-hove-albion/2xvimt#3610302,2022-05-22T15:00:00Z,True,Brighton & Hove Albion,10204,West Ham United,8654
+3610303,38,/matches/burnley-vs-newcastle-united/2td61d#3610303,2022-05-22T15:00:00Z,True,Burnley,8191,Newcastle United,10261
+3610304,38,/matches/chelsea-vs-watford/2recy1#3610304,2022-05-22T15:00:00Z,True,Chelsea,8455,Watford,9817
+3610305,38,/matches/crystal-palace-vs-manchester-united/3c42bz#3610305,2022-05-22T15:00:00Z,True,Crystal Palace,9826,Manchester United,10260
+3610306,38,/matches/leicester-city-vs-southampton/2anx5y#3610306,2022-05-22T15:00:00Z,True,Leicester City,8197,Southampton,8466
+3610307,38,/matches/wolverhampton-wanderers-vs-liverpool/2gm0as#3610307,2022-05-22T15:00:00Z,True,Liverpool,8650,Wolverhampton Wanderers,8602
+3610308,38,/matches/manchester-city-vs-aston-villa/2w74gq#3610308,2022-05-22T15:00:00Z,True,Manchester City,8456,Aston Villa,10252
+3610309,38,/matches/tottenham-hotspur-vs-norwich-city/2t6vlw#3610309,2022-05-22T15:00:00Z,True,Norwich City,9850,Tottenham Hotspur,8586
+3609962,4,/matches/tottenham-hotspur-vs-crystal-palace/2sxee8#3609962,2021-09-11T11:30:00Z,True,Crystal Palace,9826,Tottenham Hotspur,8586
+3609959,4,/matches/arsenal-vs-norwich-city/378xhw#3609959,2021-09-11T14:00:00Z,True,Arsenal,9825,Norwich City,9850
+3609960,4,/matches/brentford-vs-brighton-hove-albion/3crs0s#3609960,2021-09-11T14:00:00Z,True,Brentford,9937,Brighton & Hove Albion,10204
+3609965,4,/matches/leicester-city-vs-manchester-city/2akcmb#3609965,2021-09-11T14:00:00Z,True,Leicester City,8197,Manchester City,8456
+3609966,4,/matches/manchester-united-vs-newcastle-united/3hddo2#3609966,2021-09-11T14:00:00Z,True,Manchester United,10260,Newcastle United,10261
+3609967,4,/matches/southampton-vs-west-ham-united/2f9dtq#3609967,2021-09-11T14:00:00Z,True,Southampton,8466,West Ham United,8654
+3609968,4,/matches/wolverhampton-wanderers-vs-watford/2t05uv#3609968,2021-09-11T14:00:00Z,True,Watford,9817,Wolverhampton Wanderers,8602
+3609961,4,/matches/chelsea-vs-aston-villa/2w6q11#3609961,2021-09-11T16:30:00Z,True,Chelsea,8455,Aston Villa,10252
+3609964,4,/matches/leeds-united-vs-liverpool/2f6tdb#3609964,2021-09-12T15:30:00Z,True,Leeds United,8463,Liverpool,8650
+3609963,4,/matches/burnley-vs-everton/2cmc8m#3609963,2021-09-13T19:00:00Z,True,Everton,8668,Burnley,8191
+3609974,5,/matches/leeds-united-vs-newcastle-united/2wdjjd#3609974,2021-09-17T19:00:00Z,True,Newcastle United,10261,Leeds United,8463
+3609978,5,/matches/wolverhampton-wanderers-vs-brentford/2ubp0j#3609978,2021-09-18T11:30:00Z,True,Wolverhampton Wanderers,8602,Brentford,9937
+3609971,5,/matches/burnley-vs-arsenal/2omsup#3609971,2021-09-18T14:00:00Z,True,Burnley,8191,Arsenal,9825
+3609972,5,/matches/liverpool-vs-crystal-palace/2tmp8g#3609972,2021-09-18T14:00:00Z,True,Liverpool,8650,Crystal Palace,9826
+3609973,5,/matches/manchester-city-vs-southampton/2d9569#3609973,2021-09-18T14:00:00Z,True,Manchester City,8456,Southampton,8466
+3609975,5,/matches/watford-vs-norwich-city/375k2g#3609975,2021-09-18T14:00:00Z,True,Norwich City,9850,Watford,9817
+3609969,5,/matches/everton-vs-aston-villa/2ykmb4#3609969,2021-09-18T16:30:00Z,True,Aston Villa,10252,Everton,8668
+3609970,5,/matches/leicester-city-vs-brighton-hove-albion/2st0wm#3609970,2021-09-19T13:00:00Z,True,Brighton & Hove Albion,10204,Leicester City,8197
+3609977,5,/matches/west-ham-united-vs-manchester-united/2yi6pt#3609977,2021-09-19T13:00:00Z,True,West Ham United,8654,Manchester United,10260
+3609976,5,/matches/chelsea-vs-tottenham-hotspur/2eggkj#3609976,2021-09-19T15:30:00Z,True,Tottenham Hotspur,8586,Chelsea,8455
+3609981,6,/matches/chelsea-vs-manchester-city/2d55kw#3609981,2021-09-25T11:30:00Z,True,Chelsea,8455,Manchester City,8456
+3609986,6,/matches/aston-villa-vs-manchester-united/3h9f6s#3609986,2021-09-25T11:30:00Z,True,Manchester United,10260,Aston Villa,10252
+3609983,6,/matches/everton-vs-norwich-city/2u3cpj#3609983,2021-09-25T14:00:00Z,True,Everton,8668,Norwich City,9850
+3609984,6,/matches/leeds-united-vs-west-ham-united/2f8a75#3609984,2021-09-25T14:00:00Z,True,Leeds United,8463,West Ham United,8654
+3609985,6,/matches/burnley-vs-leicester-city/27yia7#3609985,2021-09-25T14:00:00Z,True,Leicester City,8197,Burnley,8191
+3609988,6,/matches/watford-vs-newcastle-united/3c0mcy#3609988,2021-09-25T14:00:00Z,True,Watford,9817,Newcastle United,10261
+3609980,6,/matches/liverpool-vs-brentford/2uusjv#3609980,2021-09-25T16:30:00Z,True,Brentford,9937,Liverpool,8650
+3609987,6,/matches/southampton-vs-wolverhampton-wanderers/2eqbw8#3609987,2021-09-26T13:00:00Z,True,Southampton,8466,Wolverhampton Wanderers,8602
+3609979,6,/matches/tottenham-hotspur-vs-arsenal/2sx06r#3609979,2021-09-26T15:30:00Z,True,Arsenal,9825,Tottenham Hotspur,8586
+3609982,6,/matches/crystal-palace-vs-brighton-hove-albion/3bfzlv#3609982,2021-09-27T19:00:00Z,True,Crystal Palace,9826,Brighton & Hove Albion,10204
+3609995,7,/matches/everton-vs-manchester-united/2ynv4k#3609995,2021-10-02T11:30:00Z,True,Manchester United,10260,Everton,8668
+3609990,7,/matches/burnley-vs-norwich-city/2owgnj#3609990,2021-10-02T14:00:00Z,True,Burnley,8191,Norwich City,9850
+3609991,7,/matches/chelsea-vs-southampton/2d8s47#3609991,2021-10-02T14:00:00Z,True,Chelsea,8455,Southampton,8466
+3609993,7,/matches/leeds-united-vs-watford/2rhhrh#3609993,2021-10-02T14:00:00Z,True,Leeds United,8463,Watford,9817
+3609998,7,/matches/wolverhampton-wanderers-vs-newcastle-united/2xxjcy#3609998,2021-10-02T14:00:00Z,True,Wolverhampton Wanderers,8602,Newcastle United,10261
+3609989,7,/matches/arsenal-vs-brighton-hove-albion/3bfk5g#3609989,2021-10-02T16:30:00Z,True,Brighton & Hove Albion,10204,Arsenal,9825
+3609992,7,/matches/leicester-city-vs-crystal-palace/2opi6m#3609992,2021-10-03T13:00:00Z,True,Crystal Palace,9826,Leicester City,8197
+3609996,7,/matches/tottenham-hotspur-vs-aston-villa/2xnfpj#3609996,2021-10-03T13:00:00Z,True,Tottenham Hotspur,8586,Aston Villa,10252
+3609997,7,/matches/west-ham-united-vs-brentford/2uwdxd#3609997,2021-10-03T13:00:00Z,True,West Ham United,8654,Brentford,9937
+3609994,7,/matches/manchester-city-vs-liverpool/2f48yd#3609994,2021-10-03T15:30:00Z,True,Liverpool,8650,Manchester City,8456
+3610008,8,/matches/liverpool-vs-watford/2tj4y7#3610008,2021-10-16T11:30:00Z,True,Watford,9817,Liverpool,8650
+3610000,8,/matches/wolverhampton-wanderers-vs-aston-villa/2xtwe7#3610000,2021-10-16T14:00:00Z,True,Aston Villa,10252,Wolverhampton Wanderers,8602
+3610003,8,/matches/leicester-city-vs-manchester-united/2tf58q#3610003,2021-10-16T14:00:00Z,True,Leicester City,8197,Manchester United,10260
+3610004,8,/matches/burnley-vs-manchester-city/2ai7j8#3610004,2021-10-16T14:00:00Z,True,Manchester City,8456,Burnley,8191
+3610006,8,/matches/norwich-city-vs-brighton-hove-albion/3bqas7#3610006,2021-10-16T14:00:00Z,True,Norwich City,9850,Brighton & Hove Albion,10204
+3610007,8,/matches/leeds-united-vs-southampton/2dbolf#3610007,2021-10-16T14:00:00Z,True,Southampton,8466,Leeds United,8463
+3610001,8,/matches/chelsea-vs-brentford/2spihp#3610001,2021-10-16T16:30:00Z,True,Brentford,9937,Chelsea,8455
+3610002,8,/matches/west-ham-united-vs-everton/2hby1v#3610002,2021-10-17T13:00:00Z,True,Everton,8668,West Ham United,8654
+3610005,8,/matches/tottenham-hotspur-vs-newcastle-united/2xr2ka#3610005,2021-10-17T15:30:00Z,True,Newcastle United,10261,Tottenham Hotspur,8586
+3609999,8,/matches/arsenal-vs-crystal-palace/36ytc8#3609999,2021-10-18T19:00:00Z,True,Arsenal,9825,Crystal Palace,9826
+3610009,9,/matches/arsenal-vs-aston-villa/3c06vg#3610009,2021-10-22T19:00:00Z,True,Arsenal,9825,Aston Villa,10252
+3610012,9,/matches/chelsea-vs-norwich-city/2rranv#3610012,2021-10-23T11:30:00Z,True,Chelsea,8455,Norwich City,9850
+3610013,9,/matches/crystal-palace-vs-newcastle-united/3c4hty#3610013,2021-10-23T14:00:00Z,True,Crystal Palace,9826,Newcastle United,10261
+3610014,9,/matches/everton-vs-watford/2tq9kg#3610014,2021-10-23T14:00:00Z,True,Everton,8668,Watford,9817
+3610015,9,/matches/leeds-united-vs-wolverhampton-wanderers/2ep8dz#3610015,2021-10-23T14:00:00Z,True,Leeds United,8463,Wolverhampton Wanderers,8602
+3610017,9,/matches/burnley-vs-southampton/2als17#3610017,2021-10-23T14:00:00Z,True,Southampton,8466,Burnley,8191
+3610011,9,/matches/manchester-city-vs-brighton-hove-albion/2vnwg2#3610011,2021-10-23T16:30:00Z,True,Brighton & Hove Albion,10204,Manchester City,8456
+3610010,9,/matches/leicester-city-vs-brentford/2pwipa#3610010,2021-10-24T13:00:00Z,True,Brentford,9937,Leicester City,8197
+3610018,9,/matches/tottenham-hotspur-vs-west-ham-united/2ghkm2#3610018,2021-10-24T13:00:00Z,True,West Ham United,8654,Tottenham Hotspur,8586
+3610016,9,/matches/liverpool-vs-manchester-united/2ygkcb#3610016,2021-10-24T15:30:00Z,True,Manchester United,10260,Liverpool,8650
