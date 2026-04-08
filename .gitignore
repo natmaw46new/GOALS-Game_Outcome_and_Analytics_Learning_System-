@@ -21,3 +21,4 @@ __pycache__/
 
 # ── Temp / debug scripts ───────────────────────────────────────────────────────
 check_encoding.py
+CLAUDE.md
