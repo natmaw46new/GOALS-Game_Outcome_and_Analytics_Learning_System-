@@ -9,11 +9,11 @@
 
 ## Project Overview
 
-GOALS is a multi-stage ML pipeline that predicts La Liga match outcomes (Win/Draw/Loss) by constructing position-specific composite performance scores from per-player match statistics, then aggregating those scores to the team level.
+GOALS is a multi-stage ML pipeline that predicts Premier League match outcomes (Win/Draw/Loss) by constructing position-specific composite performance scores from per-player match statistics, then aggregating those scores to the team level.
 
 **Data sources:**
 - **FBref** — season-level player stats (standard, shooting, misc, goalkeeping, playing_time) — already scraped for all 4 seasons
-- **FotMob** — per-match player stats with richer granularity (xG, xA, progressive passes, dribbles, etc.) — scraped for Premier League (ID 47); **La Liga (ID 87) still needs to be scraped**
+- **FotMob** — per-match player stats with richer granularity (xG, xA, progressive passes, dribbles, etc.) — scraped for Premier League 2024/25 only; **seasons 2021/22–2023/24 still need to be scraped**
 
 ---
 
@@ -22,23 +22,23 @@ GOALS is a multi-stage ML pipeline that predicts La Liga match outcomes (Win/Dra
 ```
 GOALS/
 ├── CLAUDE.md                       # This file — persistent session context
-├── fotmob_final.ipynb              # FotMob scraper — set LEAGUE_ID=87 for La Liga
+├── fotmob_final.ipynb              # FotMob scraper — LEAGUE_ID=47 for Premier League
 ├── GOALS_notebook.ipynb            # FBref scraper (data already collected)
 ├── (OLD)fotmob.ipynb               # Deprecated — ignore
 ├── data/
 │   ├── FBref/
-│   │   ├── la_liga/{season}/       # ✅ 4 seasons scraped
+│   │   ├── premier_league/{season}/  # ✅ 4 seasons scraped
 │   │   │   ├── standard.csv
 │   │   │   ├── shooting.csv
 │   │   │   ├── misc.csv
 │   │   │   ├── goalkeeping.csv
 │   │   │   └── playing_time.csv
-│   │   ├── premier_league/{season}/
+│   │   ├── la_liga/{season}/
 │   │   └── bundesliga/{season}/
-│   ├── 47/2024_2025/               # FotMob Premier League 2024/25 (scraped, reference only)
+│   ├── 47/2024_2025/               # FotMob Premier League 2024/25 ✅ already scraped
 │   │   ├── raw/                    # Raw JSON per match_id
 │   │   └── output/                 # outfield_players.parquet, goalkeepers.parquet, fixtures.parquet
-│   └── 87/{season}/                # FotMob La Liga — TO BE SCRAPED
+│   └── 47/{season}/                # FotMob Premier League 2021/22–2023/24 — TO BE SCRAPED
 │       ├── raw/
 │       └── output/
 └── notebooks/                      # ML pipeline notebooks — TO BE CREATED
@@ -55,18 +55,18 @@ GOALS/
 
 ---
 
-## Phase 1 (Immediate): FotMob La Liga Data Collection
+## Phase 1 (Immediate): FotMob Premier League Data Collection
 
-**Status: NOT YET DONE**
+**Status: PARTIALLY DONE — 2024/25 complete, need 2021/22, 2022/23, 2023/24**
 
-`fotmob_final.ipynb` is production-ready. To scrape La Liga, run it **4 times** — once per season — after changing Cell 1 config:
+`fotmob_final.ipynb` is production-ready. To scrape the remaining 3 seasons, run it **3 times** — once per season — after changing Cell 1 config:
 
 ```python
-LEAGUE_ID = 87          # La Liga (current value 47 = Premier League — MUST CHANGE)
-SEASON    = '2021/2022' # then '2022/2023', '2023/2024', '2024/2025'
+LEAGUE_ID = 47          # Premier League (already correct)
+SEASON    = '2021/2022' # then '2022/2023', '2023/2024'  (2024/2025 already done)
 ```
 
-Each run produces under `data/87/{season_underscored}/output/`:
+Each run produces under `data/47/{season_underscored}/output/`:
 - `outfield_players.parquet` — wide-format per-player-per-match (main input)
 - `goalkeepers.parquet` — same for GKs
 - `fixtures.parquet` — match metadata with results
@@ -200,9 +200,9 @@ GK = 0.30*Saves + 0.25*xGOT + 0.15*DivingSaves + 0.15*SavesInsideBox
 1. **Never use random train/test splits** — always temporal splits. Shuffling creates data leakage (future matches inform past predictions).
 2. **Z-score normalization fit on train only** — apply the same scaler to test; never fit on test data.
 3. **Multicollinearity** — many FotMob metrics are correlated (e.g., goals and xG). Use Ridge regression (L2) to handle this; check VIF if needed.
-4. **Class imbalance** — La Liga has ~45-50% home wins, ~25% draws, ~25-30% away wins. Always use `class_weight='balanced'` for classifiers.
+4. **Class imbalance** — The Premier League has ~45% home wins, ~25% draws, ~30% away wins. Always use `class_weight='balanced'` for classifiers.
 5. **Data alignment** — FBref is season-level (one row per player per season); FotMob is match-level. Merge carefully: FBref stats serve as contextual features, FotMob stats drive the per-match composite score.
-6. **Player name mismatches** — FBref uses accented names (e.g., "Karim Benzema"), FotMob may differ. Use fuzzy matching with threshold ≥ 85.
+6. **Player name mismatches** — FBref uses accented names, FotMob may differ. Use fuzzy matching with threshold ≥ 85.
 7. **FotMob rate limiting** — scraper already handles this with jitter + retries. Do not increase MAX_CONCURRENT beyond 4.
 
 ---
@@ -211,11 +211,11 @@ GK = 0.30*Saves + 0.25*xGOT + 0.15*DivingSaves + 0.15*SavesInsideBox
 
 | Source | League | Seasons | Status |
 |--------|--------|---------|--------|
-| FBref | La Liga | 2021-2025 (4 seasons) | ✅ Complete |
-| FBref | Premier League | 2021-2025 | ✅ Complete |
-| FBref | Bundesliga | 2021-2025 | ✅ Complete |
-| FotMob | Premier League (47) | 2024/25 | ✅ Complete (reference) |
-| FotMob | La Liga (87) | 2021-2025 (4 seasons) | ❌ Not yet scraped |
+| FBref | Premier League | 2021-2025 (4 seasons) | ✅ Complete |
+| FBref | La Liga | 2021-2025 | ✅ Complete (not used) |
+| FBref | Bundesliga | 2021-2025 | ✅ Complete (not used) |
+| FotMob | Premier League (47) | 2024/25 | ✅ Complete |
+| FotMob | Premier League (47) | 2021/22, 2022/23, 2023/24 | ❌ Not yet scraped |
 
 ---
 
@@ -223,7 +223,7 @@ GK = 0.30*Saves + 0.25*xGOT + 0.15*DivingSaves + 0.15*SavesInsideBox
 
 | Area | Owner |
 |------|-------|
-| FotMob La Liga scrape | Amine |
+| FotMob Premier League scrape (remaining 3 seasons) | Amine |
 | Data merge (01) + EDA (02) | Both |
 | Feature engineering (03) | Both |
 | Regression (04) + evaluation metrics | Amine |

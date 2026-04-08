@@ -1,0 +1,23 @@
+# ── Data ──────────────────────────────────────────────────────────────────────
+# All scraped/processed data — large files, not for version control
+data/
+
+# ── Python artifacts ───────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# ── Environment & secrets ──────────────────────────────────────────────────────
+.env
+*.env
+
+# ── Deprecated notebooks ───────────────────────────────────────────────────────
+(OLD)fotmob.ipynb
+
+# ── Local tooling ──────────────────────────────────────────────────────────────
+.claude/
+
+# ── Temp / debug scripts ───────────────────────────────────────────────────────
+check_encoding.py
