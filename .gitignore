@@ -16,9 +16,11 @@ __pycache__/
 # ── Deprecated notebooks ───────────────────────────────────────────────────────
 (OLD)fotmob.ipynb
 
-# ── Local tooling ──────────────────────────────────────────────────────────────
+# ── IDE and session config ─────────────────────────────────────────────────────
 .claude/
 
 # ── Temp / debug scripts ───────────────────────────────────────────────────────
 check_encoding.py
+
+# ── Project session context (local only) ───────────────────────────────────────
 CLAUDE.md
