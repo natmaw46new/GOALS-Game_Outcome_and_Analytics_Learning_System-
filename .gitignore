@@ -1,7 +1,3 @@
-# ── Data ──────────────────────────────────────────────────────────────────────
-# All scraped/processed data — large files, not for version control
-data/
-
 # ── Python artifacts ───────────────────────────────────────────────────────────
 __pycache__/
 *.pyc

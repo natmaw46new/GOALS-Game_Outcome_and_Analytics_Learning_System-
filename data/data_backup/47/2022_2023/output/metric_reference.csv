@@ -1,0 +1,102 @@
+player_type,category,metric_key,metric,occurrences,matches,players,pct_non_null,avg_value
+goalkeeper,defense,clearances,Clearances,532,262,43,100%,1.165
+goalkeeper,defense,defensive_actions,Defensive actions,532,262,43,100%,1.207
+goalkeeper,defense,interceptions,Interceptions,532,262,43,100%,0.011
+goalkeeper,defense,recoveries,Recoveries,532,262,43,100%,7.711
+goalkeeper,duels,aerials_won,Aerial duels won,138,124,29,100%,1.217
+goalkeeper,duels,ground_duels_won,Ground duels won,104,98,23,100%,1.0
+goalkeeper,duels,was_fouled,Was fouled,84,262,43,16%,1.19
+goalkeeper,goalkeeping,goals_conceded,Goals conceded,532,262,43,100%,1.327
+goalkeeper,goalkeeping,punches,Punches,532,262,43,100%,0.594
+goalkeeper,goalkeeping,saves,Saves,532,262,43,100%,2.823
+goalkeeper,goalkeeping,saves_inside_box,Saves inside box,532,262,43,100%,1.816
+goalkeeper,goalkeeping,goals_prevented,Goals prevented,510,258,41,100%,0.036
+goalkeeper,passes,accurate_passes,Accurate passes,532,262,43,100%,21.474
+goalkeeper,passes,passes_into_final_third,Passes into final third,502,262,41,100%,5.944
+goalkeeper,physical_metrics,physical_metrics_distance_covered,Distance covered,8,4,3,100%,5379.5
+goalkeeper,physical_metrics,physical_metrics_running,Running,8,4,3,100%,1474.75
+goalkeeper,physical_metrics,physical_metrics_sprinting,Sprinting,8,4,3,100%,2.0
+goalkeeper,physical_metrics,physical_metrics_topspeed,Top speed,8,4,3,100%,18.875
+goalkeeper,physical_metrics,physical_metrics_walking,Walking,8,4,3,100%,3902.75
+goalkeeper,top_stats,fouls,Fouls committed,532,262,43,100%,0.023
+goalkeeper,top_stats,keeper_diving_save,Diving save,532,262,43,100%,1.259
+goalkeeper,top_stats,keeper_high_claim,High claim,532,262,43,100%,0.797
+goalkeeper,top_stats,keeper_sweeper,Acted as sweeper,532,262,43,100%,0.602
+goalkeeper,top_stats,matchstats.headers.tackles,Tackles,532,262,43,100%,0.03
+goalkeeper,top_stats,minutes_played,Minutes played,532,262,43,100%,89.102
+goalkeeper,top_stats,player_throws,Throws,532,262,43,100%,4.056
+goalkeeper,top_stats,touches,Touches,532,262,43,100%,41.805
+goalkeeper,top_stats,long_balls_accurate,Accurate long balls,530,262,43,100%,5.392
+goalkeeper,top_stats,rating_title,FotMob rating,530,262,42,100%,6.942
+goalkeeper,top_stats,expected_goals_on_target_faced,xGOT faced,514,262,40,100%,1.363
+goalkeeper,top_stats,fantasy_points,Fantasy points,484,240,36,100%,3.537
+goalkeeper,top_stats,duel_won,Duels won,202,164,30,100%,1.347
+goalkeeper,top_stats,expected_assists,Expected assists (xA),54,54,15,100%,0.017
+goalkeeper,top_stats,xg_and_xa,xG + xA,54,54,15,100%,0.017
+goalkeeper,top_stats,duel_lost,Duels lost,32,32,12,100%,1.0
+goalkeeper,top_stats,errors_led_to_goal,Error led to goal,28,28,10,100%,1.0
+goalkeeper,top_stats,chances_created,Chances created,12,12,6,100%,1.0
+goalkeeper,top_stats,saved_penalties,Saved penalties,10,10,5,100%,1.2
+goalkeeper,top_stats,conceded_penalties,Conceded penalty,8,8,4,100%,1.0
+goalkeeper,top_stats,dribbles_succeeded,Successful dribbles,6,6,3,100%,1.0
+goalkeeper,top_stats,assists,Assists,4,4,2,100%,1.0
+goalkeeper,top_stats,saved_penalties_in_shootout,Penalty shootout saves,4,2,2,100%,1.5
+goalkeeper,top_stats,owngoal,Own goal,2,2,1,100%,1.0
+outfield,attack,dispossessed,Dispossessed,7384,262,545,100%,0.63
+outfield,attack,touches,Touches,7384,262,545,100%,42.683
+outfield,attack,touches_opp_box,Touches in opposition box,7384,262,545,100%,1.83
+outfield,attack,passes_into_final_third,Passes into final third,5762,262,492,100%,4.314
+outfield,attack,long_balls_accurate,Accurate long balls,4938,262,460,100%,1.591
+outfield,attack,dribbles_succeeded,Successful dribbles,3736,262,439,100%,0.977
+outfield,attack,expected_goals_non_penalty,xG Non-penalty,3716,262,448,100%,0.187
+outfield,attack,accurate_crosses,Accurate crosses,3432,262,407,100%,0.661
+outfield,attack,corners,Corners,1062,262,147,100%,2.473
+outfield,attack,big_chance_missed_title,Big chances missed,714,246,208,100%,1.146
+outfield,attack,Offsides,Offsides,676,240,186,100%,1.237
+outfield,attack,shots_woodwork,Hit woodwork,148,112,65,100%,1.041
+outfield,defense,clearances,Clearances,7384,262,545,100%,1.753
+outfield,defense,defensive_actions,Defensive actions,7384,262,545,100%,4.986
+outfield,defense,dribbled_past,Dribbled past,7384,262,545,100%,0.494
+outfield,defense,interceptions,Interceptions,7384,262,545,100%,0.61
+outfield,defense,matchstats.headers.tackles,Tackles,7384,262,545,100%,1.188
+outfield,defense,recoveries,Recoveries,7384,262,545,100%,2.808
+outfield,defense,shot_blocks,Blocks,7384,262,545,100%,0.27
+outfield,defense,headed_clearance,Headed clearance,3280,262,394,100%,2.177
+outfield,defense,last_man_tackle,Last man tackle,90,78,41,100%,1.0
+outfield,defense,clearance_off_the_line,Clearance off the line,68,60,31,100%,1.0
+outfield,duels,aerials_won,Aerial duels won,7384,262,545,100%,1.098
+outfield,duels,fouls,Fouls committed,7384,262,545,100%,0.766
+outfield,duels,ground_duels_won,Ground duels won,6740,262,520,100%,2.627
+outfield,duels,duel_lost,Duels lost,6552,262,516,100%,3.977
+outfield,duels,duel_won,Duels won,6408,262,503,100%,4.029
+outfield,duels,was_fouled,Was fouled,3374,262,545,46%,1.594
+outfield,physical_metrics,physical_metrics_distance_covered,Distance covered,114,4,46,100%,7369.895
+outfield,physical_metrics,physical_metrics_running,Running,114,4,46,100%,5031.123
+outfield,physical_metrics,physical_metrics_sprinting,Sprinting,114,4,46,100%,158.211
+outfield,physical_metrics,physical_metrics_topspeed,Top speed,114,4,46,100%,28.904
+outfield,physical_metrics,physical_metrics_walking,Walking,114,4,46,100%,2180.561
+outfield,physical_metrics,physical_metrics_number_of_sprints,Number of sprints,110,4,44,100%,7.909
+outfield,top_stats,accurate_passes,Accurate passes,7384,262,545,100%,25.195
+outfield,top_stats,assists,Assists,7384,262,545,100%,0.065
+outfield,top_stats,chances_created,Chances created,7384,262,545,100%,0.664
+outfield,top_stats,defensive_actions,Defensive actions,7384,262,545,100%,4.986
+outfield,top_stats,goals,Goals,7384,262,545,100%,0.093
+outfield,top_stats,minutes_played,Minutes played,7384,262,545,100%,64.043
+outfield,top_stats,fantasy_points,Fantasy points,6752,240,509,100%,2.925
+outfield,top_stats,rating_title,FotMob rating,6660,262,507,100%,6.87
+outfield,top_stats,xg_and_xa,xG + xA,5998,262,502,100%,0.209
+outfield,top_stats,expected_assists,Expected assists (xA),5380,262,483,100%,0.092
+outfield,top_stats,ShotsOffTarget,Shots off target,3734,262,449,100%,0.649
+outfield,top_stats,ShotsOnTarget,Shots on target,3734,262,449,100%,0.597
+outfield,top_stats,expected_goals,Expected goals (xG),3732,262,449,100%,0.203
+outfield,top_stats,shot_accuracy,Shot accuracy,3022,262,421,100%,0.737
+outfield,top_stats,expected_goals_on_target_variant,Expected goals on target (xGOT),1738,262,449,47%,0.403
+outfield,top_stats,blocked_shots,Blocked shots,1634,262,339,100%,1.241
+outfield,top_stats,big_chance_created_team_title,Big chances created,788,244,233,100%,1.132
+outfield,top_stats,physical_metrics_distance_covered,Distance covered,114,4,46,100%,7369.895
+outfield,top_stats,physical_metrics_topspeed,Top speed,114,4,46,100%,28.904
+outfield,top_stats,errors_led_to_goal,Error led to goal,78,66,31,100%,1.0
+outfield,top_stats,conceded_penalties,Conceded penalty,70,52,33,100%,1.0
+outfield,top_stats,penalties_won,Penalties won,60,52,29,100%,1.033
+outfield,top_stats,owngoal,Own goal,20,20,10,100%,1.0
+outfield,top_stats,missed_penalty,Missed penalty,14,14,7,100%,1.143
