@@ -2,168 +2,130 @@
 
 > *"Given recent player performance trends, what can we expect to happen in the next match?"*
 
-**GOALS** is a multi-stage machine learning pipeline that predicts Premier League match outcomes (Win / Draw / Loss) by constructing position-specific composite performance scores from per-player match statistics, then aggregating those scores to the team level.
+**GOALS** is a multi-stage machine learning pipeline that predicts Premier League match outcomes
+(Home Win / Draw / Away Win) by constructing position-specific composite performance scores from
+per-player FotMob match statistics, then aggregating those scores to the team level for classification.
 
-**Course:** EECE5644 — Introduction to Machine Learning & Pattern Recognition
-**Team:** Amine Kebichi · Nathaniel Maw
-**League:** Premier League — all 20 clubs, 4 seasons (2021/22 – 2024/25)
-**Deadline:** April 18, 2026
+**Course:** EECE5644 — Introduction to Machine Learning & Pattern Recognition  
+**Team:** Amine Kebichi · Nathaniel Maw  
+**League:** Premier League — all 20 clubs, 4 seasons (2021/22 – 2024/25)  
 
 ---
 
 ## Pipeline Overview
 
 ```
-FotMob per-match player stats (Premier League)
-              │
-              ▼
-    02_preprocessing       ← cleaning, context features, null handling
-              │
-              ▼
- 03_feature_engineering    ← ratio features, rolling windows, composite scores
-              │
-              ▼
-          04_eda            ← distributions, correlations, PCA
-              │
-              ▼
-      05_regression         ← predict composite scores (Ridge + RF)
-              │
-              ▼
-  07_team_aggregation       ← aggregate player predictions to match level
-              │
-        ┌─────┴──────┐
-        ▼             ▼
-06_clustering   08_classification
-(archetypes)    (Win / Draw / Loss)
+FotMob per-match player stats (Premier League, 4 seasons)
+                    │
+                    ▼
+        01_fotmob_scraper          ← two-pass HTML + API scraper, rate-limited
+                    │
+                    ▼
+        02_preprocessing           ← cleaning, context features, null handling
+                    │
+                    ▼
+     03_feature_engineering        ← ratio features, 5-match rolling windows,
+                    │                 composite scores (ATT / MID / DEF / GK)
+                    ▼
+              04_eda                ← distributions, correlation matrix, PCA
+                    │
+                    ▼
+          05_regression             ← predict composite scores (Ridge + RF)
+                    │
+                    ▼
+      07_team_aggregation           ← aggregate player predictions to match level
+                    │
+             ┌──────┴──────┐
+             ▼             ▼
+     06_clustering   08_classification
+     (archetypes)    (H / D / A outcome)
 ```
 
-| Stage | Notebook | Status | Owner |
-|-------|----------|--------|-------|
-| Preprocessing | `02_preprocessing.ipynb` | ✅ Complete | Both |
-| Feature Engineering | `03_feature_engineering.ipynb` | ✅ Complete | Both |
-| EDA | `04_eda.ipynb` | ✅ Complete | Both |
-| Regression | `05_regression.ipynb` | ✅ Complete | Amine |
-| Team Aggregation | `07_team_aggregation.ipynb` | ✅ Complete | Both |
-| Clustering | `06_clustering.ipynb` | ⏳ In progress | Nathaniel |
-| Classification | `08_classification.ipynb` | ⏳ In progress | Nathaniel |
+| Notebook | Stage | Status |
+|----------|-------|--------|
+| `01_fotmob_scraper` | FotMob data collection | ✅ Complete |
+| `02_preprocessing` | Cleaning & context features | ✅ Complete |
+| `03_feature_engineering` | Rolling windows & composite scores | ✅ Complete |
+| `04_eda` | Exploratory data analysis | ✅ Complete |
+| `05_regression` | Player performance regression | ✅ Complete |
+| `06_clustering` | Player archetype discovery | ✅ Complete |
+| `07_team_aggregation` | Match-level feature construction | ✅ Complete |
+| `08_classification` | Match outcome prediction | ✅ Complete |
 
 ---
 
-## Research Questions
+## Key Results
 
-- How strongly does recent individual player form predict team-level match outcomes?
-- Which statistical metrics (xG, progressive passes, defensive actions) are the most reliable indicators of future performance?
-- Do data-driven player archetypes correspond to recognisable tactical roles?
-- How effectively can aggregated player-level predictions forecast the final result?
+### Regression — predicting composite scores
+
+| Position | RMSE | R² |
+|----------|------|----|
+| Defender | 0.0923 | **0.966** |
+| Midfielder | 0.1163 | **0.941** |
+| Winger | 0.1372 | **0.942** |
+| Forward | 0.1409 | **0.938** |
+| **Overall (mean)** | — | **0.947** |
+
+Best model: Random Forest, position-grouped, enhanced features (2024/25 test season).
+
+### Classification — predicting match outcomes
+
+| Model | Features | Accuracy | Macro F1 |
+|-------|----------|----------|----------|
+| Baseline (majority class) | — | 0.336 | 0.207 |
+| Logistic Regression | raw | 0.456 | 0.371 |
+| Logistic Regression | diff | 0.444 | 0.362 |
+| Random Forest | diff | 0.532 | 0.519 |
+| **Random Forest** | **raw** | **0.548** | **0.542** |
+
+Best model: Random Forest with raw home/away features (+0.335 macro F1 over baseline).
 
 ---
 
 ## Dataset
 
-### Sources
+**Source:** [FotMob](https://www.fotmob.com) — per-match player statistics for all Premier League clubs.
 
-| Source | Role | Seasons | Status |
-|--------|------|---------|--------|
-| **FotMob** | Primary — per-match player stats: dribbles, tackles, saves, xG, xA, chances created, player ratings | 2021/22–2024/25 | ✅ Scraped (~72% of matches) |
-| **FBref** | Supplementary — season-level player stats | 2021/22–2024/25 | ✅ Scraped (not yet merged) |
-
-FotMob's proprietary per-match player rating serves as an **independent benchmark** for validating the composite scores built in this project.
-
-### Scale
+FBref was evaluated as an initial source but superseded due to incomplete per-player passing
+and physical coverage at the individual match level.
 
 | Property | Value |
 |----------|-------|
-| Total player-match observations | 21,242 outfield + 2,138 GK |
-| Post-feature-engineering (train) | 15,288 outfield + 1,549 GK |
-| Post-feature-engineering (test) | 4,748 outfield + 483 GK |
-| Match-level aggregation (train) | 794 matches |
-| Match-level aggregation (test) | 250 matches |
-| Features per match (team aggregation) | 37 columns |
+| Seasons | 2021/22, 2022/23, 2023/24 (train) · 2024/25 (test) |
+| Total matches scraped | 1,089 / 1,520 (~72% coverage) |
+| Total player-match obs. | 21,242 outfield + 2,138 GK (after quality filter) |
+| Post-feature-engineering train | 15,288 outfield + 1,549 GK rows |
+| Post-feature-engineering test | 4,748 outfield + 483 GK rows |
+| Match-level train / test | 794 / 250 matches |
 
-~28% of matches are unavailable — FotMob serves those via authenticated endpoints only.
+~28% of matches are served via FotMob's authenticated API only and are unavailable without
+login credentials.
 
 ### Train / Test Split
 
-Strictly **temporal** — random shuffling is never used, as it would allow future information to leak into training.
+Strictly **temporal** — no random shuffling is ever used.
 
 | Partition | Seasons | Matches |
 |-----------|---------|---------|
 | Training | 2021/22, 2022/23, 2023/24 | 794 |
 | Testing | 2024/25 | 250 |
 
-Within the three training seasons, hyperparameter tuning uses **time-series-aware cross-validation** (`TimeSeriesSplit`).
-
 ---
 
 ## Position-Aware Composite Performance Scores
 
-Four position-specific scores that reflect the distinct tactical contribution of each role. All input metrics are **z-score normalised** on the training set before weights are applied. A **5-match rolling mean** (`.shift(1).rolling(5)`) is applied per player — the current match is never in its own window.
+Four position-specific scores constructed from 5-match rolling means (`.shift(1).rolling(5)`),
+z-score normalised on training data only.
 
-### Attacker Score
-```
-ATT = 0.25·(Goals+Assists) + 0.20·xG + 0.15·xA + 0.15·Dribbles
-    + 0.10·ShotsOnTarget   + 0.10·ChancesCreated + 0.05·Recoveries
-```
+| Position | Top weighted metrics |
+|----------|---------------------|
+| **Attacker / Winger** | Goals+Assists (0.25), xG (0.20), xA (0.15), Dribbles (0.15) |
+| **Midfielder** | Progressive Passes (0.20), Chances Created (0.20), xA (0.15) |
+| **Defender** | Tackles Won (0.25), Aerial Duels Won (0.20), Clearances (0.20) |
+| **Goalkeeper** | Saves (0.30), xG on Target Faced (0.25), Diving Saves (0.15) |
 
-### Midfielder Score
-```
-MID = 0.20·AccuratePasses + 0.20·ChancesCreated + 0.15·xA + 0.15·(Goals+Assists)
-    + 0.15·TacklesWon     + 0.10·Interceptions   + 0.05·Recoveries
-```
-
-### Defender Score
-```
-DEF = 0.25·TacklesWon + 0.20·AerialDuelsWon + 0.20·Clearances
-    + 0.15·Interceptions + 0.10·Blocks + 0.10·AccuratePasses
-```
-
-### Goalkeeper Score
-```
-GK = 0.30·Saves + 0.25·xGOTFaced + 0.15·DivingSaves
-   + 0.15·SavesInsideBox + 0.10·HighClaims + 0.05·SweeperActions
-```
-
-### Weight Scheme Validation
-
-Three schemes compared by Pearson r against FotMob `rating_title` (independent benchmark):
-
-| Scheme | Description | r (all outfield) | RMSE |
-|--------|-------------|-------------------|------|
-| **A** | **Proposal weights (canonical)** | **+0.191** | **6.731** |
-| B | Equal weights | +0.179 | 6.747 |
-| C | Data-driven (correlation with rating) | +0.199 | 6.743 |
-
-Scheme A selected: domain-motivated weights, lowest RMSE, avoids overfitting to FotMob's subjective ratings.
-
----
-
-## Results
-
-### Regression (`05_regression.ipynb`)
-
-Target: `composite_score` (continuous). Best model: **Random Forest, position-grouped, enhanced features**.
-
-| Position | RMSE | R² | n (test) |
-|----------|------|----|----------|
-| Defender | 0.0923 | **0.966** | 1,747 |
-| Midfielder | 0.1163 | **0.941** | 977 |
-| Winger | 0.1372 | **0.942** | 1,061 |
-| Forward | 0.1409 | **0.938** | 507 |
-| **Overall** | — | **0.947** | 4,292 |
-
-Top feature: `roll5_defensive_actions` (importance 0.200). Enhanced context features (`roll5_team_goals_scored`, `roll5_opp_goals_scored`) improved R² by ~2pp over baseline-only features.
-
-### Team Aggregation (`07_team_aggregation.ipynb`)
-
-Composite differential validates signal — home team out-composites away team when winning:
-
-| Outcome | Mean composite diff (home − away) |
-|---------|----------------------------------|
-| Home win | **+0.172** |
-| Draw | −0.024 |
-| Away win | **−0.178** |
-
-Top feature correlations with outcome: `h_mean_composite` r=+0.338, `a_mean_composite` r=−0.318.
+Weight scheme validated against FotMob's independent `rating_title` (Pearson r = 0.191,
+best among three candidate schemes).
 
 ---
 
@@ -171,77 +133,105 @@ Top feature correlations with outcome: `h_mean_composite` r=+0.338, `a_mean_comp
 
 ```
 GOALS/
-├── fotmob_final.ipynb              # FotMob scraper (LEAGUE_ID=47, Premier League)
-├── GOALS_notebook.ipynb            # FBref scraper (data already collected)
-├── findings.md                     # Full pipeline metrics and design decisions
-├── data/
-│   ├── FBref/
-│   │   └── premier_league/{season}/   # standard, shooting, misc, goalkeeping, playing_time
-│   ├── 47/{season}/output/            # FotMob Premier League parquets
-│   │   ├── outfield_players.parquet
-│   │   ├── goalkeepers.parquet
-│   │   └── fixtures.parquet
-│   ├── processed/
-│   │   ├── outfield_clean.parquet     # 21,242 × 53
-│   │   ├── gk_clean.parquet           # 2,138 × 53
-│   │   ├── datasets/
-│   │   │   ├── outfield_train_scaled.parquet
-│   │   │   ├── outfield_test_scaled.parquet
-│   │   │   ├── gk_train_scaled.parquet
-│   │   │   └── gk_test_scaled.parquet
-│   │   ├── match_features_train.parquet  # 794 × 37
-│   │   └── match_features_test.parquet   # 250 × 37
-│   └── models/
-│       ├── scalers_outfield.pkl       # 4 RobustScalers (per position group)
-│       ├── scaler_gk.pkl
-│       ├── position_map.pkl
-│       ├── rf_regression_defender.pkl
-│       ├── rf_regression_midfielder.pkl
-│       ├── rf_regression_winger.pkl
-│       └── rf_regression_forward.pkl
-└── notebooks/
-    ├── 02_preprocessing.ipynb
-    ├── 03_feature_engineering.ipynb
-    ├── 04_eda.ipynb
-    ├── 05_regression.ipynb
-    ├── 06_clustering.ipynb            # ⏳ Nathaniel
-    ├── 07_team_aggregation.ipynb
-    └── 08_classification.ipynb        # ⏳ Nathaniel
+│
+├── 01_fotmob_scraper.ipynb          # Two-pass FotMob scraper (HTML + API fallback)
+├── 02_preprocessing.ipynb           # Cleaning, context features, null handling
+├── 03_feature_engineering.ipynb     # Ratios, rolling windows, composite scores
+├── 04_eda.ipynb                     # Distributions, correlations, PCA
+├── 05_regression.ipynb              # Ridge + RF regression for composite scores
+├── 06_clustering.ipynb              # K-Means player archetype discovery
+├── 07_team_aggregation.ipynb        # Aggregate player scores to match level
+├── 08_classification.ipynb          # Logistic Regression + RF outcome prediction
+│
+├── reports/                         # Final report (PDF + LaTeX source)
+│
+├── tester_ipynb_files/              # Experimental / scratch notebooks
+│
+├── old_files/                       # Superseded versions
+│
+└── data/                            # Git-ignored — local only
+    ├── 47/                          # FotMob raw data (league ID 47 = Premier League)
+    │   └── {season}/
+    │       ├── raw/                 # Cached raw JSON per match
+    │       └── output/
+    │           ├── outfield_players.parquet
+    │           ├── goalkeepers.parquet
+    │           └── fixtures.parquet
+    │
+    ├── processed/
+    │   ├── outfield_clean.parquet        # 21,242 × 53
+    │   ├── gk_clean.parquet              # 2,138 × 53
+    │   ├── datasets/
+    │   │   ├── outfield_train_scaled.parquet   # 15,288 × 87
+    │   │   ├── outfield_test_scaled.parquet    # 4,748 × 87
+    │   │   ├── gk_train_scaled.parquet         # 1,549 × 89
+    │   │   └── gk_test_scaled.parquet          # 483 × 89
+    │   ├── match_features_train.parquet   # 794 × 37
+    │   └── match_features_test.parquet    # 250 × 37
+    │
+    ├── models/
+    │   ├── regression/              # Saved RF + Ridge regression models
+    │   ├── clustering/              # Saved KMeans + PCA models per position
+    │   ├── classification/          # Saved classifier models
+    │   ├── scalers_outfield.pkl     # 4 RobustScalers (one per position group)
+    │   ├── scaler_gk.pkl
+    │   ├── position_map.pkl
+    │   ├── ratio_fill_means.pkl
+    │   └── imputation_medians.pkl
+    │
+    └── visualizations/              # Saved figures (PNG) from all notebooks
 ```
 
-`data/` is git-ignored — all data files are local only.
+> **Note:** The `data/` directory is git-ignored. All data files are stored locally only.
 
 ---
 
 ## Algorithms
 
-| Algorithm | Stage | Notes |
-|-----------|-------|-------|
-| **Ridge Regression** | Regression | L2 regularisation handles multicollinearity between football stats (`alpha=100`) |
-| **Random Forest Regressor** | Regression | Position-grouped; `TimeSeriesSplit` CV for tuning |
-| **K-Means** | Clustering | Elbow + Silhouette evaluation; optimal k per position group |
-| **Logistic Regression** | Classification | `class_weight='balanced'`; GridSearchCV over C |
-| **Random Forest Classifier** | Classification | `class_weight='balanced'`; macro F1 primary metric |
+| Algorithm | Stage | Key config |
+|-----------|-------|------------|
+| Ridge Regression | Regression | α = 100; `TimeSeriesSplit` CV (n=5) |
+| Random Forest Regressor | Regression | Position-grouped; exhaustive grid search |
+| K-Means | Clustering | k=3 outfield, k=2 GK; PCA-reduced (10 / 8 components) |
+| Logistic Regression | Classification | `class_weight='balanced'`; C tuned via grid search |
+| Random Forest Classifier | Classification | `class_weight='balanced'`; macro F1 primary metric |
 
 ### Baselines
 
-| Task | Baseline |
-|------|----------|
-| Regression | Mean composite score per position (R²=0.018) |
-| Classification | Majority-class predictor ("Home Win"); last-match result |
-| Clustering | Random cluster assignment Silhouette score |
+| Task | Baseline | Score |
+|------|----------|-------|
+| Regression | Mean composite per position | R² = 0.018 |
+| Classification | Majority class (Home Win) | Macro F1 = 0.207 |
+| Clustering | Random assignment | Silhouette ≈ 0.00 |
 
 ---
 
-## Key Design Constraints
+## Key Design Decisions
 
 | Rule | Reason |
 |------|--------|
 | Temporal train/test split only | Shuffling leaks future match results into training |
-| Fit all scalers/imputers on train only | Prevents test contamination |
-| `class_weight='balanced'` for all classifiers | Premier League has ~45% home wins, ~25% draws |
-| 5-match rolling with `.shift(1)` | Current match never in its own feature window |
-| FotMob rating as validation signal only | Independent benchmark — not a training target |
+| Fit all scalers/imputers on train only | Prevents test-set contamination |
+| `class_weight='balanced'` for classifiers | PL has ~45% home wins, ~25% draws |
+| `.shift(1).rolling(5)` per player | Current match is never in its own feature window |
+| FotMob rating as validation only | Independent benchmark — never used as a training target |
+| k=3 for outfield clustering | Domain interpretability prioritised over silhouette-optimal k=2 |
+
+---
+
+## Installation
+
+```bash
+git clone https://github.com/natmaw46new/GOALS-Game_Outcome_and_Analytics_Learning_System-.git
+cd GOALS-Game_Outcome_and_Analytics_Learning_System-
+pip install -r requirements.txt
+```
+
+**Core dependencies:** `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`,
+`pyarrow`, `aiohttp`, `requests`, `beautifulsoup4`, `tqdm`, `joblib`
+
+> Data is not included in this repository. Run `01_fotmob_scraper.ipynb` first,
+> then execute notebooks 02–08 in order.
 
 ---
 
@@ -249,14 +239,17 @@ GOALS/
 
 | Member | Responsibilities |
 |--------|-----------------|
-| **Amine Kebichi** | FotMob scraping, preprocessing, feature engineering, regression, team aggregation |
-| **Nathaniel Maw** | Clustering, classification, visualisation |
-| **Both** | EDA, evaluation, final report |
+| **Nathaniel Maw** | FotMob scraping, preprocessing, feature engineering, regression, team aggregation, report writing |
+| **Amine Kebichi** | Clustering, classification, visualisation, report writing |
+| **Both** | EDA, evaluation framework, final report |
 
 ---
 
 ## References
 
-1. Sports Reference LLC, *FBref advanced football statistics*, fbref.com, 2024.
+1. T. Decroos and J. Van Haaren, *Soccerdata: A Python package for scraping soccer data*, 2023.
 2. FotMob, *Per-match player statistics and ratings*, fotmob.com, 2024.
-3. Scikit-learn developers, *scikit-learn: Machine Learning in Python*, JMLR 12, 2011.
+3. M. J. Dixon and S. G. Coles, "Modelling association football scores," *J. R. Stat. Soc. C*, 1997.
+4. A. C. Constantinou et al., "pi-football," *Knowledge-Based Systems*, 2012.
+5. L. Pappalardo et al., "PlayeRank," *ACM TIST*, 2019.
+6. Scikit-learn developers, *scikit-learn: Machine Learning in Python*, JMLR 12, 2011.
