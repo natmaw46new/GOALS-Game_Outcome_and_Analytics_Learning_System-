@@ -9,6 +9,7 @@ per-player FotMob match statistics, then aggregating those scores to the team le
 **Course:** EECE5644 — Introduction to Machine Learning & Pattern Recognition  
 **Team:** Amine Kebichi · Nathaniel Maw  
 **League:** Premier League — all 20 clubs, 4 seasons (2021/22 – 2024/25)  
+**Report & source code:** https://github.com/natmaw46new/GOALS-Game_Outcome_and_Analytics_Learning_System-
 
 ---
 
@@ -18,8 +19,8 @@ per-player FotMob match statistics, then aggregating those scores to the team le
 FotMob per-match player stats (Premier League, 4 seasons)
                     │
                     ▼
-        01_fotmob_scraper          ← two-pass HTML + API scraper, rate-limited
-                    │
+        01_fotmob_scraper          ← two-pass HTML + API scraper, rate-limited,
+                    │                 100% match coverage (1,520 / 1,520)
                     ▼
         02_preprocessing           ← cleaning, context features, null handling
                     │
@@ -58,17 +59,19 @@ FotMob per-match player stats (Premier League, 4 seasons)
 
 ### Regression — predicting composite scores
 
-| Position | RMSE | R² |
-|----------|------|----|
-| Defender | 0.0923 | **0.966** |
-| Midfielder | 0.1163 | **0.941** |
-| Winger | 0.1372 | **0.942** |
-| Forward | 0.1409 | **0.938** |
-| **Overall (mean)** | — | **0.947** |
+Best model: **Random Forest, position-grouped, enhanced features** (evaluated on 2024/25 test season).
 
-Best model: Random Forest, position-grouped, enhanced features (2024/25 test season).
+| Position | RMSE | MAE | R² |
+|----------|------|-----|----|
+| Defender | 0.0923 | 0.0646 | **0.966** |
+| Midfielder | 0.1163 | 0.0860 | **0.941** |
+| Winger | 0.1372 | 0.0926 | **0.942** |
+| Forward | 0.1409 | 0.1084 | **0.938** |
+| **Overall (mean)** | 0.1022 | 0.0879 | **0.947** |
 
 ### Classification — predicting match outcomes
+
+Best model: **Random Forest with raw home/away features** (+0.335 macro F1 over baseline).
 
 | Model | Features | Accuracy | Macro F1 |
 |-------|----------|----------|----------|
@@ -78,54 +81,102 @@ Best model: Random Forest, position-grouped, enhanced features (2024/25 test sea
 | Random Forest | diff | 0.532 | 0.519 |
 | **Random Forest** | **raw** | **0.548** | **0.542** |
 
-Best model: Random Forest with raw home/away features (+0.335 macro F1 over baseline).
-
 ---
 
 ## Dataset
 
 **Source:** [FotMob](https://www.fotmob.com) — per-match player statistics for all Premier League clubs.
 
-FBref was evaluated as an initial source but superseded due to incomplete per-player passing
-and physical coverage at the individual match level.
+FBref was evaluated as an initial data source but superseded due to incomplete per-player
+passing and physical coverage at the individual match level. FotMob was adopted as the
+primary and sole data source, providing the full feature set required across all four seasons.
+
+### Data Collection
+
+All 1,520 Premier League fixtures across four seasons were successfully collected using a
+custom two-pass scraper:
+
+- **Pass 1** — parses `__NEXT_DATA__` JSON embedded in the match page HTML (fast, no authentication)
+- **Pass 2** — falls back to the `/api/data/matchDetails` API endpoint with a browser session
+  cookie for any matches where Pass 1 returned empty player statistics
+
+This two-pass strategy achieved **100% match coverage (1,520 / 1,520)**.
+
+### Scale
 
 | Property | Value |
 |----------|-------|
+| Total fixtures scraped | **1,520 / 1,520 (100%)** |
 | Seasons | 2021/22, 2022/23, 2023/24 (train) · 2024/25 (test) |
-| Total matches scraped | 1,089 / 1,520 (~72% coverage) |
-| Total player-match obs. | 21,242 outfield + 2,138 GK (after quality filter) |
-| Post-feature-engineering train | 15,288 outfield + 1,549 GK rows |
-| Post-feature-engineering test | 4,748 outfield + 483 GK rows |
-| Match-level train / test | 794 / 250 matches |
+| Player-match observations (raw) | 21,242 outfield + 2,138 GK |
+| Post-feature-engineering (train) | 15,288 outfield + 1,549 GK rows |
+| Post-feature-engineering (test) | 4,748 outfield + 483 GK rows |
+| Match-level observations | 1,044 total (after rolling window drop) |
+| Match-level train / test | **794 / 250** |
+| Features per match (team aggregation) | 37 columns |
 
-~28% of matches are served via FotMob's authenticated API only and are unavailable without
-login credentials.
+> The reduction from 1,520 scraped fixtures to 1,044 match-level observations is due to the
+> 5-match rolling window step — players' first appearances have no prior match history, so
+> some early-season matches lose enough players to prevent a complete team feature vector
+> from being formed. This is not a data collection gap.
 
 ### Train / Test Split
 
-Strictly **temporal** — no random shuffling is ever used.
+Strictly **temporal** — random shuffling is never used, as it would allow future information
+to leak into training. Within the three training seasons, hyperparameter tuning uses
+**time-series-aware cross-validation** (`TimeSeriesSplit`).
 
-| Partition | Seasons | Matches |
-|-----------|---------|---------|
-| Training | 2021/22, 2022/23, 2023/24 | 794 |
-| Testing | 2024/25 | 250 |
+| Partition | Seasons | Fixtures | Match-level rows |
+|-----------|---------|----------|-----------------|
+| Training | 2021/22, 2022/23, 2023/24 | 1,140 | **794** |
+| Testing | 2024/25 | 380 | **250** |
+| **Total** | 4 seasons | **1,520** | **1,044** |
 
 ---
 
 ## Position-Aware Composite Performance Scores
 
 Four position-specific scores constructed from 5-match rolling means (`.shift(1).rolling(5)`),
-z-score normalised on training data only.
+z-score normalised on training data only. The current match is never included in its own window.
 
-| Position | Top weighted metrics |
-|----------|---------------------|
-| **Attacker / Winger** | Goals+Assists (0.25), xG (0.20), xA (0.15), Dribbles (0.15) |
-| **Midfielder** | Progressive Passes (0.20), Chances Created (0.20), xA (0.15) |
-| **Defender** | Tackles Won (0.25), Aerial Duels Won (0.20), Clearances (0.20) |
-| **Goalkeeper** | Saves (0.30), xG on Target Faced (0.25), Diving Saves (0.15) |
+| Position | Formula (top weighted metrics) |
+|----------|-------------------------------|
+| **Attacker / Winger** | 0.25·(Goals+Assists) + 0.20·xG + 0.15·xA + 0.15·Dribbles + ... |
+| **Midfielder** | 0.20·ProgPasses + 0.20·ChancesCreated + 0.15·xA + 0.15·(Goals+Assists) + ... |
+| **Defender** | 0.25·TacklesWon + 0.20·AerialDuelsWon + 0.20·Clearances + ... |
+| **Goalkeeper** | 0.30·Saves + 0.25·xGOTFaced + 0.15·DivingSaves + ... |
 
-Weight scheme validated against FotMob's independent `rating_title` (Pearson r = 0.191,
-best among three candidate schemes).
+### Weight Scheme Validation
+
+Three schemes compared by Pearson r against FotMob `rating_title` (independent benchmark,
+never used as a training target):
+
+| Scheme | Description | r (all outfield) | RMSE |
+|--------|-------------|-----------------|------|
+| **A (canonical)** | **Domain-motivated weights** | **+0.191** | **6.731** |
+| B | Equal weights | +0.179 | 6.747 |
+| C | Data-driven (correlation with rating) | +0.199 | 6.743 |
+
+Scheme A selected: lowest RMSE, reflects domain knowledge about position roles, and avoids
+overfitting to FotMob's partly subjective ratings.
+
+---
+
+## Clustering — Player Archetypes
+
+K-Means applied independently per position group on PCA-reduced feature spaces.
+
+| Position | k | Silhouette | PCA components | Variance retained |
+|----------|---|------------|---------------|------------------|
+| Defender | 3 | ~0.19 | 10 | 95% |
+| Midfielder | 3 | ~0.15 | 10 | 91% |
+| Winger | 3 | ~0.15 | 10 | 93% |
+| Forward | 3 | ~0.14 | 10 | 98% |
+| Goalkeeper | 2 | ~0.63 | 8 | 86% |
+
+k=3 chosen for all outfield positions for domain interpretability (silhouette peaks at k=2).
+k=2 retained for goalkeepers — the Shot-Stopper vs Sweeper-Keeper split is genuinely binary
+and produces a substantially higher silhouette score.
 
 ---
 
@@ -152,7 +203,7 @@ GOALS/
 └── data/                            # Git-ignored — local only
     ├── 47/                          # FotMob raw data (league ID 47 = Premier League)
     │   └── {season}/
-    │       ├── raw/                 # Cached raw JSON per match
+    │       ├── raw/                 # Cached raw JSON per match (1,520 files)
     │       └── output/
     │           ├── outfield_players.parquet
     │           ├── goalkeepers.parquet
@@ -170,9 +221,9 @@ GOALS/
     │   └── match_features_test.parquet    # 250 × 37
     │
     ├── models/
-    │   ├── regression/              # Saved RF + Ridge regression models
-    │   ├── clustering/              # Saved KMeans + PCA models per position
-    │   ├── classification/          # Saved classifier models
+    │   ├── regression/              # Saved RF + Ridge regression models (.pkl)
+    │   ├── clustering/              # Saved KMeans + PCA models per position (.pkl)
+    │   ├── classification/          # Saved classifier models (.pkl)
     │   ├── scalers_outfield.pkl     # 4 RobustScalers (one per position group)
     │   ├── scaler_gk.pkl
     │   ├── position_map.pkl
@@ -182,14 +233,14 @@ GOALS/
     └── visualizations/              # Saved figures (PNG) from all notebooks
 ```
 
-> **Note:** The `data/` directory is git-ignored. All data files are stored locally only.
+> `data/` is git-ignored. All data files are stored locally only.
 
 ---
 
 ## Algorithms
 
-| Algorithm | Stage | Key config |
-|-----------|-------|------------|
+| Algorithm | Stage | Key configuration |
+|-----------|-------|------------------|
 | Ridge Regression | Regression | α = 100; `TimeSeriesSplit` CV (n=5) |
 | Random Forest Regressor | Regression | Position-grouped; exhaustive grid search |
 | K-Means | Clustering | k=3 outfield, k=2 GK; PCA-reduced (10 / 8 components) |
@@ -198,11 +249,11 @@ GOALS/
 
 ### Baselines
 
-| Task | Baseline | Score |
-|------|----------|-------|
-| Regression | Mean composite per position | R² = 0.018 |
+| Task | Baseline | Performance |
+|------|----------|-------------|
+| Regression | Mean composite per position group | R² = 0.018 |
 | Classification | Majority class (Home Win) | Macro F1 = 0.207 |
-| Clustering | Random assignment | Silhouette ≈ 0.00 |
+| Clustering | Random cluster assignment | Silhouette ≈ 0.00 |
 
 ---
 
@@ -212,10 +263,11 @@ GOALS/
 |------|--------|
 | Temporal train/test split only | Shuffling leaks future match results into training |
 | Fit all scalers/imputers on train only | Prevents test-set contamination |
-| `class_weight='balanced'` for classifiers | PL has ~45% home wins, ~25% draws |
+| `class_weight='balanced'` for all classifiers | PL has ~45% home wins, ~25% draws |
 | `.shift(1).rolling(5)` per player | Current match is never in its own feature window |
-| FotMob rating as validation only | Independent benchmark — never used as a training target |
+| FotMob rating as validation signal only | Independent benchmark — never a training target |
 | k=3 for outfield clustering | Domain interpretability prioritised over silhouette-optimal k=2 |
+| RobustScaler over StandardScaler | Reduces sensitivity to outlier performances (hat-tricks, dominant wins) |
 
 ---
 
@@ -249,7 +301,9 @@ pip install -r requirements.txt
 
 1. T. Decroos and J. Van Haaren, *Soccerdata: A Python package for scraping soccer data*, 2023.
 2. FotMob, *Per-match player statistics and ratings*, fotmob.com, 2024.
-3. M. J. Dixon and S. G. Coles, "Modelling association football scores," *J. R. Stat. Soc. C*, 1997.
-4. A. C. Constantinou et al., "pi-football," *Knowledge-Based Systems*, 2012.
-5. L. Pappalardo et al., "PlayeRank," *ACM TIST*, 2019.
-6. Scikit-learn developers, *scikit-learn: Machine Learning in Python*, JMLR 12, 2011.
+3. Sports Reference LLC, *FBref advanced football statistics*, fbref.com, 2024.
+4. M. J. Dixon and S. G. Coles, "Modelling association football scores," *J. R. Stat. Soc. C*, 1997.
+5. A. C. Constantinou et al., "pi-football," *Knowledge-Based Systems*, 2012.
+6. L. Pappalardo et al., "PlayeRank," *ACM TIST*, 2019.
+7. M. Herold et al., "Machine learning in men's professional football," *Int. J. Sports Sci. Coach.*, 2019.
+8. Scikit-learn developers, *scikit-learn: Machine Learning in Python*, JMLR 12, 2011.
