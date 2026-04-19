@@ -1,0 +1,382 @@
+match_id,round,page_url,match_date,finished,home_team,home_id,away_team,away_id
+4193450,1,/matches/burnley-vs-manchester-city/2ai7j8#4193450,2023-08-11T19:00:00Z,True,Burnley,8191,Manchester City,8456
+4193451,1,/matches/arsenal-vs-nottingham-forest/3bf4p3#4193451,2023-08-12T12:00:00Z,True,Arsenal,9825,Nottingham Forest,10203
+4193452,1,/matches/west-ham-united-vs-afc-bournemouth/2hfnrc#4193452,2023-08-12T14:00:00Z,True,AFC Bournemouth,8678,West Ham United,8654
+4193453,1,/matches/luton-town-vs-brighton-hove-albion/2ug16v#4193453,2023-08-12T14:00:00Z,True,Brighton & Hove Albion,10204,Luton Town,8346
+4193454,1,/matches/everton-vs-fulham/2uevfp#4193454,2023-08-12T14:00:00Z,True,Everton,8668,Fulham,9879
+4193455,1,/matches/sheffield-united-vs-crystal-palace/2tph1s#4193455,2023-08-12T14:00:00Z,True,Sheffield United,8657,Crystal Palace,9826
+4193456,1,/matches/aston-villa-vs-newcastle-united/3h9v0m#4193456,2023-08-12T16:30:00Z,True,Newcastle United,10261,Aston Villa,10252
+4193457,1,/matches/tottenham-hotspur-vs-brentford/2u5c8b#4193457,2023-08-13T13:00:00Z,True,Brentford,9937,Tottenham Hotspur,8586
+4193458,1,/matches/chelsea-vs-liverpool/2f3vr7#4193458,2023-08-13T15:30:00Z,True,Chelsea,8455,Liverpool,8650
+4193459,1,/matches/wolverhampton-wanderers-vs-manchester-united/2xx4sz#4193459,2023-08-14T19:00:00Z,True,Manchester United,10260,Wolverhampton Wanderers,8602
+4193555,10,/matches/tottenham-hotspur-vs-crystal-palace/2sxee8#4193555,2023-10-27T19:00:00Z,True,Crystal Palace,9826,Tottenham Hotspur,8586
+4193554,10,/matches/chelsea-vs-brentford/2spihp#4193554,2023-10-28T11:30:00Z,True,Chelsea,8455,Brentford,9937
+4193550,10,/matches/burnley-vs-afc-bournemouth/2cpydh#4193550,2023-10-28T14:00:00Z,True,AFC Bournemouth,8678,Burnley,8191
+4193551,10,/matches/sheffield-united-vs-arsenal/2tp2sc#4193551,2023-10-28T14:00:00Z,True,Arsenal,9825,Sheffield United,8657
+4193559,10,/matches/wolverhampton-wanderers-vs-newcastle-united/2xxjcy#4193559,2023-10-28T16:30:00Z,True,Wolverhampton Wanderers,8602,Newcastle United,10261
+4193558,10,/matches/west-ham-united-vs-everton/2hby1v#4193558,2023-10-29T13:00:00Z,True,West Ham United,8654,Everton,8668
+4193552,10,/matches/luton-town-vs-aston-villa/2uz54v#4193552,2023-10-29T14:00:00Z,True,Aston Villa,10252,Luton Town,8346
+4193553,10,/matches/fulham-vs-brighton-hove-albion/3c2rvp#4193553,2023-10-29T14:00:00Z,True,Brighton & Hove Albion,10204,Fulham,9879
+4193556,10,/matches/liverpool-vs-nottingham-forest/2xthvt#4193556,2023-10-29T14:00:00Z,True,Liverpool,8650,Nottingham Forest,10203
+4193557,10,/matches/manchester-city-vs-manchester-united/2wabz2#4193557,2023-10-29T15:30:00Z,True,Manchester United,10260,Manchester City,8456
+4193563,11,/matches/fulham-vs-manchester-united/3cqww9#4193563,2023-11-04T12:30:00Z,True,Fulham,9879,Manchester United,10260
+4193560,11,/matches/west-ham-united-vs-brentford/2uwdxd#4193560,2023-11-04T15:00:00Z,True,Brentford,9937,West Ham United,8654
+4193561,11,/matches/burnley-vs-crystal-palace/2on6r7#4193561,2023-11-04T15:00:00Z,True,Burnley,8191,Crystal Palace,9826
+4193562,11,/matches/everton-vs-brighton-hove-albion/2y16fs#4193562,2023-11-04T15:00:00Z,True,Everton,8668,Brighton & Hove Albion,10204
+4193565,11,/matches/manchester-city-vs-afc-bournemouth/2feiv3#4193565,2023-11-04T15:00:00Z,True,Manchester City,8456,AFC Bournemouth,8678
+4193568,11,/matches/wolverhampton-wanderers-vs-sheffield-united/2golib#4193568,2023-11-04T15:00:00Z,True,Sheffield United,8657,Wolverhampton Wanderers,8602
+4193566,11,/matches/arsenal-vs-newcastle-united/3c42by#4193566,2023-11-04T17:30:00Z,True,Newcastle United,10261,Arsenal,9825
+4193567,11,/matches/nottingham-forest-vs-aston-villa/3gke9k#4193567,2023-11-05T14:00:00Z,True,Nottingham Forest,10203,Aston Villa,10252
+4193564,11,/matches/luton-town-vs-liverpool/2e01ok#4193564,2023-11-05T16:30:00Z,True,Luton Town,8346,Liverpool,8650
+4193569,11,/matches/chelsea-vs-tottenham-hotspur/2eggkj#4193569,2023-11-06T20:00:00Z,True,Tottenham Hotspur,8586,Chelsea,8455
+4193579,12,/matches/tottenham-hotspur-vs-wolverhampton-wanderers/2fydv8#4193579,2023-11-11T12:30:00Z,True,Wolverhampton Wanderers,8602,Tottenham Hotspur,8586
+4193571,12,/matches/burnley-vs-arsenal/2omsup#4193571,2023-11-11T15:00:00Z,True,Arsenal,9825,Burnley,8191
+4193575,12,/matches/everton-vs-crystal-palace/2tttz7#4193575,2023-11-11T15:00:00Z,True,Crystal Palace,9826,Everton,8668
+4193577,12,/matches/luton-town-vs-manchester-united/2v2byr#4193577,2023-11-11T15:00:00Z,True,Manchester United,10260,Luton Town,8346
+4193570,12,/matches/afc-bournemouth-vs-newcastle-united/2ysbu8#4193570,2023-11-11T17:30:00Z,True,AFC Bournemouth,8678,Newcastle United,10261
+4193572,12,/matches/fulham-vs-aston-villa/3cnglp#4193572,2023-11-12T14:00:00Z,True,Aston Villa,10252,Fulham,9879
+4193573,12,/matches/sheffield-united-vs-brighton-hove-albion/2xwqak#4193573,2023-11-12T14:00:00Z,True,Brighton & Hove Albion,10204,Sheffield United,8657
+4193576,12,/matches/liverpool-vs-brentford/2uusjv#4193576,2023-11-12T14:00:00Z,True,Liverpool,8650,Brentford,9937
+4193578,12,/matches/west-ham-united-vs-nottingham-forest/2xv42z#4193578,2023-11-12T14:00:00Z,True,West Ham United,8654,Nottingham Forest,10203
+4193574,12,/matches/chelsea-vs-manchester-city/2d55kw#4193574,2023-11-12T16:30:00Z,True,Chelsea,8455,Manchester City,8456
+4193656,13,/matches/manchester-city-vs-liverpool/2f48yd#4193656,2023-11-25T12:30:00Z,True,Manchester City,8456,Liverpool,8650
+4193652,13,/matches/burnley-vs-west-ham-united/2cha6h#4193652,2023-11-25T15:00:00Z,True,Burnley,8191,West Ham United,8654
+4193655,13,/matches/luton-town-vs-crystal-palace/2qbaw8#4193655,2023-11-25T15:00:00Z,True,Luton Town,8346,Crystal Palace,9826
+4193657,13,/matches/chelsea-vs-newcastle-united/2wabz1#4193657,2023-11-25T15:00:00Z,True,Newcastle United,10261,Chelsea,8455
+4193658,13,/matches/nottingham-forest-vs-brighton-hove-albion/3fzdi8#4193658,2023-11-25T15:00:00Z,True,Nottingham Forest,10203,Brighton & Hove Albion,10204
+4193659,13,/matches/sheffield-united-vs-afc-bournemouth/2hgrvu#4193659,2023-11-25T15:00:00Z,True,Sheffield United,8657,AFC Bournemouth,8678
+4193651,13,/matches/arsenal-vs-brentford/389pak#4193651,2023-11-25T17:30:00Z,True,Brentford,9937,Arsenal,9825
+4193660,13,/matches/tottenham-hotspur-vs-aston-villa/2xnfpj#4193660,2023-11-26T14:00:00Z,True,Tottenham Hotspur,8586,Aston Villa,10252
+4193653,13,/matches/everton-vs-manchester-united/2ynv4k#4193653,2023-11-26T16:30:00Z,True,Everton,8668,Manchester United,10260
+4193654,13,/matches/wolverhampton-wanderers-vs-fulham/2tookg#4193654,2023-11-27T20:00:00Z,True,Fulham,9879,Wolverhampton Wanderers,8602
+4193662,14,/matches/wolverhampton-wanderers-vs-arsenal/2t3bl7#4193662,2023-12-02T15:00:00Z,True,Arsenal,9825,Wolverhampton Wanderers,8602
+4193663,14,/matches/luton-town-vs-brentford/2rio6b#4193663,2023-12-02T15:00:00Z,True,Brentford,9937,Luton Town,8346
+4193664,14,/matches/burnley-vs-sheffield-united/2cid6h#4193664,2023-12-02T15:00:00Z,True,Burnley,8191,Sheffield United,8657
+4193669,14,/matches/everton-vs-nottingham-forest/2y0rvk#4193669,2023-12-02T17:30:00Z,True,Nottingham Forest,10203,Everton,8668
+4193668,14,/matches/manchester-united-vs-newcastle-united/3hddo2#4193668,2023-12-02T20:00:00Z,True,Newcastle United,10261,Manchester United,10260
+4193661,14,/matches/afc-bournemouth-vs-aston-villa/2yooch#4193661,2023-12-03T14:00:00Z,True,AFC Bournemouth,8678,Aston Villa,10252
+4193665,14,/matches/chelsea-vs-brighton-hove-albion/2vni1p#4193665,2023-12-03T14:00:00Z,True,Chelsea,8455,Brighton & Hove Albion,10204
+4193666,14,/matches/liverpool-vs-fulham/2u7pyg#4193666,2023-12-03T14:00:00Z,True,Liverpool,8650,Fulham,9879
+4193670,14,/matches/west-ham-united-vs-crystal-palace/2toa9m#4193670,2023-12-03T14:00:00Z,True,West Ham United,8654,Crystal Palace,9826
+4193667,14,/matches/manchester-city-vs-tottenham-hotspur/2egtpx#4193667,2023-12-03T16:30:00Z,True,Manchester City,8456,Tottenham Hotspur,8586
+4193678,15,/matches/burnley-vs-wolverhampton-wanderers/2byja7#4193678,2023-12-05T19:30:00Z,True,Wolverhampton Wanderers,8602,Burnley,8191
+4193675,15,/matches/luton-town-vs-arsenal/2qawvf#4193675,2023-12-05T20:15:00Z,True,Luton Town,8346,Arsenal,9825
+4193672,15,/matches/brentford-vs-brighton-hove-albion/3crs0s#4193672,2023-12-06T19:30:00Z,True,Brighton & Hove Albion,10204,Brentford,9937
+4193679,15,/matches/afc-bournemouth-vs-crystal-palace/2txspy#4193679,2023-12-06T19:30:00Z,True,Crystal Palace,9826,AFC Bournemouth,8678
+4193674,15,/matches/fulham-vs-nottingham-forest/3c2cdu#4193674,2023-12-06T19:30:00Z,True,Fulham,9879,Nottingham Forest,10203
+4193676,15,/matches/liverpool-vs-sheffield-united/2h6dmz#4193676,2023-12-06T19:30:00Z,True,Sheffield United,8657,Liverpool,8650
+4193671,15,/matches/manchester-city-vs-aston-villa/2w74gq#4193671,2023-12-06T20:15:00Z,True,Aston Villa,10252,Manchester City,8456
+4193680,15,/matches/chelsea-vs-manchester-united/2w9xj5#4193680,2023-12-06T20:15:00Z,True,Manchester United,10260,Chelsea,8455
+4193673,15,/matches/everton-vs-newcastle-united/2yo9qd#4193673,2023-12-07T19:30:00Z,True,Everton,8668,Newcastle United,10261
+4193677,15,/matches/tottenham-hotspur-vs-west-ham-united/2ghkm2#4193677,2023-12-07T20:15:00Z,True,Tottenham Hotspur,8586,West Ham United,8654
+4193683,16,/matches/liverpool-vs-crystal-palace/2tmp8g#4193683,2023-12-09T12:30:00Z,True,Crystal Palace,9826,Liverpool,8650
+4193682,16,/matches/burnley-vs-brighton-hove-albion/2sqnq1#4193682,2023-12-09T15:00:00Z,True,Brighton & Hove Albion,10204,Burnley,8191
+4193687,16,/matches/afc-bournemouth-vs-manchester-united/2yrx85#4193687,2023-12-09T15:00:00Z,True,Manchester United,10260,AFC Bournemouth,8678
+4193688,16,/matches/sheffield-united-vs-brentford/2uxkys#4193688,2023-12-09T15:00:00Z,True,Sheffield United,8657,Brentford,9937
+4193690,16,/matches/wolverhampton-wanderers-vs-nottingham-forest/2xa4gh#4193690,2023-12-09T15:00:00Z,True,Wolverhampton Wanderers,8602,Nottingham Forest,10203
+4193681,16,/matches/arsenal-vs-aston-villa/3c06vg#4193681,2023-12-09T17:30:00Z,True,Aston Villa,10252,Arsenal,9825
+4193684,16,/matches/chelsea-vs-everton/2fahgy#4193684,2023-12-10T14:00:00Z,True,Everton,8668,Chelsea,8455
+4193685,16,/matches/west-ham-united-vs-fulham/2u9b5i#4193685,2023-12-10T14:00:00Z,True,Fulham,9879,West Ham United,8654
+4193686,16,/matches/luton-town-vs-manchester-city/2c1rtn#4193686,2023-12-10T14:00:00Z,True,Luton Town,8346,Manchester City,8456
+4193689,16,/matches/tottenham-hotspur-vs-newcastle-united/2xr2ka#4193689,2023-12-10T16:30:00Z,True,Tottenham Hotspur,8586,Newcastle United,10261
+4193699,17,/matches/tottenham-hotspur-vs-nottingham-forest/2x3odl#4193699,2023-12-15T20:00:00Z,True,Nottingham Forest,10203,Tottenham Hotspur,8586
+4193691,17,/matches/luton-town-vs-afc-bournemouth/2ea97q#4193691,2023-12-16T15:00:00Z,True,AFC Bournemouth,8678,Luton Town,8346
+4193695,17,/matches/chelsea-vs-sheffield-united/2f6g65#4193695,2023-12-16T15:00:00Z,True,Chelsea,8455,Sheffield United,8657
+4193697,17,/matches/manchester-city-vs-crystal-palace/2ri9zd#4193697,2023-12-16T15:00:00Z,True,Manchester City,8456,Crystal Palace,9826
+4193698,17,/matches/fulham-vs-newcastle-united/3crcfp#4193698,2023-12-16T15:00:00Z,True,Newcastle United,10261,Fulham,9879
+4193694,17,/matches/burnley-vs-everton/2cmc8m#4193694,2023-12-16T17:30:00Z,True,Burnley,8191,Everton,8668
+4193692,17,/matches/arsenal-vs-brighton-hove-albion/3bfk5g#4193692,2023-12-17T14:00:00Z,True,Arsenal,9825,Brighton & Hove Albion,10204
+4193693,17,/matches/brentford-vs-aston-villa/3dciw4#4193693,2023-12-17T14:00:00Z,True,Brentford,9937,Aston Villa,10252
+4193700,17,/matches/wolverhampton-wanderers-vs-west-ham-united/2gnhk2#4193700,2023-12-17T14:00:00Z,True,West Ham United,8654,Wolverhampton Wanderers,8602
+4193696,17,/matches/liverpool-vs-manchester-united/2ygkcb#4193696,2023-12-17T16:30:00Z,True,Liverpool,8650,Manchester United,10260
+4421797,17,/matches/luton-town-vs-afc-bournemouth/2ea97q#4421797,2024-03-13T19:30:00Z,True,AFC Bournemouth,8678,Luton Town,8346
+4193702,18,/matches/crystal-palace-vs-brighton-hove-albion/3bfzlv#4193702,2023-12-21T20:00:00Z,True,Crystal Palace,9826,Brighton & Hove Albion,10204
+4193701,18,/matches/sheffield-united-vs-aston-villa/2yg5r8#4193701,2023-12-22T20:00:00Z,True,Aston Villa,10252,Sheffield United,8657
+4193709,18,/matches/west-ham-united-vs-manchester-united/2yi6pt#4193709,2023-12-23T12:30:00Z,True,West Ham United,8654,Manchester United,10260
+4193703,18,/matches/burnley-vs-fulham/2p7opg#4193703,2023-12-23T15:00:00Z,True,Fulham,9879,Burnley,8191
+4193705,18,/matches/luton-town-vs-newcastle-united/2v2qbm#4193705,2023-12-23T15:00:00Z,True,Luton Town,8346,Newcastle United,10261
+4193707,18,/matches/afc-bournemouth-vs-nottingham-forest/2y4tjb#4193707,2023-12-23T15:00:00Z,True,Nottingham Forest,10203,AFC Bournemouth,8678
+4193708,18,/matches/tottenham-hotspur-vs-everton/2gmqxt#4193708,2023-12-23T15:00:00Z,True,Tottenham Hotspur,8586,Everton,8668
+4193704,18,/matches/liverpool-vs-arsenal/2tmaz7#4193704,2023-12-23T17:30:00Z,True,Liverpool,8650,Arsenal,9825
+4193710,18,/matches/chelsea-vs-wolverhampton-wanderers/2emb2j#4193710,2023-12-24T13:00:00Z,True,Wolverhampton Wanderers,8602,Chelsea,8455
+4193706,18,/matches/manchester-city-vs-brentford/2spwom#4193706,2024-02-20T19:30:00Z,True,Manchester City,8456,Brentford,9937
+4193719,19,/matches/nottingham-forest-vs-newcastle-united/3gocct#4193719,2023-12-26T12:30:00Z,True,Newcastle United,10261,Nottingham Forest,10203
+4193711,19,/matches/afc-bournemouth-vs-fulham/2uiul6#4193711,2023-12-26T15:00:00Z,True,AFC Bournemouth,8678,Fulham,9879
+4193720,19,/matches/luton-town-vs-sheffield-united/2e2lib#4193720,2023-12-26T15:00:00Z,True,Sheffield United,8657,Luton Town,8346
+4193715,19,/matches/burnley-vs-liverpool/2cfu6v#4193715,2023-12-26T17:30:00Z,True,Burnley,8191,Liverpool,8650
+4193718,19,/matches/aston-villa-vs-manchester-united/3h9f6s#4193718,2023-12-26T20:00:00Z,True,Manchester United,10260,Aston Villa,10252
+4193713,19,/matches/wolverhampton-wanderers-vs-brentford/2ubp0j#4193713,2023-12-27T19:30:00Z,True,Brentford,9937,Wolverhampton Wanderers,8602
+4193716,19,/matches/chelsea-vs-crystal-palace/2rhvvj#4193716,2023-12-27T19:30:00Z,True,Chelsea,8455,Crystal Palace,9826
+4193717,19,/matches/manchester-city-vs-everton/2fauom#4193717,2023-12-27T20:15:00Z,True,Everton,8668,Manchester City,8456
+4193714,19,/matches/tottenham-hotspur-vs-brighton-hove-albion/2x42vj#4193714,2023-12-28T19:30:00Z,True,Brighton & Hove Albion,10204,Tottenham Hotspur,8586
+4193712,19,/matches/west-ham-united-vs-arsenal/2tnw09#4193712,2023-12-28T20:15:00Z,True,Arsenal,9825,West Ham United,8654
+4193476,2,/matches/sheffield-united-vs-nottingham-forest/2xwbqn#4193476,2023-08-18T18:45:00Z,True,Nottingham Forest,10203,Sheffield United,8657
+4193472,2,/matches/fulham-vs-brentford/38wlut#4193472,2023-08-19T14:00:00Z,True,Fulham,9879,Brentford,9937
+4193473,2,/matches/liverpool-vs-afc-bournemouth/2he69q#4193473,2023-08-19T14:00:00Z,True,Liverpool,8650,AFC Bournemouth,8678
+4193479,2,/matches/wolverhampton-wanderers-vs-brighton-hove-albion/2xaiyv#4193479,2023-08-19T14:00:00Z,True,Wolverhampton Wanderers,8602,Brighton & Hove Albion,10204
+4193477,2,/matches/tottenham-hotspur-vs-manchester-united/2xqo0r#4193477,2023-08-19T16:30:00Z,True,Tottenham Hotspur,8586,Manchester United,10260
+4193475,2,/matches/manchester-city-vs-newcastle-united/2waqez#4193475,2023-08-19T19:00:00Z,True,Manchester City,8456,Newcastle United,10261
+4193470,2,/matches/everton-vs-aston-villa/2ykmb4#4193470,2023-08-20T13:00:00Z,True,Aston Villa,10252,Everton,8668
+4193478,2,/matches/chelsea-vs-west-ham-united/2f5ck5#4193478,2023-08-20T15:30:00Z,True,West Ham United,8654,Chelsea,8455
+4193471,2,/matches/arsenal-vs-crystal-palace/36ytc8#4193471,2023-08-21T19:00:00Z,True,Crystal Palace,9826,Arsenal,9825
+4193474,2,/matches/burnley-vs-luton-town/29f34v#4193474,2023-10-03T18:30:00Z,True,Luton Town,8346,Burnley,8191
+4193725,20,/matches/luton-town-vs-chelsea/2c1euw#4193725,2023-12-30T12:30:00Z,True,Luton Town,8346,Chelsea,8455
+4193721,20,/matches/burnley-vs-aston-villa/2t9lxd#4193721,2023-12-30T15:00:00Z,True,Aston Villa,10252,Burnley,8191
+4193722,20,/matches/crystal-palace-vs-brentford/38a4jj#4193722,2023-12-30T15:00:00Z,True,Crystal Palace,9826,Brentford,9937
+4193726,20,/matches/manchester-city-vs-sheffield-united/2f6tdi#4193726,2023-12-30T15:00:00Z,True,Manchester City,8456,Sheffield United,8657
+4193730,20,/matches/wolverhampton-wanderers-vs-everton/2gso21#4193730,2023-12-30T15:00:00Z,True,Wolverhampton Wanderers,8602,Everton,8668
+4193727,20,/matches/nottingham-forest-vs-manchester-united/3gnwkc#4193727,2023-12-30T17:30:00Z,True,Nottingham Forest,10203,Manchester United,10260
+4193723,20,/matches/arsenal-vs-fulham/37l643#4193723,2023-12-31T14:00:00Z,True,Fulham,9879,Arsenal,9825
+4193728,20,/matches/tottenham-hotspur-vs-afc-bournemouth/2gqg4e#4193728,2023-12-31T14:00:00Z,True,Tottenham Hotspur,8586,AFC Bournemouth,8678
+4193724,20,/matches/liverpool-vs-newcastle-united/2ygyxm#4193724,2024-01-01T20:00:00Z,True,Liverpool,8650,Newcastle United,10261
+4193729,20,/matches/west-ham-united-vs-brighton-hove-albion/2xvimt#4193729,2024-01-02T19:30:00Z,True,West Ham United,8654,Brighton & Hove Albion,10204
+4193735,21,/matches/burnley-vs-luton-town/29f34v#4193735,2024-01-12T19:45:00Z,True,Burnley,8191,Luton Town,8346
+4193736,21,/matches/chelsea-vs-fulham/2s2omg#4193736,2024-01-13T12:30:00Z,True,Chelsea,8455,Fulham,9879
+4193739,21,/matches/manchester-city-vs-newcastle-united/2waqez#4193739,2024-01-13T17:30:00Z,True,Newcastle United,10261,Manchester City,8456
+4193737,21,/matches/everton-vs-aston-villa/2ykmb4#4193737,2024-01-14T14:00:00Z,True,Everton,8668,Aston Villa,10252
+4193738,21,/matches/tottenham-hotspur-vs-manchester-united/2xqo0r#4193738,2024-01-14T16:30:00Z,True,Manchester United,10260,Tottenham Hotspur,8586
+4193732,21,/matches/arsenal-vs-crystal-palace/36ytc8#4193732,2024-01-20T12:30:00Z,True,Arsenal,9825,Crystal Palace,9826
+4193733,21,/matches/brentford-vs-nottingham-forest/3crchb#4193733,2024-01-20T17:30:00Z,True,Brentford,9937,Nottingham Forest,10203
+4193740,21,/matches/west-ham-united-vs-sheffield-united/2h7v29#4193740,2024-01-21T14:00:00Z,True,Sheffield United,8657,West Ham United,8654
+4193731,21,/matches/liverpool-vs-afc-bournemouth/2he69q#4193731,2024-01-21T16:30:00Z,True,AFC Bournemouth,8678,Liverpool,8650
+4193734,21,/matches/wolverhampton-wanderers-vs-brighton-hove-albion/2xaiyv#4193734,2024-01-22T19:45:00Z,True,Brighton & Hove Albion,10204,Wolverhampton Wanderers,8602
+4193744,22,/matches/arsenal-vs-nottingham-forest/3bf4p3#4193744,2024-01-30T19:30:00Z,True,Nottingham Forest,10203,Arsenal,9825
+4193742,22,/matches/everton-vs-fulham/2uevfp#4193742,2024-01-30T19:45:00Z,True,Fulham,9879,Everton,8668
+4193743,22,/matches/luton-town-vs-brighton-hove-albion/2ug16v#4193743,2024-01-30T19:45:00Z,True,Luton Town,8346,Brighton & Hove Albion,10204
+4193748,22,/matches/sheffield-united-vs-crystal-palace/2tph1s#4193748,2024-01-30T20:00:00Z,True,Crystal Palace,9826,Sheffield United,8657
+4193741,22,/matches/aston-villa-vs-newcastle-united/3h9v0m#4193741,2024-01-30T20:15:00Z,True,Aston Villa,10252,Newcastle United,10261
+4193750,22,/matches/burnley-vs-manchester-city/2ai7j8#4193750,2024-01-31T19:30:00Z,True,Manchester City,8456,Burnley,8191
+4193745,22,/matches/tottenham-hotspur-vs-brentford/2u5c8b#4193745,2024-01-31T19:30:00Z,True,Tottenham Hotspur,8586,Brentford,9937
+4193749,22,/matches/chelsea-vs-liverpool/2f3vr7#4193749,2024-01-31T20:15:00Z,True,Liverpool,8650,Chelsea,8455
+4193746,22,/matches/west-ham-united-vs-afc-bournemouth/2hfnrc#4193746,2024-02-01T19:30:00Z,True,West Ham United,8654,AFC Bournemouth,8678
+4193747,22,/matches/wolverhampton-wanderers-vs-manchester-united/2xx4sz#4193747,2024-02-01T20:15:00Z,True,Wolverhampton Wanderers,8602,Manchester United,10260
+4193757,23,/matches/tottenham-hotspur-vs-everton/2gmqxt#4193757,2024-02-03T12:30:00Z,True,Everton,8668,Tottenham Hotspur,8586
+4193754,23,/matches/crystal-palace-vs-brighton-hove-albion/3bfzlv#4193754,2024-02-03T15:00:00Z,True,Brighton & Hove Albion,10204,Crystal Palace,9826
+4193755,23,/matches/burnley-vs-fulham/2p7opg#4193755,2024-02-03T15:00:00Z,True,Burnley,8191,Fulham,9879
+4193759,23,/matches/luton-town-vs-newcastle-united/2v2qbm#4193759,2024-02-03T15:00:00Z,True,Newcastle United,10261,Luton Town,8346
+4193760,23,/matches/sheffield-united-vs-aston-villa/2yg5r8#4193760,2024-02-03T17:30:00Z,True,Sheffield United,8657,Aston Villa,10252
+4193751,23,/matches/afc-bournemouth-vs-nottingham-forest/2y4tjb#4193751,2024-02-04T14:00:00Z,True,AFC Bournemouth,8678,Nottingham Forest,10203
+4193756,23,/matches/chelsea-vs-wolverhampton-wanderers/2emb2j#4193756,2024-02-04T14:00:00Z,True,Chelsea,8455,Wolverhampton Wanderers,8602
+4193758,23,/matches/west-ham-united-vs-manchester-united/2yi6pt#4193758,2024-02-04T14:00:00Z,True,Manchester United,10260,West Ham United,8654
+4193752,23,/matches/liverpool-vs-arsenal/2tmaz7#4193752,2024-02-04T16:30:00Z,True,Arsenal,9825,Liverpool,8650
+4193753,23,/matches/manchester-city-vs-brentford/2spwom#4193753,2024-02-05T20:00:00Z,True,Brentford,9937,Manchester City,8456
+4193766,24,/matches/manchester-city-vs-everton/2fauom#4193766,2024-02-10T12:30:00Z,True,Manchester City,8456,Everton,8668
+4193763,24,/matches/afc-bournemouth-vs-fulham/2uiul6#4193763,2024-02-10T15:00:00Z,True,Fulham,9879,AFC Bournemouth,8678
+4193764,24,/matches/burnley-vs-liverpool/2cfu6v#4193764,2024-02-10T15:00:00Z,True,Liverpool,8650,Burnley,8191
+4193765,24,/matches/luton-town-vs-sheffield-united/2e2lib#4193765,2024-02-10T15:00:00Z,True,Luton Town,8346,Sheffield United,8657
+4193768,24,/matches/tottenham-hotspur-vs-brighton-hove-albion/2x42vj#4193768,2024-02-10T15:00:00Z,True,Tottenham Hotspur,8586,Brighton & Hove Albion,10204
+4193770,24,/matches/wolverhampton-wanderers-vs-brentford/2ubp0j#4193770,2024-02-10T15:00:00Z,True,Wolverhampton Wanderers,8602,Brentford,9937
+4193767,24,/matches/nottingham-forest-vs-newcastle-united/3gocct#4193767,2024-02-10T17:30:00Z,True,Nottingham Forest,10203,Newcastle United,10261
+4193769,24,/matches/west-ham-united-vs-arsenal/2tnw09#4193769,2024-02-11T14:00:00Z,True,West Ham United,8654,Arsenal,9825
+4193761,24,/matches/aston-villa-vs-manchester-united/3h9f6s#4193761,2024-02-11T16:30:00Z,True,Aston Villa,10252,Manchester United,10260
+4193762,24,/matches/chelsea-vs-crystal-palace/2rhvvj#4193762,2024-02-12T20:00:00Z,True,Crystal Palace,9826,Chelsea,8455
+4193771,25,/matches/liverpool-vs-brentford/2uusjv#4193771,2024-02-17T12:30:00Z,True,Brentford,9937,Liverpool,8650
+4193772,25,/matches/burnley-vs-arsenal/2omsup#4193772,2024-02-17T15:00:00Z,True,Burnley,8191,Arsenal,9825
+4193774,25,/matches/fulham-vs-aston-villa/3cnglp#4193774,2024-02-17T15:00:00Z,True,Fulham,9879,Aston Villa,10252
+4193777,25,/matches/afc-bournemouth-vs-newcastle-united/2ysbu8#4193777,2024-02-17T15:00:00Z,True,Newcastle United,10261,AFC Bournemouth,8678
+4193778,25,/matches/west-ham-united-vs-nottingham-forest/2xv42z#4193778,2024-02-17T15:00:00Z,True,Nottingham Forest,10203,West Ham United,8654
+4193780,25,/matches/tottenham-hotspur-vs-wolverhampton-wanderers/2fydv8#4193780,2024-02-17T15:00:00Z,True,Tottenham Hotspur,8586,Wolverhampton Wanderers,8602
+4193776,25,/matches/chelsea-vs-manchester-city/2d55kw#4193776,2024-02-17T17:30:00Z,True,Manchester City,8456,Chelsea,8455
+4193779,25,/matches/sheffield-united-vs-brighton-hove-albion/2xwqak#4193779,2024-02-18T14:00:00Z,True,Sheffield United,8657,Brighton & Hove Albion,10204
+4193775,25,/matches/luton-town-vs-manchester-united/2v2byr#4193775,2024-02-18T16:30:00Z,True,Luton Town,8346,Manchester United,10260
+4193773,25,/matches/everton-vs-crystal-palace/2tttz7#4193773,2024-02-19T20:00:00Z,True,Everton,8668,Crystal Palace,9826
+4193787,26,/matches/luton-town-vs-liverpool/2e01ok#4193787,2024-02-21T19:30:00Z,True,Liverpool,8650,Luton Town,8346
+4193783,26,/matches/nottingham-forest-vs-aston-villa/3gke9k#4193783,2024-02-24T15:00:00Z,True,Aston Villa,10252,Nottingham Forest,10203
+4193784,26,/matches/everton-vs-brighton-hove-albion/2y16fs#4193784,2024-02-24T15:00:00Z,True,Brighton & Hove Albion,10204,Everton,8668
+4193786,26,/matches/burnley-vs-crystal-palace/2on6r7#4193786,2024-02-24T15:00:00Z,True,Crystal Palace,9826,Burnley,8191
+4193788,26,/matches/fulham-vs-manchester-united/3cqww9#4193788,2024-02-24T15:00:00Z,True,Manchester United,10260,Fulham,9879
+4193781,26,/matches/manchester-city-vs-afc-bournemouth/2feiv3#4193781,2024-02-24T17:30:00Z,True,AFC Bournemouth,8678,Manchester City,8456
+4193782,26,/matches/arsenal-vs-newcastle-united/3c42by#4193782,2024-02-24T20:00:00Z,True,Arsenal,9825,Newcastle United,10261
+4193790,26,/matches/wolverhampton-wanderers-vs-sheffield-united/2golib#4193790,2024-02-25T13:30:00Z,True,Wolverhampton Wanderers,8602,Sheffield United,8657
+4193789,26,/matches/west-ham-united-vs-brentford/2uwdxd#4193789,2024-02-26T20:00:00Z,True,West Ham United,8654,Brentford,9937
+4193785,26,/matches/chelsea-vs-tottenham-hotspur/2eggkj#4193785,2024-05-02T18:30:00Z,True,Chelsea,8455,Tottenham Hotspur,8586
+4193791,27,/matches/chelsea-vs-brentford/2spihp#4193791,2024-03-02T15:00:00Z,True,Brentford,9937,Chelsea,8455
+4193793,27,/matches/west-ham-united-vs-everton/2hby1v#4193793,2024-03-02T15:00:00Z,True,Everton,8668,West Ham United,8654
+4193794,27,/matches/fulham-vs-brighton-hove-albion/3c2rvp#4193794,2024-03-02T15:00:00Z,True,Fulham,9879,Brighton & Hove Albion,10204
+4193797,27,/matches/wolverhampton-wanderers-vs-newcastle-united/2xxjcy#4193797,2024-03-02T15:00:00Z,True,Newcastle United,10261,Wolverhampton Wanderers,8602
+4193798,27,/matches/liverpool-vs-nottingham-forest/2xthvt#4193798,2024-03-02T15:00:00Z,True,Nottingham Forest,10203,Liverpool,8650
+4193800,27,/matches/tottenham-hotspur-vs-crystal-palace/2sxee8#4193800,2024-03-02T15:00:00Z,True,Tottenham Hotspur,8586,Crystal Palace,9826
+4193795,27,/matches/luton-town-vs-aston-villa/2uz54v#4193795,2024-03-02T17:30:00Z,True,Luton Town,8346,Aston Villa,10252
+4193792,27,/matches/burnley-vs-afc-bournemouth/2cpydh#4193792,2024-03-03T13:00:00Z,True,Burnley,8191,AFC Bournemouth,8678
+4193796,27,/matches/manchester-city-vs-manchester-united/2wabz2#4193796,2024-03-03T15:30:00Z,True,Manchester City,8456,Manchester United,10260
+4193799,27,/matches/sheffield-united-vs-arsenal/2tp2sc#4193799,2024-03-04T20:00:00Z,True,Sheffield United,8657,Arsenal,9825
+4193808,28,/matches/everton-vs-manchester-united/2ynv4k#4193808,2024-03-09T12:30:00Z,True,Manchester United,10260,Everton,8668
+4193801,28,/matches/sheffield-united-vs-afc-bournemouth/2hgrvu#4193801,2024-03-09T15:00:00Z,True,AFC Bournemouth,8678,Sheffield United,8657
+4193806,28,/matches/luton-town-vs-crystal-palace/2qbaw8#4193806,2024-03-09T15:00:00Z,True,Crystal Palace,9826,Luton Town,8346
+4193810,28,/matches/wolverhampton-wanderers-vs-fulham/2tookg#4193810,2024-03-09T15:00:00Z,True,Wolverhampton Wanderers,8602,Fulham,9879
+4193802,28,/matches/arsenal-vs-brentford/389pak#4193802,2024-03-09T17:30:00Z,True,Arsenal,9825,Brentford,9937
+4193803,28,/matches/tottenham-hotspur-vs-aston-villa/2xnfpj#4193803,2024-03-10T13:00:00Z,True,Aston Villa,10252,Tottenham Hotspur,8586
+4193804,28,/matches/nottingham-forest-vs-brighton-hove-albion/3fzdi8#4193804,2024-03-10T14:00:00Z,True,Brighton & Hove Albion,10204,Nottingham Forest,10203
+4193809,28,/matches/burnley-vs-west-ham-united/2cha6h#4193809,2024-03-10T14:00:00Z,True,West Ham United,8654,Burnley,8191
+4193807,28,/matches/manchester-city-vs-liverpool/2f48yd#4193807,2024-03-10T15:45:00Z,True,Liverpool,8650,Manchester City,8456
+4193805,28,/matches/chelsea-vs-newcastle-united/2wabz1#4193805,2024-03-11T20:00:00Z,True,Chelsea,8455,Newcastle United,10261
+4193813,29,/matches/burnley-vs-brentford/2pu6rd#4193813,2024-03-16T15:00:00Z,True,Burnley,8191,Brentford,9937
+4193817,29,/matches/luton-town-vs-nottingham-forest/2ufmvl#4193817,2024-03-16T15:00:00Z,True,Luton Town,8346,Nottingham Forest,10203
+4193816,29,/matches/tottenham-hotspur-vs-fulham/2tici0#4193816,2024-03-16T17:30:00Z,True,Fulham,9879,Tottenham Hotspur,8586
+4193819,29,/matches/west-ham-united-vs-aston-villa/2yexzh#4193819,2024-03-17T14:00:00Z,True,West Ham United,8654,Aston Villa,10252
+4193811,29,/matches/chelsea-vs-arsenal/2rhhrp#4193811,2024-04-23T19:00:00Z,True,Arsenal,9825,Chelsea,8455
+4193820,29,/matches/wolverhampton-wanderers-vs-afc-bournemouth/2gwdd2#4193820,2024-04-24T18:45:00Z,True,Wolverhampton Wanderers,8602,AFC Bournemouth,8678
+4193814,29,/matches/crystal-palace-vs-newcastle-united/3c4hty#4193814,2024-04-24T19:00:00Z,True,Crystal Palace,9826,Newcastle United,10261
+4193815,29,/matches/liverpool-vs-everton/2hagld#4193815,2024-04-24T19:00:00Z,True,Everton,8668,Liverpool,8650
+4193818,29,/matches/sheffield-united-vs-manchester-united/2yjei8#4193818,2024-04-24T19:00:00Z,True,Manchester United,10260,Sheffield United,8657
+4193812,29,/matches/manchester-city-vs-brighton-hove-albion/2vnwg2#4193812,2024-04-25T19:00:00Z,True,Brighton & Hove Albion,10204,Manchester City,8456
+4193485,3,/matches/luton-town-vs-chelsea/2c1euw#4193485,2023-08-25T19:00:00Z,True,Chelsea,8455,Luton Town,8346
+4193480,3,/matches/tottenham-hotspur-vs-afc-bournemouth/2gqg4e#4193480,2023-08-26T11:30:00Z,True,AFC Bournemouth,8678,Tottenham Hotspur,8586
+4193481,3,/matches/arsenal-vs-fulham/37l643#4193481,2023-08-26T14:00:00Z,True,Arsenal,9825,Fulham,9879
+4193482,3,/matches/crystal-palace-vs-brentford/38a4jj#4193482,2023-08-26T14:00:00Z,True,Brentford,9937,Crystal Palace,9826
+4193486,3,/matches/wolverhampton-wanderers-vs-everton/2gso21#4193486,2023-08-26T14:00:00Z,True,Everton,8668,Wolverhampton Wanderers,8602
+4193487,3,/matches/nottingham-forest-vs-manchester-united/3gnwkc#4193487,2023-08-26T14:00:00Z,True,Manchester United,10260,Nottingham Forest,10203
+4193483,3,/matches/west-ham-united-vs-brighton-hove-albion/2xvimt#4193483,2023-08-26T16:30:00Z,True,Brighton & Hove Albion,10204,West Ham United,8654
+4193484,3,/matches/burnley-vs-aston-villa/2t9lxd#4193484,2023-08-27T13:00:00Z,True,Burnley,8191,Aston Villa,10252
+4193489,3,/matches/manchester-city-vs-sheffield-united/2f6tdi#4193489,2023-08-27T13:00:00Z,True,Sheffield United,8657,Manchester City,8456
+4193488,3,/matches/liverpool-vs-newcastle-united/2ygyxm#4193488,2023-08-27T15:30:00Z,True,Newcastle United,10261,Liverpool,8650
+4193827,30,/matches/west-ham-united-vs-newcastle-united/2yilb8#4193827,2024-03-30T12:30:00Z,True,Newcastle United,10261,West Ham United,8654
+4193821,30,/matches/everton-vs-afc-bournemouth/2hkv2h#4193821,2024-03-30T15:00:00Z,True,AFC Bournemouth,8678,Everton,8668
+4193824,30,/matches/burnley-vs-chelsea/2ahuos#4193824,2024-03-30T15:00:00Z,True,Chelsea,8455,Burnley,8191
+4193828,30,/matches/crystal-palace-vs-nottingham-forest/3bfk5h#4193828,2024-03-30T15:00:00Z,True,Nottingham Forest,10203,Crystal Palace,9826
+4193829,30,/matches/sheffield-united-vs-fulham/2uai23#4193829,2024-03-30T15:00:00Z,True,Sheffield United,8657,Fulham,9879
+4193830,30,/matches/luton-town-vs-tottenham-hotspur/2dcrvo#4193830,2024-03-30T15:00:00Z,True,Tottenham Hotspur,8586,Luton Town,8346
+4193822,30,/matches/wolverhampton-wanderers-vs-aston-villa/2xtwe7#4193822,2024-03-30T17:30:00Z,True,Aston Villa,10252,Wolverhampton Wanderers,8602
+4193823,30,/matches/brentford-vs-manchester-united/3dfzjk#4193823,2024-03-30T20:00:00Z,True,Brentford,9937,Manchester United,10260
+4193825,30,/matches/liverpool-vs-brighton-hove-albion/2xtwfj#4193825,2024-03-31T13:00:00Z,True,Liverpool,8650,Brighton & Hove Albion,10204
+4193826,30,/matches/manchester-city-vs-arsenal/2rhvvi#4193826,2024-03-31T15:30:00Z,True,Manchester City,8456,Arsenal,9825
+4193838,31,/matches/everton-vs-newcastle-united/2yo9qd#4193838,2024-04-02T18:30:00Z,True,Newcastle United,10261,Everton,8668
+4193835,31,/matches/fulham-vs-nottingham-forest/3c2cdu#4193835,2024-04-02T18:30:00Z,True,Nottingham Forest,10203,Fulham,9879
+4193831,31,/matches/afc-bournemouth-vs-crystal-palace/2txspy#4193831,2024-04-02T18:45:00Z,True,AFC Bournemouth,8678,Crystal Palace,9826
+4193834,31,/matches/burnley-vs-wolverhampton-wanderers/2byja7#4193834,2024-04-02T18:45:00Z,True,Burnley,8191,Wolverhampton Wanderers,8602
+4193836,31,/matches/tottenham-hotspur-vs-west-ham-united/2ghkm2#4193836,2024-04-02T19:15:00Z,True,West Ham United,8654,Tottenham Hotspur,8586
+4193832,31,/matches/luton-town-vs-arsenal/2qawvf#4193832,2024-04-03T18:30:00Z,True,Arsenal,9825,Luton Town,8346
+4193833,31,/matches/brentford-vs-brighton-hove-albion/3crs0s#4193833,2024-04-03T18:30:00Z,True,Brentford,9937,Brighton & Hove Albion,10204
+4193840,31,/matches/manchester-city-vs-aston-villa/2w74gq#4193840,2024-04-03T19:15:00Z,True,Manchester City,8456,Aston Villa,10252
+4193839,31,/matches/liverpool-vs-sheffield-united/2h6dmz#4193839,2024-04-04T18:30:00Z,True,Liverpool,8650,Sheffield United,8657
+4193837,31,/matches/chelsea-vs-manchester-united/2w9xj5#4193837,2024-04-04T19:15:00Z,True,Chelsea,8455,Manchester United,10260
+4193843,32,/matches/manchester-city-vs-crystal-palace/2ri9zd#4193843,2024-04-06T11:30:00Z,True,Crystal Palace,9826,Manchester City,8456
+4193841,32,/matches/brentford-vs-aston-villa/3dciw4#4193841,2024-04-06T14:00:00Z,True,Aston Villa,10252,Brentford,9937
+4193844,32,/matches/burnley-vs-everton/2cmc8m#4193844,2024-04-06T14:00:00Z,True,Everton,8668,Burnley,8191
+4193845,32,/matches/fulham-vs-newcastle-united/3crcfp#4193845,2024-04-06T14:00:00Z,True,Fulham,9879,Newcastle United,10261
+4193846,32,/matches/luton-town-vs-afc-bournemouth/2ea97q#4193846,2024-04-06T14:00:00Z,True,Luton Town,8346,AFC Bournemouth,8678
+4193850,32,/matches/wolverhampton-wanderers-vs-west-ham-united/2gnhk2#4193850,2024-04-06T14:00:00Z,True,Wolverhampton Wanderers,8602,West Ham United,8654
+4193842,32,/matches/arsenal-vs-brighton-hove-albion/3bfk5g#4193842,2024-04-06T16:30:00Z,True,Brighton & Hove Albion,10204,Arsenal,9825
+4193847,32,/matches/liverpool-vs-manchester-united/2ygkcb#4193847,2024-04-07T14:30:00Z,True,Manchester United,10260,Liverpool,8650
+4193848,32,/matches/chelsea-vs-sheffield-united/2f6g65#4193848,2024-04-07T16:30:00Z,True,Sheffield United,8657,Chelsea,8455
+4193849,32,/matches/tottenham-hotspur-vs-nottingham-forest/2x3odl#4193849,2024-04-07T17:00:00Z,True,Tottenham Hotspur,8586,Nottingham Forest,10203
+4193858,33,/matches/tottenham-hotspur-vs-newcastle-united/2xr2ka#4193858,2024-04-13T11:30:00Z,True,Newcastle United,10261,Tottenham Hotspur,8586
+4193853,33,/matches/sheffield-united-vs-brentford/2uxkys#4193853,2024-04-13T14:00:00Z,True,Brentford,9937,Sheffield United,8657
+4193854,33,/matches/burnley-vs-brighton-hove-albion/2sqnq1#4193854,2024-04-13T14:00:00Z,True,Burnley,8191,Brighton & Hove Albion,10204
+4193857,33,/matches/luton-town-vs-manchester-city/2c1rtn#4193857,2024-04-13T14:00:00Z,True,Manchester City,8456,Luton Town,8346
+4193859,33,/matches/wolverhampton-wanderers-vs-nottingham-forest/2xa4gh#4193859,2024-04-13T14:00:00Z,True,Nottingham Forest,10203,Wolverhampton Wanderers,8602
+4193851,33,/matches/afc-bournemouth-vs-manchester-united/2yrx85#4193851,2024-04-13T16:30:00Z,True,AFC Bournemouth,8678,Manchester United,10260
+4193856,33,/matches/liverpool-vs-crystal-palace/2tmp8g#4193856,2024-04-14T13:00:00Z,True,Liverpool,8650,Crystal Palace,9826
+4193860,33,/matches/west-ham-united-vs-fulham/2u9b5i#4193860,2024-04-14T13:00:00Z,True,West Ham United,8654,Fulham,9879
+4193852,33,/matches/arsenal-vs-aston-villa/3c06vg#4193852,2024-04-14T15:30:00Z,True,Arsenal,9825,Aston Villa,10252
+4193855,33,/matches/chelsea-vs-everton/2fahgy#4193855,2024-04-15T19:00:00Z,True,Chelsea,8455,Everton,8668
+4193866,34,/matches/luton-town-vs-brentford/2rio6b#4193866,2024-04-20T14:00:00Z,True,Luton Town,8346,Brentford,9937
+4193868,34,/matches/burnley-vs-sheffield-united/2cid6h#4193868,2024-04-20T14:00:00Z,True,Sheffield United,8657,Burnley,8191
+4193870,34,/matches/wolverhampton-wanderers-vs-arsenal/2t3bl7#4193870,2024-04-20T18:30:00Z,True,Wolverhampton Wanderers,8602,Arsenal,9825
+4193864,34,/matches/everton-vs-nottingham-forest/2y0rvk#4193864,2024-04-21T12:30:00Z,True,Everton,8668,Nottingham Forest,10203
+4193861,34,/matches/afc-bournemouth-vs-aston-villa/2yooch#4193861,2024-04-21T14:00:00Z,True,Aston Villa,10252,AFC Bournemouth,8678
+4193863,34,/matches/west-ham-united-vs-crystal-palace/2toa9m#4193863,2024-04-21T14:00:00Z,True,Crystal Palace,9826,West Ham United,8654
+4193865,34,/matches/liverpool-vs-fulham/2u7pyg#4193865,2024-04-21T15:30:00Z,True,Fulham,9879,Liverpool,8650
+4193869,34,/matches/manchester-city-vs-tottenham-hotspur/2egtpx#4193869,2024-05-14T19:00:00Z,True,Tottenham Hotspur,8586,Manchester City,8456
+4193862,34,/matches/chelsea-vs-brighton-hove-albion/2vni1p#4193862,2024-05-15T18:45:00Z,True,Brighton & Hove Albion,10204,Chelsea,8455
+4193867,34,/matches/manchester-united-vs-newcastle-united/3hddo2#4193867,2024-05-15T19:00:00Z,True,Manchester United,10260,Newcastle United,10261
+4193879,35,/matches/liverpool-vs-west-ham-united/2h59kq#4193879,2024-04-27T11:30:00Z,True,West Ham United,8654,Liverpool,8650
+4193874,35,/matches/crystal-palace-vs-fulham/37llbg#4193874,2024-04-27T14:00:00Z,True,Fulham,9879,Crystal Palace,9826
+4193875,35,/matches/burnley-vs-manchester-united/2tcrst#4193875,2024-04-27T14:00:00Z,True,Manchester United,10260,Burnley,8191
+4193876,35,/matches/sheffield-united-vs-newcastle-united/2yjt3q#4193876,2024-04-27T14:00:00Z,True,Newcastle United,10261,Sheffield United,8657
+4193880,35,/matches/luton-town-vs-wolverhampton-wanderers/2dil18#4193880,2024-04-27T14:00:00Z,True,Wolverhampton Wanderers,8602,Luton Town,8346
+4193873,35,/matches/everton-vs-brentford/2v1yu4#4193873,2024-04-27T16:30:00Z,True,Everton,8668,Brentford,9937
+4193872,35,/matches/chelsea-vs-aston-villa/2w6q11#4193872,2024-04-27T19:00:00Z,True,Aston Villa,10252,Chelsea,8455
+4193871,35,/matches/afc-bournemouth-vs-brighton-hove-albion/2y583t#4193871,2024-04-28T13:00:00Z,True,AFC Bournemouth,8678,Brighton & Hove Albion,10204
+4193878,35,/matches/tottenham-hotspur-vs-arsenal/2sx06r#4193878,2024-04-28T13:00:00Z,True,Tottenham Hotspur,8586,Arsenal,9825
+4193877,35,/matches/manchester-city-vs-nottingham-forest/2vni1q#4193877,2024-04-28T15:30:00Z,True,Nottingham Forest,10203,Manchester City,8456
+4193888,36,/matches/luton-town-vs-everton/2e6lvt#4193888,2024-05-03T19:00:00Z,True,Luton Town,8346,Everton,8668
+4193881,36,/matches/afc-bournemouth-vs-arsenal/2txefx#4193881,2024-05-04T11:30:00Z,True,Arsenal,9825,AFC Bournemouth,8678
+4193882,36,/matches/fulham-vs-brentford/38wlut#4193882,2024-05-04T14:00:00Z,True,Brentford,9937,Fulham,9879
+4193884,36,/matches/burnley-vs-newcastle-united/2td61d#4193884,2024-05-04T14:00:00Z,True,Burnley,8191,Newcastle United,10261
+4193890,36,/matches/sheffield-united-vs-nottingham-forest/2xwbqn#4193890,2024-05-04T14:00:00Z,True,Sheffield United,8657,Nottingham Forest,10203
+4193889,36,/matches/manchester-city-vs-wolverhampton-wanderers/2emo8d#4193889,2024-05-04T16:30:00Z,True,Manchester City,8456,Wolverhampton Wanderers,8602
+4193883,36,/matches/brighton-hove-albion-vs-aston-villa/3gku1s#4193883,2024-05-05T13:00:00Z,True,Brighton & Hove Albion,10204,Aston Villa,10252
+4193885,36,/matches/chelsea-vs-west-ham-united/2f5ck5#4193885,2024-05-05T13:00:00Z,True,Chelsea,8455,West Ham United,8654
+4193887,36,/matches/tottenham-hotspur-vs-liverpool/2gg3ek#4193887,2024-05-05T15:30:00Z,True,Liverpool,8650,Tottenham Hotspur,8586
+4193886,36,/matches/crystal-palace-vs-manchester-united/3c42bz#4193886,2024-05-06T19:00:00Z,True,Crystal Palace,9826,Manchester United,10260
+4193894,37,/matches/manchester-city-vs-fulham/2s32rr#4193894,2024-05-11T11:30:00Z,True,Fulham,9879,Manchester City,8456
+4193891,37,/matches/afc-bournemouth-vs-brentford/2v5yfp#4193891,2024-05-11T14:00:00Z,True,AFC Bournemouth,8678,Brentford,9937
+4193893,37,/matches/sheffield-united-vs-everton/2hd25j#4193893,2024-05-11T14:00:00Z,True,Everton,8668,Sheffield United,8657
+4193896,37,/matches/brighton-hove-albion-vs-newcastle-united/3gos5a#4193896,2024-05-11T14:00:00Z,True,Newcastle United,10261,Brighton & Hove Albion,10204
+4193898,37,/matches/burnley-vs-tottenham-hotspur/2bss1j#4193898,2024-05-11T14:00:00Z,True,Tottenham Hotspur,8586,Burnley,8191
+4193899,37,/matches/luton-town-vs-west-ham-united/2e1i5e#4193899,2024-05-11T14:00:00Z,True,West Ham United,8654,Luton Town,8346
+4193900,37,/matches/wolverhampton-wanderers-vs-crystal-palace/2t3pt4#4193900,2024-05-11T14:00:00Z,True,Wolverhampton Wanderers,8602,Crystal Palace,9826
+4193897,37,/matches/chelsea-vs-nottingham-forest/2vn3ne#4193897,2024-05-11T16:30:00Z,True,Nottingham Forest,10203,Chelsea,8455
+4193895,37,/matches/arsenal-vs-manchester-united/3c3mu0#4193895,2024-05-12T15:30:00Z,True,Manchester United,10260,Arsenal,9825
+4193892,37,/matches/liverpool-vs-aston-villa/2ydbmv#4193892,2024-05-13T19:00:00Z,True,Aston Villa,10252,Liverpool,8650
+4193901,38,/matches/everton-vs-arsenal/2ttfpg#4193901,2024-05-19T15:00:00Z,True,Arsenal,9825,Everton,8668
+4193902,38,/matches/brentford-vs-newcastle-united/3dgf4m#4193902,2024-05-19T15:00:00Z,True,Brentford,9937,Newcastle United,10261
+4193903,38,/matches/brighton-hove-albion-vs-manchester-united/3goccs#4193903,2024-05-19T15:00:00Z,True,Brighton & Hove Albion,10204,Manchester United,10260
+4193904,38,/matches/burnley-vs-nottingham-forest/2sq9j2#4193904,2024-05-19T15:00:00Z,True,Burnley,8191,Nottingham Forest,10203
+4193905,38,/matches/chelsea-vs-afc-bournemouth/2fe5n5#4193905,2024-05-19T15:00:00Z,True,Chelsea,8455,AFC Bournemouth,8678
+4193906,38,/matches/crystal-palace-vs-aston-villa/3c0md7#4193906,2024-05-19T15:00:00Z,True,Crystal Palace,9826,Aston Villa,10252
+4193907,38,/matches/wolverhampton-wanderers-vs-liverpool/2gm0as#4193907,2024-05-19T15:00:00Z,True,Liverpool,8650,Wolverhampton Wanderers,8602
+4193908,38,/matches/luton-town-vs-fulham/2qvz6o#4193908,2024-05-19T15:00:00Z,True,Luton Town,8346,Fulham,9879
+4193909,38,/matches/manchester-city-vs-west-ham-united/2f5prf#4193909,2024-05-19T15:00:00Z,True,Manchester City,8456,West Ham United,8654
+4193910,38,/matches/tottenham-hotspur-vs-sheffield-united/2gioiz#4193910,2024-05-19T15:00:00Z,True,Sheffield United,8657,Tottenham Hotspur,8586
+4193497,4,/matches/luton-town-vs-west-ham-united/2e1i5e#4193497,2023-09-01T19:00:00Z,True,Luton Town,8346,West Ham United,8654
+4193499,4,/matches/sheffield-united-vs-everton/2hd25j#4193499,2023-09-02T11:30:00Z,True,Sheffield United,8657,Everton,8668
+4193491,4,/matches/afc-bournemouth-vs-brentford/2v5yfp#4193491,2023-09-02T14:00:00Z,True,Brentford,9937,AFC Bournemouth,8678
+4193493,4,/matches/burnley-vs-tottenham-hotspur/2bss1j#4193493,2023-09-02T14:00:00Z,True,Burnley,8191,Tottenham Hotspur,8586
+4193494,4,/matches/chelsea-vs-nottingham-forest/2vn3ne#4193494,2023-09-02T14:00:00Z,True,Chelsea,8455,Nottingham Forest,10203
+4193498,4,/matches/manchester-city-vs-fulham/2s32rr#4193498,2023-09-02T14:00:00Z,True,Manchester City,8456,Fulham,9879
+4193492,4,/matches/brighton-hove-albion-vs-newcastle-united/3gos5a#4193492,2023-09-02T16:30:00Z,True,Brighton & Hove Albion,10204,Newcastle United,10261
+4193495,4,/matches/wolverhampton-wanderers-vs-crystal-palace/2t3pt4#4193495,2023-09-03T13:00:00Z,True,Crystal Palace,9826,Wolverhampton Wanderers,8602
+4193496,4,/matches/liverpool-vs-aston-villa/2ydbmv#4193496,2023-09-03T13:00:00Z,True,Liverpool,8650,Aston Villa,10252
+4193490,4,/matches/arsenal-vs-manchester-united/3c3mu0#4193490,2023-09-03T15:30:00Z,True,Arsenal,9825,Manchester United,10260
+4193509,5,/matches/wolverhampton-wanderers-vs-liverpool/2gm0as#4193509,2023-09-16T11:30:00Z,True,Wolverhampton Wanderers,8602,Liverpool,8650
+4193501,5,/matches/crystal-palace-vs-aston-villa/3c0md7#4193501,2023-09-16T14:00:00Z,True,Aston Villa,10252,Crystal Palace,9826
+4193503,5,/matches/luton-town-vs-fulham/2qvz6o#4193503,2023-09-16T14:00:00Z,True,Fulham,9879,Luton Town,8346
+4193504,5,/matches/brighton-hove-albion-vs-manchester-united/3goccs#4193504,2023-09-16T14:00:00Z,True,Manchester United,10260,Brighton & Hove Albion,10204
+4193507,5,/matches/tottenham-hotspur-vs-sheffield-united/2gioiz#4193507,2023-09-16T14:00:00Z,True,Tottenham Hotspur,8586,Sheffield United,8657
+4193508,5,/matches/manchester-city-vs-west-ham-united/2f5prf#4193508,2023-09-16T14:00:00Z,True,West Ham United,8654,Manchester City,8456
+4193505,5,/matches/brentford-vs-newcastle-united/3dgf4m#4193505,2023-09-16T16:30:00Z,True,Newcastle United,10261,Brentford,9937
+4193500,5,/matches/chelsea-vs-afc-bournemouth/2fe5n5#4193500,2023-09-17T13:00:00Z,True,AFC Bournemouth,8678,Chelsea,8455
+4193502,5,/matches/everton-vs-arsenal/2ttfpg#4193502,2023-09-17T15:30:00Z,True,Everton,8668,Arsenal,9825
+4193506,5,/matches/burnley-vs-nottingham-forest/2sq9j2#4193506,2023-09-18T18:45:00Z,True,Nottingham Forest,10203,Burnley,8191
+4193515,6,/matches/crystal-palace-vs-fulham/37llbg#4193515,2023-09-23T14:00:00Z,True,Crystal Palace,9826,Fulham,9879
+4193517,6,/matches/luton-town-vs-wolverhampton-wanderers/2dil18#4193517,2023-09-23T14:00:00Z,True,Luton Town,8346,Wolverhampton Wanderers,8602
+4193518,6,/matches/manchester-city-vs-nottingham-forest/2vni1q#4193518,2023-09-23T14:00:00Z,True,Manchester City,8456,Nottingham Forest,10203
+4193511,6,/matches/everton-vs-brentford/2v1yu4#4193511,2023-09-23T16:30:00Z,True,Brentford,9937,Everton,8668
+4193513,6,/matches/burnley-vs-manchester-united/2tcrst#4193513,2023-09-23T19:00:00Z,True,Burnley,8191,Manchester United,10260
+4193510,6,/matches/tottenham-hotspur-vs-arsenal/2sx06r#4193510,2023-09-24T13:00:00Z,True,Arsenal,9825,Tottenham Hotspur,8586
+4193512,6,/matches/afc-bournemouth-vs-brighton-hove-albion/2y583t#4193512,2023-09-24T13:00:00Z,True,Brighton & Hove Albion,10204,AFC Bournemouth,8678
+4193514,6,/matches/chelsea-vs-aston-villa/2w6q11#4193514,2023-09-24T13:00:00Z,True,Chelsea,8455,Aston Villa,10252
+4193516,6,/matches/liverpool-vs-west-ham-united/2h59kq#4193516,2023-09-24T13:00:00Z,True,Liverpool,8650,West Ham United,8654
+4193519,6,/matches/sheffield-united-vs-newcastle-united/2yjt3q#4193519,2023-09-24T15:30:00Z,True,Sheffield United,8657,Newcastle United,10261
+4193521,7,/matches/brighton-hove-albion-vs-aston-villa/3gku1s#4193521,2023-09-30T11:30:00Z,True,Aston Villa,10252,Brighton & Hove Albion,10204
+4193520,7,/matches/afc-bournemouth-vs-arsenal/2txefx#4193520,2023-09-30T14:00:00Z,True,AFC Bournemouth,8678,Arsenal,9825
+4193522,7,/matches/luton-town-vs-everton/2e6lvt#4193522,2023-09-30T14:00:00Z,True,Everton,8668,Luton Town,8346
+4193524,7,/matches/crystal-palace-vs-manchester-united/3c42bz#4193524,2023-09-30T14:00:00Z,True,Manchester United,10260,Crystal Palace,9826
+4193525,7,/matches/burnley-vs-newcastle-united/2td61d#4193525,2023-09-30T14:00:00Z,True,Newcastle United,10261,Burnley,8191
+4193528,7,/matches/west-ham-united-vs-sheffield-united/2h7v29#4193528,2023-09-30T14:00:00Z,True,West Ham United,8654,Sheffield United,8657
+4193529,7,/matches/manchester-city-vs-wolverhampton-wanderers/2emo8d#4193529,2023-09-30T14:00:00Z,True,Wolverhampton Wanderers,8602,Manchester City,8456
+4193527,7,/matches/tottenham-hotspur-vs-liverpool/2gg3ek#4193527,2023-09-30T16:30:00Z,True,Tottenham Hotspur,8586,Liverpool,8650
+4193526,7,/matches/brentford-vs-nottingham-forest/3crchb#4193526,2023-10-01T13:00:00Z,True,Nottingham Forest,10203,Brentford,9937
+4193523,7,/matches/chelsea-vs-fulham/2s2omg#4193523,2023-10-02T19:00:00Z,True,Fulham,9879,Chelsea,8455
+4193536,8,/matches/luton-town-vs-tottenham-hotspur/2dcrvo#4193536,2023-10-07T11:30:00Z,True,Luton Town,8346,Tottenham Hotspur,8586
+4193532,8,/matches/burnley-vs-chelsea/2ahuos#4193532,2023-10-07T14:00:00Z,True,Burnley,8191,Chelsea,8455
+4193534,8,/matches/everton-vs-afc-bournemouth/2hkv2h#4193534,2023-10-07T14:00:00Z,True,Everton,8668,AFC Bournemouth,8678
+4193535,8,/matches/sheffield-united-vs-fulham/2uai23#4193535,2023-10-07T14:00:00Z,True,Fulham,9879,Sheffield United,8657
+4193537,8,/matches/brentford-vs-manchester-united/3dfzjk#4193537,2023-10-07T14:00:00Z,True,Manchester United,10260,Brentford,9937
+4193533,8,/matches/crystal-palace-vs-nottingham-forest/3bfk5h#4193533,2023-10-07T16:30:00Z,True,Crystal Palace,9826,Nottingham Forest,10203
+4193531,8,/matches/liverpool-vs-brighton-hove-albion/2xtwfj#4193531,2023-10-08T13:00:00Z,True,Brighton & Hove Albion,10204,Liverpool,8650
+4193538,8,/matches/west-ham-united-vs-newcastle-united/2yilb8#4193538,2023-10-08T13:00:00Z,True,West Ham United,8654,Newcastle United,10261
+4193539,8,/matches/wolverhampton-wanderers-vs-aston-villa/2xtwe7#4193539,2023-10-08T13:00:00Z,True,Wolverhampton Wanderers,8602,Aston Villa,10252
+4193530,8,/matches/manchester-city-vs-arsenal/2rhvvi#4193530,2023-10-08T15:30:00Z,True,Arsenal,9825,Manchester City,8456
+4193544,9,/matches/liverpool-vs-everton/2hagld#4193544,2023-10-21T11:30:00Z,True,Liverpool,8650,Everton,8668
+4193540,9,/matches/wolverhampton-wanderers-vs-afc-bournemouth/2gwdd2#4193540,2023-10-21T14:00:00Z,True,AFC Bournemouth,8678,Wolverhampton Wanderers,8602
+4193542,9,/matches/burnley-vs-brentford/2pu6rd#4193542,2023-10-21T14:00:00Z,True,Brentford,9937,Burnley,8191
+4193545,9,/matches/manchester-city-vs-brighton-hove-albion/2vnwg2#4193545,2023-10-21T14:00:00Z,True,Manchester City,8456,Brighton & Hove Albion,10204
+4193546,9,/matches/crystal-palace-vs-newcastle-united/3c4hty#4193546,2023-10-21T14:00:00Z,True,Newcastle United,10261,Crystal Palace,9826
+4193547,9,/matches/luton-town-vs-nottingham-forest/2ufmvl#4193547,2023-10-21T14:00:00Z,True,Nottingham Forest,10203,Luton Town,8346
+4193543,9,/matches/chelsea-vs-arsenal/2rhhrp#4193543,2023-10-21T16:30:00Z,True,Chelsea,8455,Arsenal,9825
+4193548,9,/matches/sheffield-united-vs-manchester-united/2yjei8#4193548,2023-10-21T19:00:00Z,True,Sheffield United,8657,Manchester United,10260
+4193541,9,/matches/west-ham-united-vs-aston-villa/2yexzh#4193541,2023-10-22T15:30:00Z,True,Aston Villa,10252,West Ham United,8654
+4193549,9,/matches/tottenham-hotspur-vs-fulham/2tici0#4193549,2023-10-23T19:00:00Z,True,Tottenham Hotspur,8586,Fulham,9879
